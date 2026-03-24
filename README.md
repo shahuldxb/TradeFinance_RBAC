@@ -19,7 +19,7 @@ This project focuses on implementing a Role-Based Access Control (RBAC) system t
 ## Getting Started
 1. Clone the repository.
 2. Install dependencies using `npm install`.
-3. Start the server with `npm start`.
+3. Start the server with `npm run dev`.
 
 ## Contributing
 Contributions are welcome! Please open issues or submit pull requests for any improvements or features.
