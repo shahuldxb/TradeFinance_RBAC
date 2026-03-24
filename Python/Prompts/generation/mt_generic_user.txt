@@ -1,0 +1,36 @@
+mt_message_type_hint: {resolved_mt_type}
+
+You must resolve the correct SWIFT MT message type yourself.
+Do NOT trust the hint if it conflicts with business intent.
+
+Determine the MT type using:
+- instrument_code
+- lifecycle_code
+- variation_code (if any)
+- business intent in the extracted data
+
+You must strictly follow the provided SWIFT configuration.
+
+EXTRACTED_DATA_JSON:
+{extracted_data_json}
+
+SWIFT_CONFIG_JSON:
+{swift_config_json}
+
+TASK (MANDATORY):
+- Generate ONE final SWIFT MT message
+- Use ONLY the fields defined for the resolved MT type in the configuration
+- Include ALL mandatory fields
+- Include optional fields ONLY if data exists and rules allow
+- Enforce ALL validation and dependency rules
+- Do NOT invent tags, values, or codewords
+- Do NOT restate unchanged information unless required
+- Follow exact SWIFT field formats and sequences
+- Output MUST contain blocks {1:}{2:}{3:}{4:}{5:}
+- If a mandatory value is missing, use MISSING_<TAG>
+
+OUTPUT:
+Return ONLY the final SWIFT MT message text.
+No explanations.
+No comments.
+No JSON.

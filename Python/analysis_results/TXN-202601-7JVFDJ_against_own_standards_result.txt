@@ -1,0 +1,257 @@
+MODE           : Mode 1 – Against Own Standards
+TRANSACTION ID : TXN-202601-7JVFDJ
+INSTRUMENT     : ILC
+LIFECYCLE      : issuance
+TIMESTAMP      : 2026-01-06 10:33:52.815223
+
+================================================================================
+
+RESPONSE
+--------------------------------------------------------------------------------
+### OUTPUT 1: DETAILED NARRATIVE (TEXT FORMAT)
+
+**DOCUMENT EXAMINED:** Import Letter of Credit (ILC) - Issuance/Advising Stage  
+**LC NUMBER:** CITI-DXB-2025-001122  
+**TOTAL ISSUES FOUND:** 6  
+
+---
+
+### ISSUE 1  
+**Discrepancy ID**: ILC-ISS-001  
+**Discrepancy Title**: Expiry Date is too close to the Latest Shipment Date  
+**Validation Rule**: Rule 1: Expiry Date vs Latest Shipment Date  
+**Discrepancy Type**: Date Conflict  
+**Severity Level**: High  
+**Source Reference**: Expiry Date and Latest Shipment Date  
+**Evidence**:  
+  - Field 1: Expiry Date: 15-Oct-2025  
+  - Field 2: Latest Shipment Date: 25-Sep-2025  
+**The Contradiction/Issue**: The gap between the Latest Shipment Date (25-Sep-2025) and the Expiry Date (15-Oct-2025) is only 20 days. While this is technically compliant with UCP 600, it is on the lower end of the recommended range (7-21 days). This leaves very little time for document preparation and presentation, especially considering the Presentation Period is 21 days.  
+**Why This Is Problematic**: The tight timeline increases the risk of non-compliance due to delays in document preparation or courier transit.  
+**Impact**: Beneficiary may fail to present documents within the validity of the credit.  
+**Remediation**:  
+[SINGLE-DOC] | Final LC/Expiry Date -> Final LC/Expiry Date -> Extend Expiry Date to at least 21-Oct-2025 to allow sufficient time for document presentation.  
+
+---
+
+### ISSUE 2  
+**Discrepancy ID**: ILC-ISS-002  
+**Discrepancy Title**: Presentation Period exceeds Expiry Date  
+**Validation Rule**: Rule 2: Presentation Period Calculation  
+**Discrepancy Type**: Calculation Error  
+**Severity Level**: Critical  
+**Source Reference**: Presentation Period and Expiry Date  
+**Evidence**:  
+  - Field 1: Presentation Period: Within 21 days after the date of shipment  
+  - Field 2: Expiry Date: 15-Oct-2025  
+  - Field 3: Latest Shipment Date: 25-Sep-2025  
+**The Contradiction/Issue**: The Presentation Period allows documents to be presented up to 16-Oct-2025 (25-Sep-2025 + 21 days), but the Expiry Date is 15-Oct-2025. This creates a logical impossibility, as the LC would expire before the end of the Presentation Period.  
+**Why This Is Problematic**: Beneficiary cannot comply with the LC terms, as documents presented on 16-Oct-2025 would be rejected due to the LC's expiry.  
+**Impact**: The LC is unworkable in its current form.  
+**Remediation**:  
+[SINGLE-DOC] | Final LC/Expiry Date -> Final LC/Expiry Date -> Extend Expiry Date to at least 16-Oct-2025 to align with the Presentation Period.  
+
+---
+
+### ISSUE 3  
+**Discrepancy ID**: ILC-ISS-003  
+**Discrepancy Title**: Insurance Coverage Clause Inadequate  
+**Validation Rule**: Rule 9: Insurance Coverage Adequacy  
+**Discrepancy Type**: Insurance Inadequacy  
+**Severity Level**: Medium  
+**Source Reference**: Insurance Policy Requirements  
+**Evidence**:  
+  - Field 1: Insurance Coverage: 110% of invoice value  
+  - Field 2: Coverage Clauses: Institute Cargo Clauses (C), Institute War Clauses (Cargo), and Institute Strikes, Riots and Civil Commotions (Cargo)  
+**The Contradiction/Issue**: The LC requires insurance coverage under Institute Cargo Clauses (C), which is the minimum level of coverage. For CIF shipments, Institute Cargo Clauses (A) is recommended as it provides comprehensive coverage.  
+**Why This Is Problematic**: Minimum coverage (ICC (C)) may not adequately protect the buyer's interests in case of loss or damage during transit.  
+**Impact**: Increased risk of disputes or financial loss in case of claims.  
+**Remediation**:  
+[SINGLE-DOC] | Final LC/Insurance Clause -> Final LC/Insurance Clause -> Amend insurance requirement to Institute Cargo Clauses (A) for comprehensive coverage.  
+
+---
+
+### ISSUE 4  
+**Discrepancy ID**: ILC-ISS-004  
+**Discrepancy Title**: Ambiguity in Goods Description vs Invoice Requirement  
+**Validation Rule**: Rule 6: Goods Description Consistency  
+**Discrepancy Type**: Internal Contradiction  
+**Severity Level**: High  
+**Source Reference**: Goods Description and Documents Required (Commercial Invoice)  
+**Evidence**:  
+  - Field 1: Goods Description: "Knitted cotton T-shirts, 100% cotton"  
+  - Field 2: Invoice Requirement: "Exact goods description (100% cotton)"  
+**The Contradiction/Issue**: The LC requires the invoice to show the "exact goods description (100% cotton)," but the term "exact" is ambiguous. It is unclear whether minor variations (e.g., "Knitted T-shirts, 100% cotton") would be acceptable.  
+**Why This Is Problematic**: Ambiguity in the goods description could lead to rejection of documents for minor discrepancies in wording.  
+**Impact**: Increased risk of non-compliance and document rejection.  
+**Remediation**:  
+[SINGLE-DOC] | Final LC/Goods Description -> Final LC/Invoice Requirement -> Clarify that minor variations in wording (e.g., "Knitted T-shirts, 100% cotton") are acceptable.  
+
+---
+
+### ISSUE 5  
+**Discrepancy ID**: ILC-ISS-005  
+**Discrepancy Title**: Insurance Claims Payable Location Ambiguity  
+**Validation Rule**: Rule 9: Insurance Coverage Adequacy  
+**Discrepancy Type**: Ambiguity  
+**Severity Level**: Medium  
+**Source Reference**: Insurance Policy Requirements  
+**Evidence**:  
+  - Field 1: Insurance Claims Payable: "Claims payable in Vietnam"  
+**The Contradiction/Issue**: The LC requires insurance claims to be payable in Vietnam, but it does not specify whether this includes all regions of Vietnam or only specific locations (e.g., Ho Chi Minh City).  
+**Why This Is Problematic**: Ambiguity in the claims payable location could lead to disputes in case of a claim.  
+**Impact**: Increased risk of delays or disputes in claim settlement.  
+**Remediation**:  
+[SINGLE-DOC] | Final LC/Insurance Clause -> Final LC/Insurance Clause -> Specify the exact location in Vietnam where claims are payable (e.g., "Claims payable in Ho Chi Minh City, Vietnam").  
+
+---
+
+### ISSUE 6  
+**Discrepancy ID**: ILC-ISS-006  
+**Discrepancy Title**: Tolerance Terms Missing  
+**Validation Rule**: Rule 14: Tolerance Terms Validation  
+**Discrepancy Type**: Missing Mandatory Field  
+**Severity Level**: Medium  
+**Source Reference**: Tolerance Clause  
+**Evidence**:  
+  - Field 1: Tolerance: "0/0"  
+**The Contradiction/Issue**: The LC specifies "0/0" tolerance, but it does not clarify whether this applies to both quantity and amount or only one of them.  
+**Why This Is Problematic**: Lack of clarity could lead to disputes if minor variations in quantity or amount occur.  
+**Impact**: Increased risk of document rejection for minor discrepancies.  
+**Remediation**:  
+[SINGLE-DOC] | Final LC/Tolerance Clause -> Final LC/Tolerance Clause -> Clarify whether "0/0" tolerance applies to both quantity and amount or only one of them.  
+
+---
+
+### TABULAR SUMMARY ###
+
+| Discrepancy ID | Discrepancy Title                          | Discrepancy Type       | Severity Level | Source Reference                     | Evidence                                                                 | Requirement                                   | Remediation                                                                                  | Governing Rule |
+|----------------|-------------------------------------------|------------------------|----------------|---------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------|----------------|
+| ILC-ISS-001    | Expiry Date too close to Shipment Date    | Date Conflict          | High           | Expiry Date, Latest Shipment Date     | Expiry: 15-Oct-2025, Shipment: 25-Sep-2025                              | Expiry Date should allow sufficient time      | Extend Expiry Date to at least 21-Oct-2025                                                | Rule 1         |
+| ILC-ISS-002    | Presentation Period exceeds Expiry Date   | Calculation Error      | Critical       | Presentation Period, Expiry Date      | Presentation: 16-Oct-2025, Expiry: 15-Oct-2025                          | Expiry Date must align with Presentation Date | Extend Expiry Date to at least 16-Oct-2025                                                | Rule 2         |
+| ILC-ISS-003    | Insurance Coverage Clause Inadequate      | Insurance Inadequacy   | Medium         | Insurance Policy Requirements         | Coverage: ICC (C), 110% of invoice value                                 | ICC (A) recommended for CIF shipments         | Amend insurance requirement to ICC (A)                                                    | Rule 9         |
+| ILC-ISS-004    | Ambiguity in Goods Description            | Internal Contradiction | High           | Goods Description, Invoice Requirement| Goods: "Knitted cotton T-shirts, 100% cotton", Invoice: "Exact description" | Clarify acceptable variations in description  | Clarify minor variations in wording are acceptable                                         | Rule 6         |
+| ILC-ISS-005    | Insurance Claims Payable Location Ambiguity | Ambiguity             | Medium         | Insurance Policy Requirements         | Claims payable: "Vietnam"                                               | Specify exact claims payable location         | Specify claims payable location (e.g., "Ho Chi Minh City, Vietnam")                        | Rule 9         |
+| ILC-ISS-006    | Tolerance Terms Missing                   | Missing Mandatory Field| Medium         | Tolerance Clause                      | Tolerance: "0/0"                                                         | Clarify tolerance terms                       | Clarify whether "0/0" applies to both quantity and amount                                  | Rule 14        |
+
+---
+
+### OUTPUT 2: JSON FORMAT (FOR DATABASE INSERTION)
+
+```json
+{
+  "document_examined": "Import Letter of Credit (ILC) - Issuance/Advising Stage",
+  "lc_number": "CITI-DXB-2025-001122",
+  "total_issues_found": 6,
+  "analysis_date": "2023-10-05",
+  "discrepancies": [
+    {
+      "discrepancy_id": "ILC-ISS-001",
+      "discrepancy_title": "Expiry Date too close to Shipment Date",
+      "validation_rule": "Rule 1: Expiry Date vs Latest Shipment Date",
+      "discrepancy_type": "Date Conflict",
+      "severity_level": "High",
+      "source_reference": "Expiry Date, Latest Shipment Date",
+      "evidence": {
+        "Expiry Date": "15-Oct-2025",
+        "Latest Shipment Date": "25-Sep-2025"
+      },
+      "contradiction_issue": "The gap between the Latest Shipment Date and Expiry Date is only 20 days, which is very tight.",
+      "why_problematic": "Tight timeline increases risk of non-compliance.",
+      "impact": "Beneficiary may fail to present documents within validity.",
+      "remediation": "[SINGLE-DOC] | Final LC/Expiry Date -> Final LC/Expiry Date -> Extend Expiry Date to at least 21-Oct-2025.",
+      "governing_rule": "Rule 1"
+    },
+    {
+      "discrepancy_id": "ILC-ISS-002",
+      "discrepancy_title": "Presentation Period exceeds Expiry Date",
+      "validation_rule": "Rule 2: Presentation Period Calculation",
+      "discrepancy_type": "Calculation Error",
+      "severity_level": "Critical",
+      "source_reference": "Presentation Period, Expiry Date",
+      "evidence": {
+        "Presentation Period": "Within 21 days after shipment",
+        "Expiry Date": "15-Oct-2025",
+        "Latest Shipment Date": "25-Sep-2025"
+      },
+      "contradiction_issue": "Presentation Period allows documents to be presented up to 16-Oct-2025, but Expiry Date is 15-Oct-2025.",
+      "why_problematic": "Logical impossibility as LC would expire before presentation period ends.",
+      "impact": "LC is unworkable in its current form.",
+      "remediation": "[SINGLE-DOC] | Final LC/Expiry Date -> Final LC/Expiry Date -> Extend Expiry Date to at least 16-Oct-2025.",
+      "governing_rule": "Rule 2"
+    },
+    {
+      "discrepancy_id": "ILC-ISS-003",
+      "discrepancy_title": "Insurance Coverage Clause Inadequate",
+      "validation_rule": "Rule 9: Insurance Coverage Adequacy",
+      "discrepancy_type": "Insurance Inadequacy",
+      "severity_level": "Medium",
+      "source_reference": "Insurance Policy Requirements",
+      "evidence": {
+        "Coverage": "ICC (C), 110% of invoice value"
+      },
+      "contradiction_issue": "Insurance coverage under ICC (C) is minimum; ICC (A) is recommended for CIF shipments.",
+      "why_problematic": "Minimum coverage may not adequately protect buyer's interests.",
+      "impact": "Increased risk of disputes or financial loss in case of claims.",
+      "remediation": "[SINGLE-DOC] | Final LC/Insurance Clause -> Final LC/Insurance Clause -> Amend insurance requirement to ICC (A).",
+      "governing_rule": "Rule 9"
+    },
+    {
+      "discrepancy_id": "ILC-ISS-004",
+      "discrepancy_title": "Ambiguity in Goods Description",
+      "validation_rule": "Rule 6: Goods Description Consistency",
+      "discrepancy_type": "Internal Contradiction",
+      "severity_level": "High",
+      "source_reference": "Goods Description, Invoice Requirement",
+      "evidence": {
+        "Goods Description": "Knitted cotton T-shirts, 100% cotton",
+        "Invoice Requirement": "Exact goods description (100% cotton)"
+      },
+      "contradiction_issue": "Ambiguity in 'exact goods description' could lead to rejection of documents for minor variations.",
+      "why_problematic": "Ambiguity increases risk of non-compliance.",
+      "impact": "Increased risk of document rejection.",
+      "remediation": "[SINGLE-DOC] | Final LC/Goods Description -> Final LC/Invoice Requirement -> Clarify acceptable variations in description.",
+      "governing_rule": "Rule 6"
+    },
+    {
+      "discrepancy_id": "ILC-ISS-005",
+      "discrepancy_title": "Insurance Claims Payable Location Ambiguity",
+      "validation_rule": "Rule 9: Insurance Coverage Adequacy",
+      "discrepancy_type": "Ambiguity",
+      "severity_level": "Medium",
+      "source_reference": "Insurance Policy Requirements",
+      "evidence": {
+        "Claims Payable": "Vietnam"
+      },
+      "contradiction_issue": "Ambiguity in claims payable location could lead to disputes in case of a claim.",
+      "why_problematic": "Ambiguity increases risk of delays or disputes in claim settlement.",
+      "impact": "Increased risk of disputes.",
+      "remediation": "[SINGLE-DOC] | Final LC/Insurance Clause -> Final LC/Insurance Clause -> Specify exact claims payable location (e.g., 'Ho Chi Minh City, Vietnam').",
+      "governing_rule": "Rule 9"
+    },
+    {
+      "discrepancy_id": "ILC-ISS-006",
+      "discrepancy_title": "Tolerance Terms Missing",
+      "validation_rule": "Rule 14: Tolerance Terms Validation",
+      "discrepancy_type": "Missing Mandatory Field",
+      "severity_level": "Medium",
+      "source_reference": "Tolerance Clause",
+      "evidence": {
+        "Tolerance": "0/0"
+      },
+      "contradiction_issue": "Tolerance terms are unclear; it is not specified whether '0/0' applies to both quantity and amount.",
+      "why_problematic": "Lack of clarity could lead to disputes if minor variations occur.",
+      "impact": "Increased risk of document rejection for minor discrepancies.",
+      "remediation": "[SINGLE-DOC] | Final LC/Tolerance Clause -> Final LC/Tolerance Clause -> Clarify whether '0/0' applies to both quantity and amount.",
+      "governing_rule": "Rule 14"
+    }
+  ],
+  "summary_statistics": {
+    "critical_issues": 1,
+    "high_issues": 2,
+    "medium_issues": 3,
+    "low_issues": 0
+  }
+}
+```
+

@@ -1,0 +1,59 @@
+DISCREPANCY REPORT
+Instrument: BBLC
+Lifecycle: Issuance
+Generated: 30-Oct-2025
+
+================================================================================
+=== OWN DISCREPANCIES (Main Document) ===
+[Count: 3]
+
+1. Type: Internal Inconsistency
+   Location: Master LC, Expiry Date
+   Description: LC expiry date is before latest shipment date
+   Expected: Expiry must be after 24-Oct-2025
+   Actual: Expiry shown as 19-Oct-2025
+   Impact: LC cannot be utilized - impossible to ship and present documents
+
+2. Type: Internal Inconsistency
+   Location: Sub LC, Expiry Date
+   Description: Sub LC expiry is after Master LC expiry (violates BBLC rule)
+   Expected: Sub LC must expire before Master LC (04-Nov-2025)
+   Actual: Sub LC expiry shown as 09-Nov-2025
+   Impact: Insufficient time for document substitution and presentation under Master LC
+
+3. Type: Internal Inconsistency
+   Location: Sub LC, Amount
+   Description: Sub LC amount is too high (insufficient margin for intermediary)
+   Expected: Sub LC should be maximum 90% of Master LC (USD 159,824.24)
+   Actual: Sub LC shows USD 168,703.36 (95% of Master LC)
+   Impact: Insufficient margin for intermediary to substitute invoice
+
+================================================================================
+=== CROSS-DOCUMENT DISCREPANCIES ===
+[Count: 2]
+
+1. Type: Document Mismatch
+   Documents: Master LC vs Sub LC
+   Description: Sub LC expiry is after Master LC expiry
+   Expected: 04-Nov-2025 (Master LC)
+   Actual: 09-Nov-2025 (Sub LC)
+   Rule: BBLC Rule: Sub LC must expire before Master LC to allow document substitution time
+
+2. Type: Document Mismatch
+   Documents: Master LC Amount vs Sub LC Amount
+   Description: Insufficient margin between Master and Sub LC
+   Expected: Minimum 10% margin required
+   Actual: Only 5% margin provided
+   Rule: Insufficient margin for intermediary to substitute invoice and cover costs
+
+================================================================================
+=== STANDARDS VIOLATIONS ===
+[Count: 1]
+
+1. Type: Standards Violation
+   Location: Sub LC Document
+   Description: Insufficient time gap between Sub LC and Master LC expiry
+   Standard: BBLC Best Practice - Minimum 7-10 days gap required
+   Violation: Only 5 days gap provided
+   Consequence: Insufficient time for document examination, substitution, and presentation
+

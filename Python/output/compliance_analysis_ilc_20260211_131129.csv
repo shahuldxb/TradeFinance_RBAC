@@ -1,0 +1,8 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,BL,Port of Loading,"Laem Chabang Port, Thailand","Laem Chabang Port, Thailand",Compliant match,Low
+LC,BL,Port of Discharge,"Melbourne Port, Australia","Melbourne Port, Australia",Compliant match,Low
+LC,BL,Description of Goods,500 metric tons of Thai Jasmine Rice,500 metric tons of Thai Jasmine Rice,Compliant match,Low
+LC,BL,Freight,Not explicitly stated,Prepaid,Missing explicit LC condition,Medium
+LC,CI,Description of Goods,500 metric tons of Thai Jasmine Rice,500 metric tons of Thai Jasmine Rice,Compliant match,Low
+LC,CI,Total Amount,"USD 40,000","USD 40,000",Compliant match,Low
+LC,CI,Incoterm,CIP Melbourne,CIP Melbourne,Compliant match,Low

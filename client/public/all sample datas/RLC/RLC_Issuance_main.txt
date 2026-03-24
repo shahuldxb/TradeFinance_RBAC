@@ -1,0 +1,39 @@
+EXPORT LETTER OF CREDIT (SIGHT)
+--------------------------------------------------------------------------------
+Issuing Bank: Barclays Bank PLC, London, UK
+Advising/Nominated Bank: Citi Bank PJSC, Dubai, UAE
+Credit No.: BARC-LON-2025-616059
+Date of Issue: 18-Jun-2025
+Applicable Rules: UCP 600, ISBP 821 (latest revision)
+Expiry Date/Place: 12-Aug-2025 / Dubai, UAE
+
+Applicant (Buyer): Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+Beneficiary (Seller): Global Trading FZE, JAFZA South, Dubai, UAE
+Currency/Amount: USD 443,701.10
+Tolerance: 0/0
+Incoterms: CIF Singapore Port (Incoterms® 2020)
+Port of Loading: Port Rashid, UAE
+Port of Discharge: Singapore Port, Singapore
+Latest Shipment Date: 15-Aug-2025
+Presentation Period: Within 21 days after the date of shipment but within the validity of the credit
+Partial Shipments: Allowed
+Transshipment: Allowed
+
+Goods Description:
+- Arabica Coffee Beans
+- Grade AA, moisture content max 12%, screen size 17+
+- HS Code: 0901.21
+- Quantity: 33499 kg
+- Gross Weight: 39,032.35 kg
+- Net Weight: 33,499.00 kg
+- Country of Origin: UAE
+
+Documents Required:
+1. Commercial invoice in 1 original + 2 copies, quoting LC number BARC-LON-2025-616059.
+2. Full set 3/3 original clean on board ocean B/L to order of Issuing Bank, notify Applicant, freight prepaid.
+3. Insurance policy/certificate for 110% of invoice value, Institute Cargo Clauses (C), War and SRCC, claims payable in Singapore.
+4. Packing list quoting LC number.
+5. Quality certificate quoting LC number.
+6. Certificate of Origin issued by Chamber of Commerce.
+7. All documents must quote LC number BARC-LON-2025-616059.
+--------------------------------------------------------------------------------

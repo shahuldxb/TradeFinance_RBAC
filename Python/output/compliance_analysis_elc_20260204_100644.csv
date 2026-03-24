@@ -1,0 +1,18 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Air Waybill.txt,Reference Number,ILCAE00321000262,ILCAE0032700262-1,Reference number mismatch,High
+LC,Bill Of Exchange.txt,Amount,"USD 275,000.00","USD 282,677.50",Amount discrepancy,High
+LC,Bill Of Exchange.txt,Date of Issue,211214,"Dec 14, 2021",Date format mismatch,Low
+LC,Bill Of Exchange.txt,Beneficiary Name,SUMITOMO CHEMICAL COMPANY LIMITED,"SUMITOMO CHEMICAL COMPANY, LIMITED",Formatting difference in beneficiary name,Low
+LC,Bill Of Lading.txt,Port of Loading,ANY PORT IN JAPAN,"CHIBA PORT, JAPAN","Specific port of loading provided instead of ""ANY PORT IN JAPAN""",Medium
+LC,Bill Of Lading.txt,Port of Discharge,"NHAVA SHEVA, INDIA",NHAVA SHEVA,Missing country in port of discharge,Low
+LC,Bill Of Lading.txt,Description of Goods,101.50 MT LUBIMAX 132,ETHYLENE PROPYLENE COPOLYMER LUBIMAX 132 QTY: 101.50MT,Additional description provided,Low
+LC,Bill Of Lading.txt,Quantity,101.50 MT,"4,060 BAGS",Different unit of measurement,Medium
+LC,Commercial Invoice.txt,Amount,"USD 275,000.00","USD 282,677.50",Amount discrepancy,High
+LC,Commercial Invoice.txt,Description of Goods,101.50 MT LUBIMAX 132,ETHYLENE PROPYLENE COPOLYMER LUBIMAX 132 QTY: 101.50MT,Additional description provided,Low
+LC,Commercial Invoice.txt,Quantity,101.50 MT,"4,060 BAGS",Different unit of measurement,Medium
+LC,Non Preferential Certificate.txt,Date of Shipment,240831,"February 9, 2022",Date mismatch,High
+LC,Non Preferential Certificate.txt,Port of Loading,ANY PORT IN JAPAN,CHIBA,"Specific port of loading provided instead of ""ANY PORT IN JAPAN""",Medium
+LC,Non Preferential Certificate.txt,Port of Discharge,"NHAVA SHEVA, INDIA",NHAVA SHEVA,Missing country in port of discharge,Low
+LC,Packing List.txt,Amount,"USD 275,000.00","USD 282,677.50",Amount discrepancy,High
+LC,Packing List.txt,Description of Goods,101.50 MT LUBIMAX 132,ETHYLENE PROPYLENE COPOLYMER LUBIMAX 132 QTY: 101.50MT,Additional description provided,Low
+LC,Packing List.txt,Quantity,101.50 MT,"4,060 BAGS",Different unit of measurement,Medium

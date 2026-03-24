@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+pyodbc
+fuzzywuzzy
+python-Levenshtein
+jellyfish
+phonetics
+pandas
+

@@ -1,0 +1,21 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Port of Loading,Hamburg,"Mumbai, India",Port of Loading mismatch.
+Letter of Credit,Bill of Lading,Port of Discharge,Mumbai,"Hamburg, Germany",Port of Discharge mismatch.
+Letter of Credit,Certificate of Origin,Final Destination,India,Singapore,Final Destination mismatch.
+Letter of Credit,Packing List,Final Destination,India,India,Extra information in Packing List not required in LC.
+Letter of Credit,Quality Certificate,Date of Inspection,Not specified,"February 25, 2026",Date of Inspection not required in LC.
+Letter of Credit,Bill of Lading,Vessel Name and Voyage Number,Not specified,[To be completed by Carrier],Missing Vessel Name and Voyage Number.
+Letter of Credit,Bill of Lading,Bill of Lading Number,Not specified,[To be completed by Carrier],Missing Bill of Lading Number.
+Letter of Credit,Bill of Lading,Date of Shipment On Board,"On or before February 25, 2026",[To be completed by Carrier],Missing Date of Shipment On Board.
+Letter of Credit,Bill of Lading,Marks and Numbers,Not specified,[To be completed by Shipper],Missing Marks and Numbers.
+Letter of Credit,Bill of Lading,Gross Weight,Not specified,[To be completed by Shipper],Missing Gross Weight.
+Letter of Credit,Bill of Lading,Net Weight,Not specified,[To be completed by Shipper],Missing Net Weight.
+Letter of Credit,Bill of Lading,Freight Details,Not specified,Freight Prepaid / Freight Collect [Carrier to specify],Missing Freight Details.
+Letter of Credit,Certificate of Origin,Place of Origin of Goods,Germany,India,Place of Origin mismatch.
+Letter of Credit,Packing List,Total Gross Weight,Not specified,"5,250 KGS",Missing Total Gross Weight.
+Letter of Credit,Packing List,Number of Packages,Not specified,5 packages,Missing Number of Packages.
+Letter of Credit,Packing List,Packaging Details,Not specified,"5 Wooden Pallets, Each pallet securely wrapped and labeled with shipment details",Missing Packaging Details.
+Letter of Credit,Packing List,Marks and Numbers,Not specified,"""LC202601148298 - 1/5, 2/5, 3/5, 4/5, 5/5""",Missing Marks and Numbers.
+Letter of Credit,Quality Certificate,Inspection Details,Not specified,"Inspection was carried out at the point of origin: Mumbai, India",Missing Inspection Details.
+Letter of Credit,Quality Certificate,Shipping and Handling,Not specified,All products have been packed carefully and are ready for shipment under proper conditions,Extra information not required in LC.
+Letter of Credit,Quality Certificate,Seal and Signature,Not specified,(Seal and Signature) Authorized Signatory Mumbai Exports Pvt Ltd,Missing Seal and Signature.

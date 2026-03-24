@@ -1,0 +1,29 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+ilc.txt,Bill Of Lading.txt,B/L Number,Not specified in LC,BOL-67890,No discrepancy as LC does not require B/L number,Low
+ilc.txt,Bill Of Lading.txt,Date,Not specified in LC,2026-03-10,No discrepancy as LC does not require B/L date,Low
+ilc.txt,Bill Of Lading.txt,Shipper,"Precision Manufacturing Co., 456 Industrial Park, Shanghai, China","Precision Manufacturing Co., 456 Industrial Park, Shanghai, China",Fully compliant,Low
+ilc.txt,Bill Of Lading.txt,Consignee,To the order of Mega Bank,To the order of Mega Bank,Fully compliant,Low
+ilc.txt,Bill Of Lading.txt,Notify Party,"Global Imports Inc., 123 Main Street, New York, NY 10001, USA","Global Imports Inc., 123 Main Street, New York, NY 10001, USA",Fully compliant,Low
+ilc.txt,Bill Of Lading.txt,Vessel,Not specified in LC,The Sea Serpent V.12,No discrepancy as LC does not require vessel name,Low
+ilc.txt,Bill Of Lading.txt,Port of Loading,Any Chinese port,"Shanghai Port, China",Fully compliant,Low
+ilc.txt,Bill Of Lading.txt,Port of Discharge,Shanghai Port,"Shanghai Port, China",Fully compliant,Low
+ilc.txt,Bill Of Lading.txt,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Fully compliant,Low
+ilc.txt,Bill Of Lading.txt,Freight,Not specified in LC,Prepaid,No discrepancy as LC does not require freight terms,Low
+ilc.txt,Bill Of Lading.txt,Clean on-board notation,Required,Clean on-board bill of lading,Fully compliant,Low
+ilc.txt,Commercial Invoice.txt,Invoice Number,Not specified in LC,INV-2026-001,No discrepancy as LC does not require invoice number,Low
+ilc.txt,Commercial Invoice.txt,Date,Not specified in LC,2026-03-12,No discrepancy as LC does not require invoice date,Low
+ilc.txt,Commercial Invoice.txt,Buyer (To),"Global Imports Inc., 123 Main Street, New York, NY 10001, USA","Global Imports Inc., 123 Main Street, New York, NY 10001, USA",Fully compliant,Low
+ilc.txt,Commercial Invoice.txt,Seller (From),"Precision Manufacturing Co., 456 Industrial Park, Shanghai, China","Precision Manufacturing Co., 456 Industrial Park, Shanghai, China",Fully compliant,Low
+ilc.txt,Commercial Invoice.txt,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100 @ USD 100/unit",No discrepancy as unit price is not required in LC,Low
+ilc.txt,Commercial Invoice.txt,Total Amount,"USD 50,000","USD 50,000",Fully compliant,Low
+ilc.txt,Commercial Invoice.txt,Incoterm,CIF Shanghai Port,CIF Shanghai Port,Fully compliant,Low
+ilc.txt,Export Import License.txt,Certificate Number,Not specified in LC,INS-54321,No discrepancy as LC does not require certificate number,Low
+ilc.txt,Export Import License.txt,Date,Not specified in LC,2026-03-11,No discrepancy as LC does not require certificate date,Low
+ilc.txt,Export Import License.txt,Insured,"Precision Manufacturing Co., 456 Industrial Park, Shanghai, China","Precision Manufacturing Co., 456 Industrial Park, Shanghai, China",Fully compliant,Low
+ilc.txt,Export Import License.txt,Beneficiary,"Global Imports Inc., 123 Main Street, New York, NY 10001, USA","Global Imports Inc., 123 Main Street, New York, NY 10001, USA",Fully compliant,Low
+ilc.txt,Export Import License.txt,Amount Insured,"110% of invoice value (USD 55,000)","USD 55,000",Fully compliant,Low
+ilc.txt,Export Import License.txt,Goods Insured,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Fully compliant,Low
+ilc.txt,Export Import License.txt,Voyage,From any Chinese port to Shanghai Port,From Shanghai Port to New York Port,Discrepancy: Incorrect voyage details,High
+ilc.txt,Preferential Certificate Of.txt,Certificate Number,Not specified in LC,Q-2026-001,No discrepancy as LC does not require certificate number,Low
+ilc.txt,Preferential Certificate Of.txt,Date,Not specified in LC,2026-03-10,No discrepancy as LC does not require certificate date,Low
+ilc.txt,Preferential Certificate Of.txt,Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Fully compliant,Low

@@ -1,0 +1,10 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Gross Weight,Not specified,"3,775.80 KGS",Gross weight is mentioned in the Bill of Lading but not in the LC.
+Letter of Credit,Certificate of Origin,Country of Origin,UAE,China,Country of origin mismatch.
+Letter of Credit,Commercial Invoice,Declaration of Origin,Not specified,China,Declaration of origin in the invoice contradicts the LC's requirement for UAE origin.
+Letter of Credit,Insurance Certificate,Insured Value,Not specified,"USD 55,111.91",Insured value is not explicitly stated in the LC.
+Letter of Credit,Packing List,Gross Weight,Not specified,"3,775.80 KGS",Gross weight is mentioned in the Packing List but not in the LC.
+Letter of Credit,Packing List,Package Details,Not specified,"35 packages, Wooden crates/Cartons",Package details are not specified in the LC.
+Letter of Credit,Quality Certificate,Batch Number,Not specified,BATCH-322808,Batch number is not mentioned in the LC.
+Letter of Credit,Quality Certificate,Production Date,Not specified,2025-12-13,Production date is not mentioned in the LC.
+Letter of Credit,Quality Certificate,Compliance,Not specified,ISO 9001:2015 certified,Compliance details are not mentioned in the LC.

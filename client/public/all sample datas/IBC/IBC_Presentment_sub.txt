@@ -1,0 +1,122 @@
+
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+Buyer: New York Import Corp, 350 Fifth Avenue, New York, NY 10118, USA
+
+Invoice No.: INV-20250731-8222
+Date: 31-Jul-2025
+LC No.: EBIL-DUB-2025-120268
+Incoterms: FOB Los Angeles (Incoterms® 2020)
+
+Item: Laptop Computers
+Description: 15.6 inch display, Intel Core i5, 8GB RAM, 256GB SSD
+HS Code: 8471.30
+Quantity: 252 units
+Unit Price: USD 735.43
+Amount: USD 185,327.75
+GW: 52.87 kg
+NW: 50.13 kg
+Origin: UK
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+BILL OF LADING
+--------------------------------------------------------------------------------
+Shipper: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ
+Consignee: To Order of Emirates NBD
+Notify: New York Import Corp, 350 Fifth Avenue, New York, NY 10118
+
+B/L No.: EBIL-DUB-2025-120268-BL9005
+Vessel/Voyage: MV Ocean Star / VOY889
+Port of Loading: Felixstowe, UK
+Port of Discharge: Los Angeles, USA
+
+Goods: Laptop Computers, HS 8471.30
+Quantity: 252 units
+GW 52.87 kg, NW 50.23 kg
+
+Freight: Prepaid
+Originals: 3
+Issue Date: 01-Aug-2025
+On Board: 03-Aug-2025
+Clean on Board: YES
+
+Carrier: _______________________
+--------------------------------------------------------------------------------
+
+
+INSURANCE CERTIFICATE
+--------------------------------------------------------------------------------
+Insurer: QBE Insurance Group
+Certificate No.: INS-20250730-5269
+Date: 30-Jul-2025
+Assured: To Order
+Endorsement: In blank
+LC No.: EBIL-DUB-2025-120268
+
+Interest: Laptop Computers
+Voyage: Felixstowe to Los Angeles
+Sum Insured: AED 203,860.53
+Coverage: Institute Cargo Clauses (C), War, SRCC
+Claims Payable: USA
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: London Trading House Ltd
+Consignee: New York Import Corp
+LC No.: EBIL-DUB-2025-120268
+Date: 31-Jul-2025
+
+Quantity: 252 units
+GW: 52.87 kg
+NW: 50.23 kg
+Packing: cartons
+
+Marks: London/0725
+Origin: UK
+--------------------------------------------------------------------------------
+
+
+QUALITY CERTIFICATE
+--------------------------------------------------------------------------------
+Issuer: London Trading House Ltd QA Dept
+Certificate No.: QC-20250729-496
+Date: 29-Jul-2025
+LC Reference: N/A
+
+Product: Laptop Computers
+Specification: 15.6 inch display, Intel Core i5, 8GB RAM, 256GB SSD
+Quantity: 252 units
+Inspection: ISO 2859-1, AQL 2.5
+Result: PASSED
+Origin: UK
+
+QA Manager: _______________________
+--------------------------------------------------------------------------------
+
+
+CERTIFICATE OF ORIGIN
+--------------------------------------------------------------------------------
+Issued by: Chamber of Commerce, UK
+Certificate No.: CO-20250730-78874
+Date: 30-Jul-2025
+LC No.: EBIL-DUB-2025-120268
+
+Exporter: London Trading House Ltd
+Consignee: New York Import Corp
+
+Goods: Laptop Computers
+HS Code: 8471.30
+Quantity: 252 units
+
+COUNTRY OF ORIGIN: UK
+
+Authorized Officer: _______________________
+--------------------------------------------------------------------------------

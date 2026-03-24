@@ -1,0 +1,11 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,BL,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Match,Low
+LC,BL,Port of Loading,Any Chinese port,"Shanghai Port, China",Match,Low
+LC,BL,Port of Discharge,Shanghai Port,"Shanghai Port, China",Match,Low
+LC,BL,Freight,CIF,Prepaid,Discrepancy,Medium
+LC,CI,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100 @ USD 100/unit",Match,Low
+LC,CI,Total Amount,"USD 50,000","USD 50,000",Match,Low
+LC,CI,Incoterm,CIF Shanghai Port,CIF Shanghai Port,Match,Low
+LC,IC,Amount Insured,"110% of invoice value (USD 55,000)","USD 55,000",Match,Low
+LC,IC,Voyage,Any Chinese port to Shanghai Port,Shanghai Port to New York Port,Discrepancy,High
+LC,CQ,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Match,Low

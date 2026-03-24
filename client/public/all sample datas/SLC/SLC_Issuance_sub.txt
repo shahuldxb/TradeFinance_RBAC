@@ -1,0 +1,102 @@
+
+LC APPLICATION FORM
+--------------------------------------------------------------------------------
+Issuing Bank: Standard Chartered Bank
+Branch: Singapore Trade Finance Department
+Application Date: 25-Jul-2025
+Application Reference: APP-SCBL-SIN-2025-896574
+
+APPLICANT:
+Vietnam Garment Exporters Ltd.
+45 Nguyen Van Linh, District 7, Ho Chi Minh City, Vietnam
+Account: 644584042
+Contact: Mr. Ahmed Hassan
+Email: trade@vietnam.com
+
+BENEFICIARY:
+Mumbai Textiles Pvt Ltd
+Andheri East, Mumbai 400069, Maharashtra, India
+
+LC DETAILS:
+Type: SLC
+Amount: USD 294,118.00
+Validity: 19-Sep-2025
+Latest Shipment: 06-Sep-2025
+Advising Bank: HSBC Bank Middle East, SWIFT: BBMEAEAD
+
+GOODS:
+Steel Reinforcement Bars - Grade 60, diameter 12-32mm, length 12m
+HS Code: 7214.20
+Quantity: 416 metric tons
+Unit Price: USD 707.01
+
+SHIPMENT:
+From: Mumbai (JNPT), India
+To: Hai Phong, Vietnam
+Incoterms: FOB (Incoterms® 2020)
+
+Applicant's Signature: _______________________
+Date: 25-Jul-2025
+--------------------------------------------------------------------------------
+
+
+UNDERLYING SALES CONTRACT
+--------------------------------------------------------------------------------
+Contract No.: SC-2025-4370
+Date: 11-Jul-2025
+
+SELLER: Mumbai Textiles Pvt Ltd, Andheri East, Mumbai 400069, Maharashtra, India
+BUYER: Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, District 7, Ho Chi Minh City, Vietnam
+
+COMMODITY:
+Steel Reinforcement Bars - Grade 60, diameter 12-32mm, length 12m
+HS Code: 7214.20
+Quantity: 416 metric tons
+Unit Price: USD 707.01
+Total Value: USD 308,823.90
+
+PAYMENT:
+100% by irrevocable LC at sight, payable against shipping documents
+LC to be opened 30 days before shipment
+
+SHIPMENT:
+Period: September 2025
+From: Mumbai (JNPT) To: Hai Phong
+Incoterms: FOB (Incoterms® 2020)
+
+DOCUMENTS:
+Commercial Invoice, Full set B/L, Insurance, Packing List, Quality Certificate, Certificate of Origin
+
+Seller: _______________________    Buyer: _______________________
+--------------------------------------------------------------------------------
+
+
+PROFORMA INVOICE
+--------------------------------------------------------------------------------
+Seller: Mumbai Textiles Pvt Ltd, Andheri East, Mumbai 400069, Maharashtra, India
+Buyer: Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, District 7, Ho Chi Minh City, Vietnam
+
+PI No.: PI-20250715-468
+Date: 15-Jul-2025
+Validity: 30 days
+
+GOODS:
+Steel Reinforcement Bars
+Specification: Grade 60, diameter 12-32mm, length 12m
+HS Code: 7214.20
+Quantity: 416 metric tons
+Unit Price: USD 707.01
+Total: USD 294,118.00
+
+SHIPMENT:
+Incoterms: FOB (Incoterms® 2020)
+From: Mumbai (JNPT) To: Hai Phong
+Estimated: September 2025
+Origin: India
+
+PAYMENT:
+100% by irrevocable LC at sight
+LC via: HSBC Bank Middle East
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------

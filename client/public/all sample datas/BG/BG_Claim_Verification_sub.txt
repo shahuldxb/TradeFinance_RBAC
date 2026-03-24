@@ -1,0 +1,76 @@
+
+GUARANTEE CLAIM LETTER
+--------------------------------------------------------------------------------
+[Global Trading FZE Letterhead]
+
+Date: 20-Jan-2026
+
+To: BNP Paribas
+    Paris, France
+
+Subject: Claim under Guarantee No. BNPA-BG-2025-776120 for USD 455,236.62
+
+1. REFERENCE
+We refer to Guarantee No. BNPA-BG-2025-776120 dated 29-Jul-2025 issued by your bank in favor of Global Trading FZE (Beneficiary) for USD 455,236.62 in connection with Contract No. CONT-2025-3875.
+
+2. UNDERLYING CONTRACT
+Contract No.: CONT-2025-3875
+Contract Date: 13-Jul-2025
+Contractor: Tokyo Industrial Supplies KK
+Employer: Global Trading FZE
+Contract Value: USD 5,333,624.10
+
+3. CIRCUMSTANCES LEADING TO CLAIM
+The Applicant has failed to comply with its obligations under the contract. Specifically:
+- Non-performance of contractual obligations
+- Delay in delivery beyond agreed timeline
+- Failure to meet quality standards
+
+Despite repeated notices, the Applicant has failed to remedy the default.
+
+4. INVOCATION
+In accordance with the guarantee terms, we hereby demand payment of USD 455,236.62 under the said guarantee.
+
+Payment Details:
+Bank: Emirates NBD
+Account: Global Trading FZE
+Account No.: 934871598
+SWIFT: BKCHCNBJ
+
+5. SUPPORTING DOCUMENTS
+1. Original Guarantee
+2. Copy of Contract
+3. Statement of Default
+4. Correspondence evidencing default
+
+6. DECLARATION
+We confirm:
+- This claim is made within the validity period
+- The amount claimed represents our loss
+- We are entitled to make this claim per guarantee terms
+
+7. REQUEST
+Please remit the guaranteed amount immediately upon receipt.
+
+For Global Trading FZE
+Authorized Signatory: _______________________
+Name: Sarah Lee
+Title: CEO
+--------------------------------------------------------------------------------
+
+
+STATEMENT OF DEFAULT
+--------------------------------------------------------------------------------
+Date: 20-Jan-2026
+Contract: CONT-2025-3875
+
+We certify that Tokyo Industrial Supplies KK has failed to:
+1. Complete work by 09-Jan-2026
+2. Meet quality specifications
+3. Respond to remedial notices
+
+Loss incurred: USD 455,236.62
+
+Certified by: _______________________
+Global Trading FZE
+--------------------------------------------------------------------------------

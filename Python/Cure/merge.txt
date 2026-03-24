@@ -1,0 +1,47 @@
+SELECT
+  d.id,
+  d.transaction_no,
+  d.cifno,
+  d.lc_number,
+  d.UserID,
+  d.Status AS case_status,
+  d.Model  AS case_model,
+  d.created_at AS case_created_at,
+  d.updated_at AS case_updated_at,
+
+  d.main_document,
+  d.sub_document,
+  d.Own_Standards_discrepancy,
+  d.Cross_Document_Validation_discrepancy,
+  d.Multihop_Discrepancy,
+
+  r.job_id,
+  r.[status] AS run_status,
+  r.created_at AS run_created_at,
+  r.overall_ai,
+  r.overall_rag,
+  r.mt799_ai,
+  r.mt799_rag,
+  r.[Duplicate Analysis]
+FROM dbo.tool_Whole_discrepancy d
+OUTER APPLY (
+  SELECT TOP 1 *
+  FROM dbo.tf_cure_results r
+  WHERE r.source_row_id = d.id
+    AND r.discrepancy_id = '__SUMMARY__'
+  ORDER BY r.created_at DESC
+) r
+WHERE d.id = @row_id;
+
+
+;WITH latest AS (
+  SELECT TOP 1 transaction_no
+  FROM dbo.tf_cure_results
+  WHERE source_row_id = @row_id
+  ORDER BY created_at DESC
+)
+SELECT *
+FROM dbo.tf_cure_results
+WHERE source_row_id = @row_id
+  AND transaction_no = (SELECT transaction_no FROM latest)
+ORDER BY CASE WHEN discrepancy_id='__SUMMARY__' THEN 1 ELSE 0 END, discrepancy_id;

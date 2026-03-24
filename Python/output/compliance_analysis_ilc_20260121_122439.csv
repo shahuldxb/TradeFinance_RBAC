@@ -1,0 +1,18 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Bill of Lading,Port of Loading,Yokohama,"Yokohama, Japan","Additional ""Japan"" in target document not specified in LC",Low
+LC,Bill of Lading,Port of Discharge,Sydney,"Sydney, Australia","Additional ""Australia"" in target document not specified in LC",Low
+LC,Bill of Lading,Place of Final Delivery,Australia,[To Be Advised],Missing final delivery location in Bill of Lading,High
+LC,Bill of Lading,Vessel Name and Voyage Number,Not specified in LC,[To Be Advised at the Time of Shipment],Missing vessel name and voyage number in Bill of Lading,High
+LC,Bill of Lading,Bill of Lading Number,Not specified in LC,[To Be Assigned],Missing Bill of Lading number in Bill of Lading,High
+LC,Bill of Lading,Date of Shipment,On or before 2026-03-30,[To Be Dated Upon Shipment],Missing shipment date in Bill of Lading,High
+LC,Certificate of Origin,Country of Origin of Goods,Japan,China,Country of origin mismatch,High
+LC,Certificate of Origin,Port of Loading,Yokohama,Yokohama,No discrepancy after normalization,-
+LC,Certificate of Origin,Port of Discharge,Sydney,Sydney,No discrepancy after normalization,-
+LC,Certificate of Origin,Final Destination,Australia,Australia,No discrepancy after normalization,-
+LC,Commercial Invoice,Date,Not specified in LC,"March 30, 2026",Date mismatch; LC requires documents to be presented within 21 days of shipment,Medium
+LC,Commercial Invoice,Notify Party,Not specified in LC,"Dubai Trading LLC, Dubai Marina, P.O. Box 12345, Dubai, UAE",Extra notify party details in Commercial Invoice,Low
+LC,Insurance Certificate,Coverage Percentage,Not specified in LC,110% of invoice value,Extra information in Insurance Certificate,Low
+LC,Insurance Certificate,Insured Amount,Not specified in LC,"USD 516,361.56",Extra information in Insurance Certificate,Low
+LC,Packing List,Volume,Not specified in LC,Not specified in Packing List,Missing volume information in Packing List,Medium
+LC,Quality Certificate,Inspection Location,Not specified in LC,Yokohama Port,Extra information in Quality Certificate,Low
+LC,Quality Certificate,Date of Inspection,Not specified in LC,"March 20, 2026",Extra information in Quality Certificate,Low

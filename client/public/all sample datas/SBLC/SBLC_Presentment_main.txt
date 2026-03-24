@@ -1,0 +1,38 @@
+EXPORT LETTER OF CREDIT (SIGHT)
+--------------------------------------------------------------------------------
+Issuing Bank: DBS Bank Ltd, Singapore, Singapore
+Advising Bank: Deutsche Bank AG, Frankfurt, Germany
+LC No.: DBSS-SIN-2025-369151
+Issue Date: 27-Jul-2025
+Expiry: 06-Oct-2025 at Frankfurt
+Rules: UCP 600, ISBP 821
+
+Applicant: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+Beneficiary: Shanghai Electronics Co. Ltd., Building 12, Pudong Industrial Park, Shanghai, China
+
+Amount: USD 504,224.64
+Tolerance: +10/-10%
+Incoterms: CFR Felixstowe (Incoterms® 2020)
+Shipment: From Shanghai to Felixstowe
+Latest Shipment: 16-Sep-2025
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Goods:
+Pharmaceutical Tablets - GMP certified, blister pack, 100 tablets per bottle
+HS Code: 3004.90
+Quantity: 18984 bottles
+GW: 4,362.06 kg, NW: 4,143.96 kg
+Origin: China
+
+Documents Required:
+1. Commercial Invoice (1 original + 2 copies) quoting LC number
+2. Full set 3/3 clean on board B/L to order of Issuing Bank, notify Applicant, freight prepaid
+3. Insurance for 110% CIC (C), War, SRCC, claims in UK
+4. Packing List quoting LC number
+5. Quality Certificate quoting LC number
+6. Certificate of Origin by Chamber of Commerce
+7. All documents must quote LC DBSS-SIN-2025-369151
+
+Presentation: Within 21 days after shipment, within LC validity
+--------------------------------------------------------------------------------

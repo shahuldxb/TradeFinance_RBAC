@@ -1,0 +1,9 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Bill of Lading (BOL),Gross Weight,Not specified,"6,552.00 KGS",Gross weight is not mentioned in the LC but is present in the BOL.
+Letter of Credit (LC),Bill of Lading (BOL),Freight,Not specified,PREPAID,Freight payment terms are not mentioned in the LC but are specified in the BOL.
+Letter of Credit (LC),Certificate of Origin (COO),Country of Origin,Germany,United States,"Discrepancy in the country of origin; LC specifies Germany, but COO mentions United States."
+Letter of Credit (LC),Insurance Certificate (INS),Insured Value,Not specified,"USD 265,068.38",Insured value is not mentioned in the LC but is specified in the Insurance Certificate.
+Letter of Credit (LC),Packing List (PL),Gross Weight,Not specified,"6,552.00 KGS",Gross weight is not mentioned in the LC but is present in the Packing List.
+Letter of Credit (LC),Packing List (PL),Number of Packages,Not specified,62 packages,Number of packages is not mentioned in the LC but is specified in the Packing List.
+Letter of Credit (LC),Quality Certificate (QC),Batch Number,Not specified,BATCH-928671,Batch number is not mentioned in the LC but is specified in the Quality Certificate.
+Letter of Credit (LC),Quality Certificate (QC),Production Date,Not specified,2025-12-13,Production date is not mentioned in the LC but is specified in the Quality Certificate.

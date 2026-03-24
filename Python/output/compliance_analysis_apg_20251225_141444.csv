@@ -1,0 +1,7 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Document 1.txt,Contract Value,"EUR 500,000.00",Not explicitly stated,Missing explicit contract value in Document 1.txt.
+Letter of Credit (LC),Document 3.txt,Advance Payment Amount,"EUR 50,000.00","EUR 48,000.00",Advance payment amount discrepancy.
+Letter of Credit (LC),Document 3.txt,Invoice Type,Not applicable,Proforma Invoice,Incorrect document type; Proforma Invoice instead of Commercial Invoice.
+Letter of Credit (LC),Document 5.txt,Ordering Customer Name,STU Energy Solutions,STU Energy,Incomplete name of ordering customer.
+Letter of Credit (LC),Document 7.txt,Expiry Date,"January 31, 2025","November 30, 2024",Expiry date discrepancy.
+Letter of Credit (LC),Document 7.txt,Purpose of Guarantee,"To guarantee the repayment of the advance payment of EUR 50,000.00",Advance payment guarantee,Purpose description is incomplete.

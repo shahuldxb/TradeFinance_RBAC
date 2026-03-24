@@ -1,0 +1,123 @@
+EXPORT LETTER OF CREDIT (SIGHT) - SUB LC (BACK-TO-BACK)
+--------------------------------------------------------------------------------
+
+Issuing Bank: Barclays Bank PLC
+                London, UK
+                SWIFT: BARCGB22
+
+Advising Bank: Deutsche Bank AG
+
+Sub LC Number: BBME-SUB-DUB-SUB-2025-SUB-943766
+Master LC Reference: BBME-DUB-2025-943766
+Date of Issue: 21-Aug-2025
+Date and Place of Expiry: 09-Nov-2025 at Germany
+
+Applicable Rules: UCP 600 (ICC Publication No. 600), ISBP 821
+
+Applicant (Intermediary/Trader):
+Singapore Commodities Pte Ltd
+1 Marina Boulevard, #20-01, Singapore 018989
+Singapore
+
+Beneficiary (Actual Supplier):
+European Machinery GmbH
+Industriestrasse 45, Munich
+Germany
+
+Amount: USD 168,703.36
+Tolerance: +10/-10%
+
+Available with: Barclays Bank PLC by sight payment
+
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Loading on Board/Dispatch/Taking in Charge at/from: Hamburg, Germany
+For Transportation to: Singapore
+Latest Date of Shipment: 17-Oct-2025
+
+Incoterms: EXW Hamburg (Incoterms® 2020)
+
+Description of Goods:
+Knitted Cotton T-shirts
+100% cotton, crew neck, short sleeve
+HS Code: 6109.10
+Quantity: 32342 pieces
+Unit Price: USD 5.22 per pieces
+Total Amount: USD 168,703.36
+Packing: cartons
+Gross Weight: Approximately 6656.20 kg
+Net Weight: Approximately 6323.39 kg
+Country of Origin: Germany
+
+Documents Required:
+
+1. COMMERCIAL INVOICE
+   - Signed commercial invoice in 1 original and 2 copies
+   - Issued by beneficiary
+   - Showing LC number BBME-SUB-DUB-SUB-2025-SUB-943766
+   - Showing buyer as Singapore Commodities Pte Ltd
+
+2. BILL OF LADING
+   - Full set (3/3) of clean on board ocean bills of lading
+   - Made out to order of Barclays Bank PLC
+   - Marked "Freight Collect"
+   - Notify: Singapore Commodities Pte Ltd
+   - Showing LC number BBME-SUB-DUB-SUB-2025-SUB-943766
+
+3. INSURANCE DOCUMENT
+   - Insurance policy or certificate for 110% of invoice value
+   - Covering Institute Cargo Clauses (C), War and SRCC
+   - Claims payable in Singapore
+   - Showing LC number BBME-SUB-DUB-SUB-2025-SUB-943766
+
+4. PACKING LIST
+   - Packing list in 1 original and 2 copies
+   - Showing LC number BBME-SUB-DUB-SUB-2025-SUB-943766
+   - Showing gross and net weights
+
+5. QUALITY CERTIFICATE
+   - Quality certificate issued by beneficiary or manufacturer
+   - Showing LC number BBME-SUB-DUB-SUB-2025-SUB-943766
+   - Certifying goods meet specifications
+
+6. CERTIFICATE OF ORIGIN
+   - Certificate of Origin issued by Chamber of Commerce
+   - Showing country of origin as Germany
+   - Showing LC number BBME-SUB-DUB-SUB-2025-SUB-943766
+
+Additional Conditions:
+- All documents must be presented within 21 days after the date of shipment but within the validity of the credit
+- All documents must quote LC number BBME-SUB-DUB-SUB-2025-SUB-943766
+- Documents with discrepancies will be held at applicant's risk pending authorization
+- All banking charges outside UK are for beneficiary's account
+
+Special Instructions:
+This Sub LC is issued back-to-back against Master LC BBME-DUB-2025-943766. Documents presented under this Sub LC will be used by the intermediary to claim under the Master LC after document substitution.
+
+Confirmation: Without
+
+Reimbursement:
+Claim reimbursement from Barclays Bank PLC by SWIFT
+
+Period for Presentation: 21 days after shipment date but within LC validity
+
+--------------------------------------------------------------------------------
+BACK-TO-BACK LC RELATIONSHIP:
+Master LC No.: BBME-DUB-2025-943766
+Master LC Amount: USD 177,582.49
+Sub LC Amount: USD 168,703.36
+Intermediary Margin: USD 8,879.12 (5.0%)
+
+Master LC Expiry: 04-Nov-2025
+Sub LC Expiry: 09-Nov-2025
+Time Gap: -5 days
+
+Master LC Shipment: 24-Oct-2025
+Sub LC Shipment: 17-Oct-2025
+Time Gap: 7 days
+--------------------------------------------------------------------------------
+
+Authorized Signature
+Barclays Bank PLC
+--------------------------------------------------------------------------------

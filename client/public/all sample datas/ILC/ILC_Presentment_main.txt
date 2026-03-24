@@ -1,0 +1,38 @@
+IMPORT LETTER OF CREDIT (SIGHT)
+--------------------------------------------------------------------------------
+Issuing Bank: Bank of China, Shanghai, China
+Advising Bank: Standard Chartered Bank, Singapore, Singapore
+LC No.: BKCH-SHA-2025-595457
+Issue Date: 21-Jul-2025
+Expiry: 25-Sep-2025 at Singapore
+Rules: UCP 600, ISBP 821
+
+Applicant: New York Import Corp, 350 Fifth Avenue, New York, NY 10118, USA
+Beneficiary: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+
+Amount: USD 288,102.26
+Tolerance: +10/-10%
+Incoterms: CFR Los Angeles (Incoterms® 2020)
+Shipment: From Felixstowe to Los Angeles
+Latest Shipment: 08-Sep-2025
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Goods:
+Steel Reinforcement Bars - Grade 60, diameter 12-32mm, length 12m
+HS Code: 7214.20
+Quantity: 398 metric tons
+GW: 474.43 kg, NW: 398.00 kg
+Origin: UK
+
+Documents Required:
+1. Commercial Invoice (1 original + 2 copies) quoting LC number
+2. Full set 3/3 clean on board B/L to order of Issuing Bank, notify Applicant, freight prepaid
+3. Insurance for 110% CIC (C), War, SRCC, claims in USA
+4. Packing List quoting LC number
+5. Quality Certificate quoting LC number
+6. Certificate of Origin by Chamber of Commerce
+7. All documents must quote LC BKCH-SHA-2025-595457
+
+Presentation: Within 21 days after shipment, within LC validity
+--------------------------------------------------------------------------------

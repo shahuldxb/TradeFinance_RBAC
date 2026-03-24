@@ -1,0 +1,191 @@
+BACK-TO-BACK LC SUPPORTING DOCUMENTS
+--------------------------------------------------------------------------------
+
+DOCUMENT 1: BACK-TO-BACK LC APPLICATION
+--------------------------------------------------------------------------------
+From: Singapore Commodities Pte Ltd
+To: Barclays Bank PLC
+Date: 16-Aug-2025
+Application Reference: BBLC-APP-2025-6038
+
+Subject: Application for Back-to-Back Letter of Credit
+
+Dear Sir/Madam,
+
+We have received Master LC No. BBME-DUB-2025-943766 from HSBC Bank Middle East in our favor for USD 177,582.49.
+
+We hereby request you to issue a Back-to-Back LC (Sub LC) with the following details:
+
+Beneficiary: European Machinery GmbH, Germany
+Amount: USD 150,945.11
+Goods: Knitted Cotton T-shirts
+Shipment: From Hamburg to Singapore
+Expiry: 25-Oct-2025
+
+We will substitute our commercial invoice and present documents under the Master LC.
+
+Security: Master LC No. BBME-DUB-2025-943766 serves as primary security
+
+Authorized Signatory: _______________________
+Singapore Commodities Pte Ltd
+--------------------------------------------------------------------------------
+
+
+DOCUMENT 2: TRIPARTITE AGREEMENT
+--------------------------------------------------------------------------------
+Date: 03-Aug-2025
+
+BETWEEN:
+
+PARTY A (Buyer): Vietnam Garment Exporters Ltd., Vietnam
+PARTY B (Intermediary): Singapore Commodities Pte Ltd, Singapore
+PARTY C (Supplier): European Machinery GmbH, Germany
+
+TRANSACTION STRUCTURE:
+
+1. Party A (Buyer) shall open Master LC in favor of Party B (Intermediary)
+2. Party B (Intermediary) shall open Sub LC (Back-to-Back) in favor of Party C (Supplier)
+3. Party C (Supplier) shall manufacture and ship goods
+4. Party C shall present documents under Sub LC
+5. Party B shall receive Sub LC documents, substitute invoice, and present under Master LC
+6. Party B shall pay Party C from Master LC proceeds
+
+GOODS:
+Description: Knitted Cotton T-shirts - 100% cotton, crew neck, short sleeve
+HS Code: 6109.10
+Quantity: 32342 pieces
+Origin: Germany
+
+COMMERCIAL TERMS:
+Supplier to Intermediary: USD 150,945.11
+Intermediary to Buyer: USD 177,582.49
+Intermediary Margin: USD 26,637.37
+
+RESPONSIBILITIES:
+Party A: Open Master LC, accept documents, make payment
+Party B: Arrange Master LC, open Sub LC, substitute documents
+Party C: Manufacture goods, ship, present documents under Sub LC
+
+PAYMENT FLOW:
+1. Party C ships goods → presents documents under Sub LC
+2. Party B receives Sub LC documents → substitutes invoice
+3. Party B presents documents under Master LC
+4. Party A's bank pays under Master LC
+5. Party B pays Party C from Master LC proceeds
+
+All parties agree to the above terms and conditions.
+
+Party A: _______________________    Date: _______________________
+Party B: _______________________    Date: _______________________
+Party C: _______________________    Date: _______________________
+--------------------------------------------------------------------------------
+
+
+DOCUMENT 3: DOCUMENT SUBSTITUTION PLAN
+--------------------------------------------------------------------------------
+Prepared by: Singapore Commodities Pte Ltd
+Date: 18-Aug-2025
+
+OBJECTIVE:
+To receive documents under Sub LC from supplier and substitute intermediary's invoice before presenting under Master LC.
+
+DOCUMENTS FROM SUPPLIER (Under Sub LC BBME-SUB-DUB-SUB-2025-SUB-943766):
+1. Supplier's Commercial Invoice - USD 150,945.11
+2. Bill of Lading consigned to order of Barclays Bank PLC
+3. Insurance Certificate for 110% of Sub LC value
+4. Packing List
+5. Quality Certificate
+6. Certificate of Origin
+
+DOCUMENT SUBSTITUTION ACTIONS:
+1. INVOICE: Replace supplier's invoice (USD 150,945.11) with intermediary's invoice (USD 177,582.49)
+2. BILL OF LADING: Endorse B/L from Sub LC bank to Master LC bank
+3. INSURANCE: Amend insurance to 110% of Master LC value (USD 195,340.73)
+4. PACKING LIST: Keep original (no change required)
+5. QUALITY CERTIFICATE: Keep original (no change required)
+6. CERTIFICATE OF ORIGIN: Keep original (no change required)
+
+DOCUMENTS TO PRESENT UNDER MASTER LC (BBME-DUB-2025-943766):
+1. Intermediary's Commercial Invoice - USD 177,582.49
+2. Bill of Lading endorsed to order of HSBC Bank Middle East
+3. Insurance Certificate for USD 195,340.73
+4. Packing List (from supplier)
+5. Quality Certificate (from supplier)
+6. Certificate of Origin (from supplier)
+
+TIMELINE:
+Day 0: Supplier ships goods
+Day 1: Supplier presents documents under Sub LC
+Day 2-5: Barclays Bank PLC examines Sub LC documents
+Day 6: Intermediary receives Sub LC documents
+Day 7-8: Intermediary substitutes invoice, endorses B/L, amends insurance
+Day 9: Intermediary presents documents under Master LC
+Day 10-15: HSBC Bank Middle East examines Master LC documents
+Day 16: Payment received under Master LC
+Day 17: Intermediary pays supplier under Sub LC
+
+CRITICAL DATES:
+Sub LC Shipment Date: 17-Oct-2025
+Sub LC Expiry: 25-Oct-2025
+Master LC Shipment Date: 24-Oct-2025
+Master LC Expiry: 04-Nov-2025
+
+Time available for document substitution: 10 days
+
+Prepared by: _______________________
+Singapore Commodities Pte Ltd
+--------------------------------------------------------------------------------
+
+
+DOCUMENT 4: BANK'S BACK-TO-BACK LC AGREEMENT
+--------------------------------------------------------------------------------
+Between: Barclays Bank PLC (The Bank)
+And: Singapore Commodities Pte Ltd (The Intermediary)
+Date: 18-Aug-2025
+
+WHEREAS:
+A. The Intermediary has received Master LC No. BBME-DUB-2025-943766 from HSBC Bank Middle East for USD 177,582.49
+B. The Intermediary requires a Sub LC to be issued to European Machinery GmbH to procure the goods
+C. The Bank agrees to issue the Sub LC subject to the terms below
+
+THE BANK AGREES TO:
+1. Issue Sub LC No. BBME-SUB-DUB-SUB-2025-SUB-943766 for USD 150,945.11
+2. Ensure Sub LC expires before Master LC expiry date
+3. Ensure Sub LC shipment date is earlier than Master LC shipment date
+4. Hold Sub LC documents for intermediary's document substitution
+
+THE INTERMEDIARY AGREES TO:
+1. Provide Master LC No. BBME-DUB-2025-943766 as primary security
+2. Substitute supplier's invoice with intermediary's invoice
+3. Endorse B/L from Sub LC bank to Master LC bank
+4. Present documents under Master LC within validity period
+5. Pay all banking charges related to both LCs
+
+SECURITY:
+Primary: Master LC No. BBME-DUB-2025-943766 (USD 177,582.49)
+Secondary: Cash margin of 20% (USD 37,608.21)
+
+MARGIN ARRANGEMENT:
+Master LC Amount: USD 177,582.49
+Sub LC Amount: USD 150,945.11
+Intermediary's Margin: USD 26,637.37 (15%)
+
+DOCUMENT SUBSTITUTION:
+The Bank shall hold documents received under Sub LC and release to Intermediary for document substitution. Intermediary must present substituted documents under Master LC within the time gap between Sub LC and Master LC expiry.
+
+CHARGES:
+- Sub LC issuance: 1.32% per quarter
+- Document handling: USD 273
+- SWIFT charges: As applicable
+- All charges for Intermediary's account
+
+TERMINATION:
+This agreement terminates upon:
+1. Payment received under Master LC, OR
+2. Expiry of Master LC without utilization, OR
+3. Mutual written agreement
+
+For Barclays Bank PLC: _______________________
+For Singapore Commodities Pte Ltd: _______________________
+Date: 18-Aug-2025
+--------------------------------------------------------------------------------

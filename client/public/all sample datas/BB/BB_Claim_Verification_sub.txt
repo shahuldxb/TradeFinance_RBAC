@@ -1,0 +1,76 @@
+
+GUARANTEE CLAIM LETTER
+--------------------------------------------------------------------------------
+[Australian Mining Equipment Pty Letterhead]
+
+Date: 03-Mar-2026
+
+To: Standard Chartered Bank
+    Singapore, Singapore
+
+Subject: Claim under Guarantee No. SCBL-BB-2025-233954 for USD 244,034.06
+
+1. REFERENCE
+We refer to Guarantee No. SCBL-BB-2025-233954 dated 03-Jul-2025 issued by your bank in favor of Australian Mining Equipment Pty (Beneficiary) for USD 244,034.06 in connection with Contract No. CONT-2025-4474.
+
+2. UNDERLYING CONTRACT
+Contract No.: CONT-2025-4474
+Contract Date: 09-Jun-2025
+Contractor: New York Import Corp
+Employer: Australian Mining Equipment Pty
+Contract Value: USD 3,997,739.57
+
+3. CIRCUMSTANCES LEADING TO CLAIM
+The Applicant has failed to comply with its obligations under the contract. Specifically:
+- Non-performance of contractual obligations
+- Delay in delivery beyond agreed timeline
+- Failure to meet quality standards
+
+Despite repeated notices, the Applicant has failed to remedy the default.
+
+4. INVOCATION
+In accordance with the guarantee terms, we hereby demand payment of USD 244,034.06 under the said guarantee.
+
+Payment Details:
+Bank: HSBC Bank Middle East
+Account: Australian Mining Equipment Pty
+Account No.: 668461435
+SWIFT: BARCGB22
+
+5. SUPPORTING DOCUMENTS
+1. Original Guarantee
+2. Copy of Contract
+3. Statement of Default
+4. Correspondence evidencing default
+
+6. DECLARATION
+We confirm:
+- This claim is made within the validity period
+- The amount claimed represents our loss
+- We are entitled to make this claim per guarantee terms
+
+7. REQUEST
+Please remit the guaranteed amount immediately upon receipt.
+
+For Australian Mining Equipment Pty
+Authorized Signatory: _______________________
+Name: John Smith
+Title: CEO
+--------------------------------------------------------------------------------
+
+
+STATEMENT OF DEFAULT
+--------------------------------------------------------------------------------
+Date: 03-Mar-2026
+Contract: CONT-2025-4474
+
+We certify that New York Import Corp has failed to:
+1. Complete work by 06-Dec-2025
+2. Meet quality specifications
+3. Respond to remedial notices
+
+Loss incurred: USD 244,034.06
+
+Certified by: _______________________
+Australian Mining Equipment Pty
+--------------------------------------------------------------------------------

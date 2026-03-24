@@ -1,0 +1,29 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+ibc.txt,Document 2.txt,Consignee,Vietnam Garment Exporters Ltd.,"To Order of Citi Bank PJSC, Dubai",Consignee does not match LC.
+ibc.txt,Document 2.txt,Notify Party,Not specified,"Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, D7, Ho Chi Minh City, Vietnam",Notify party is not specified in LC but is present in the Bill of Lading.
+ibc.txt,Document 2.txt,B/L No.,Not specified,CITI-DXB-2025-001122,B/L number is missing in LC but present in the Bill of Lading.
+ibc.txt,Document 2.txt,Description of Goods,Not specified,"350 cartons Knitted T‑shirts, HS 6109.10, GW 4,200.00 kg, NW 3,998.00 kg",Description of goods is missing in LC but present in the Bill of Lading.
+ibc.txt,Document 2.txt,Date of Issue,Not specified,21-Sep-2025,Date of issue is missing in LC but present in the Bill of Lading.
+ibc.txt,Document 2.txt,On Board Notation,Not specified,Shipped on Board 26-Sep-2025 at Jebel Ali,On board notation is missing in LC but present in the Bill of Lading.
+ibc.txt,Document 5.txt,Product Description,Not specified,"Knitted T‑shirts, 97% cotton / 3% elastane (short sleeve, crew neck)",Product description is missing in LC but present in the Commercial Invoice.
+ibc.txt,Document 5.txt,Quantity,Not specified,"350 cartons (50 pcs/carton = 17,500 pcs)",Quantity is missing in LC but present in the Commercial Invoice.
+ibc.txt,Document 5.txt,Unit Price,Not specified,USD 7.34 / piece,Unit price is missing in LC but present in the Commercial Invoice.
+ibc.txt,Document 5.txt,Merchandise Amount,Not specified,"USD 128,450.00",Merchandise amount is missing in LC but present in the Commercial Invoice.
+ibc.txt,Document 5.txt,Freight & Insurance,Not specified,Included as per CIF,Freight and insurance details are missing in LC but present in the Commercial Invoice.
+ibc.txt,Document 5.txt,Gross Weight,Not specified,"4,200.00 kg",Gross weight is missing in LC but present in the Commercial Invoice.
+ibc.txt,Document 5.txt,Net Weight,Not specified,"3,998.00 kg",Net weight is missing in LC but present in the Commercial Invoice.
+ibc.txt,Document 5.txt,Country of Origin,Not specified,U.A.E.,Country of origin is missing in LC but present in the Commercial Invoice.
+ibc.txt,Document 8.txt,Gross Weight,Not specified,"4,198.00 kg",Gross weight in Packing List differs from the Bill of Lading and Commercial Invoice.
+ibc.txt,Document 8.txt,Pallet Details,Not specified,Pallets 1–6 = 50 cartons each; Pallet 7 = 49 cartons,Pallet details are missing in LC but present in the Packing List.
+ibc.txt,Document 8.txt,Marks & Numbers,Not specified,GT/VGE/0913/25,Marks and numbers are missing in LC but present in the Packing List.
+ibc.txt,Document 11.txt,Buyer Specification,Not specified,VGE/KT-2025-09 (Rev A),Buyer specification is missing in LC but present in the Quality Certificate.
+ibc.txt,Document 11.txt,Product,Not specified,Knitted cotton T‑shirts,Product description is missing in LC but present in the Quality Certificate.
+ibc.txt,Document 11.txt,Fiber Content,Not specified,100% cotton,Fiber content is missing in LC but present in the Quality Certificate.
+ibc.txt,Document 11.txt,Sampling Plan,Not specified,"ISO 2859-1, AQL 2.5 (General Inspection Level II)",Sampling plan is missing in LC but present in the Quality Certificate.
+ibc.txt,Document 11.txt,Results,Not specified,Visual QC passed; measurements within tolerance; colorfastness to washing 4–5,Quality results are missing in LC but present in the Quality Certificate.
+ibc.txt,Document 11.txt,Country of Origin,Not specified,United Arab Emirates,Country of origin is missing in LC but present in the Quality Certificate.
+ibc.txt,Document 13.txt,Insurer,Not specified,"Dubai National Insurance Co. (DNIC), Dubai, UAE",Insurer details are missing in LC but present in the Insurance Certificate.
+ibc.txt,Document 13.txt,Policy/Certificate No.,Not specified,DNIC-CIF-2025-0913,Policy number is missing in LC but present in the Insurance Certificate.
+ibc.txt,Document 13.txt,Sum Insured,Not specified,"AED 471,000.00 (equivalent to 110% of invoice value)",Sum insured is missing in LC but present in the Insurance Certificate.
+ibc.txt,Document 13.txt,Coverage,Not specified,"Institute Cargo Clauses (A), Institute War Clauses (Cargo), Institute Strikes, Riots & Civil Commotions (Cargo)",Coverage details are missing in LC but present in the Insurance Certificate.
+ibc.txt,Document 13.txt,Claims Payable,Not specified,"Dubai, United Arab Emirates",Claims payable location is missing in LC but present in the Insurance Certificate.

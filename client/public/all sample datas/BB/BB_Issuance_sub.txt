@@ -1,0 +1,35 @@
+
+GUARANTEE APPLICATION
+--------------------------------------------------------------------------------
+From: Singapore Commodities Pte Ltd
+To: Emirates NBD
+Date: 22-May-2025
+
+We request issuance of BB with following details:
+
+Beneficiary: European Machinery GmbH
+Amount: USD 163,137.12
+Validity: 25-Apr-2026
+Contract: CONT-2025-2476
+
+Applicant: _______________________
+--------------------------------------------------------------------------------
+
+
+UNDERLYING CONTRACT (EXCERPT)
+--------------------------------------------------------------------------------
+Contract No.: CONT-2025-2476
+Date: 11-May-2025
+
+Contractor: Singapore Commodities Pte Ltd
+Employer: European Machinery GmbH
+
+Contract Value: USD 3,235,149.12
+Scope: Supply and installation of equipment
+
+Payment Terms: 30% advance, 60% on delivery, 10% retention
+
+Guarantee Requirement: BB for 5% of contract value
+
+Parties: _______________________
+--------------------------------------------------------------------------------

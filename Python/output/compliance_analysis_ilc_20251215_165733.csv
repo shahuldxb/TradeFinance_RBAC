@@ -1,0 +1,24 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Commercial Invoice (Document 10.txt),Invoice Date,N/A,20-Sep-2025,Missing field in LC.
+Letter of Credit (LC),Commercial Invoice (Document 10.txt),HS Code,N/A,6109.10,Missing field in LC.
+Letter of Credit (LC),Commercial Invoice (Document 10.txt),Quantity,N/A,"350 cartons (17,500 pcs)",Missing field in LC.
+Letter of Credit (LC),Commercial Invoice (Document 10.txt),Unit Price,N/A,USD 7.34 / piece,Missing field in LC.
+Letter of Credit (LC),Commercial Invoice (Document 10.txt),Gross Weight,N/A,"4,200.00 kg",Missing field in LC.
+Letter of Credit (LC),Commercial Invoice (Document 10.txt),Net Weight,N/A,"3,998.00 kg",Missing field in LC.
+Letter of Credit (LC),Commercial Invoice (Document 10.txt),Country of Origin,N/A,U.A.E.,Missing field in LC.
+Letter of Credit (LC),Quality Certificate (Document 2.txt),Fiber Content,N/A,100% cotton,"Discrepancy in product description. LC mentions ""Knitted T-shirts, 97% cotton / 3% elastane""."
+Letter of Credit (LC),Quality Certificate (Document 2.txt),Buyer Specification,N/A,VGE/KT-2025-09 (Rev A),Missing field in LC.
+Letter of Credit (LC),Quality Certificate (Document 2.txt),Sampling Plan,N/A,"ISO 2859-1, AQL 2.5",Missing field in LC.
+Letter of Credit (LC),Quality Certificate (Document 2.txt),Results,N/A,Visual QC passed; measurements within tolerance; colorfastness to washing 4–5,Missing field in LC.
+Letter of Credit (LC),Insurance Certificate (Document 3.txt),Sum Insured,N/A,"AED 471,000.00",Missing field in LC.
+Letter of Credit (LC),Insurance Certificate (Document 3.txt),Coverage,N/A,"Institute Cargo Clauses (A), Institute War Clauses (Cargo), Institute Strikes, Riots & Civil Commotions (Cargo)",Missing field in LC.
+Letter of Credit (LC),Insurance Certificate (Document 3.txt),Claims Payable,N/A,"Dubai, United Arab Emirates",Missing field in LC.
+Letter of Credit (LC),Bill of Lading (Document 6.txt),Vessel/Voyage,N/A,MV Ocean Star / VOY 078,Missing field in LC.
+Letter of Credit (LC),Bill of Lading (Document 6.txt),Place of Receipt,N/A,"Jebel Ali Free Zone, UAE",Missing field in LC.
+Letter of Credit (LC),Bill of Lading (Document 6.txt),Port of Loading,N/A,"Jebel Ali, UAE",Missing field in LC.
+Letter of Credit (LC),Bill of Lading (Document 6.txt),Port of Discharge,N/A,"Ho Chi Minh City, Vietnam",Missing field in LC.
+Letter of Credit (LC),Bill of Lading (Document 6.txt),Place of Delivery,N/A,"Cat Lai CY, Ho Chi Minh City, Vietnam",Missing field in LC.
+Letter of Credit (LC),Bill of Lading (Document 6.txt),On Board Notation,N/A,Shipped on Board 26-Sep-2025 at Jebel Ali,Missing field in LC.
+Letter of Credit (LC),Packing List (Document 8.txt),Gross Weight,"4,200.00 kg","4,198.00 kg",Discrepancy in gross weight.
+Letter of Credit (LC),Packing List (Document 8.txt),Total Cartons,N/A,350,Missing field in LC.
+Letter of Credit (LC),Packing List (Document 8.txt),Marks & Numbers,N/A,GT/VGE/0913/25,Missing field in LC.

@@ -1,0 +1,122 @@
+
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: European Machinery GmbH, Industriestrasse 45, Munich, Germany
+Buyer: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+
+Invoice No.: INV-20250904-8627
+Date: 04-Sep-2025
+LC No.: DBSS-SIN-2025-599213
+Incoterms: CFR Felixstowe (Incoterms® 2020)
+
+Item: Arabica Coffee Beans
+Description: Grade AA, moisture content max 12%, screen size 17+
+HS Code: 0901.21
+Quantity: 42162 kg
+Unit Price: USD 17.34
+Amount: USD 731,165.47
+GW: 47,006.29 kg
+NW: 42,077.68 kg
+Origin: Germany
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+BILL OF LADING
+--------------------------------------------------------------------------------
+Shipper: European Machinery GmbH, Industriestrasse 45, Munich
+Consignee: To Order of DBS Bank Ltd
+Notify: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ
+
+B/L No.: DBSS-SIN-2025-599213-BL9254
+Vessel/Voyage: MV Atlantic Voyager / VOY632
+Port of Loading: Bremerhaven, Germany
+Port of Discharge: Felixstowe, UK
+
+Goods: Arabica Coffee Beans, HS 0901.21
+Quantity: 42162 kg
+GW 47,006.29 kg, NW 42,162.00 kg
+
+Freight: Prepaid
+Originals: 3
+Issue Date: 05-Sep-2025
+On Board: 07-Sep-2025
+Clean on Board: YES
+
+Carrier: _______________________
+--------------------------------------------------------------------------------
+
+
+INSURANCE CERTIFICATE
+--------------------------------------------------------------------------------
+Insurer: Zurich Insurance
+Certificate No.: INS-20250903-8138
+Date: 03-Sep-2025
+Assured: To Order
+Endorsement: In blank
+LC No.: DBSS-SIN-2025-599213
+
+Interest: Arabica Coffee Beans
+Voyage: Bremerhaven to Felixstowe
+Sum Insured: USD 804,282.01
+Coverage: Institute Cargo Clauses (C), War, SRCC
+Claims Payable: UK
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: European Machinery GmbH
+Consignee: London Trading House Ltd
+LC No.: DBSS-SIN-2025-599213
+Date: 04-Sep-2025
+
+Quantity: 42162 kg
+GW: 47,006.29 kg
+NW: 42,162.00 kg
+Packing: jute bags
+
+Marks: European/0925
+Origin: Germany
+--------------------------------------------------------------------------------
+
+
+QUALITY CERTIFICATE
+--------------------------------------------------------------------------------
+Issuer: European Machinery GmbH QA Dept
+Certificate No.: QC-20250902-633
+Date: 02-Sep-2025
+LC Reference: DBSS-SIN-2025-599213
+
+Product: Arabica Coffee Beans
+Specification: Grade AA, moisture content max 12%, screen size 17+
+Quantity: 42162 kg
+Inspection: ISO 2859-1, AQL 2.5
+Result: PASSED
+Origin: Germany
+
+QA Manager: _______________________
+--------------------------------------------------------------------------------
+
+
+CERTIFICATE OF ORIGIN
+--------------------------------------------------------------------------------
+Issued by: Chamber of Commerce, Germany
+Certificate No.: CO-20250903-74104
+Date: 03-Sep-2025
+LC No.: DBSS-SIN-2025-599213
+
+Exporter: European Machinery GmbH
+Consignee: London Trading House Ltd
+
+Goods: Arabica Coffee Beans
+HS Code: 0901.21
+Quantity: 42162 kg
+
+COUNTRY OF ORIGIN: Germany
+
+Authorized Officer: _______________________
+--------------------------------------------------------------------------------

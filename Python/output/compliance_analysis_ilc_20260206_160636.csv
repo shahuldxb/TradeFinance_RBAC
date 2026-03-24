@@ -1,0 +1,11 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+DC NUMBER,B/L NUMBER,LC12345,BOL-67890,Mismatch in reference number,High,
+DATE OF ISSUE,DATE,2026-02-04,2026-03-10,Date mismatch,Medium,
+APPLICANT,CONSIGNEE,Global Imports Inc.,To the order of Mega Bank,Incorrect consignee,High,
+DESCRIPTION OF GOODS,DESCRIPTION OF GOODS,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Match,Low,
+INCOTERM,FREIGHT,CIF Shanghai Port,Prepaid,Incoterm not explicitly stated,Medium,
+AMOUNT,AMOUNT INSURED,"USD 50,000","USD 55,000",Insurance amount exceeds LC requirement,Medium,
+LATEST DATE OF SHIPMENT,DATE,2026-03-15,2026-03-10,Compliant,Low,
+EXPIRY DATE,DATE,2026-03-30,2026-03-10,Date mismatch,Medium,
+DOCUMENT LANGUAGE,DOCUMENT LANGUAGE,English,English,Match,Low,
+DESCRIPTION OF GOODS,GOODS,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Match,Low,

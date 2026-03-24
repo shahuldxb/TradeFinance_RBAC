@@ -1,0 +1,13 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Document 1.txt,Certified Delivery,5 units of Wind Turbine Generators,3 units of Wind Turbine Generators,Discrepancy in the number of units delivered.
+Letter of Credit (LC),Document 1.txt,Certified Value,"EUR 50,000.00","EUR 330,000.00",Certified value does not match the advance payment amount.
+Letter of Credit (LC),Document 1.txt,Remaining Guarantee Amount,"EUR 50,000.00","EUR 20,000.00",Remaining guarantee amount is inconsistent with the LC terms.
+Letter of Credit (LC),Document 3.txt,Value Date,"April 05, 2024","April 06, 2024",Value date mismatch between LC and bank advice.
+Letter of Credit (LC),Document 5.txt,Invoice Description,Contract No. WTG-2024-010,Contract No. WTG-2024-011,Contract number mismatch in invoice description.
+Letter of Credit (LC),Document 5.txt,Advance Amount,"EUR 50,000.00","EUR 55,000.00",Advance amount discrepancy between LC and invoice.
+Letter of Credit (LC),Document 7.txt,Contract Number,WTG-2024-010,WTG-2024-011,Contract number mismatch in the underlying sales contract.
+Letter of Credit (LC),Document 7.txt,Contract Date,"March 20, 2024","March 25, 2024",Contract date discrepancy in the underlying sales contract.
+Letter of Credit (LC),Document 7.txt,Goods Description,5 units of Wind Turbine Generators,6 units of Wind Turbine Generators,Discrepancy in the number of units in the goods description.
+Letter of Credit (LC),Document 7.txt,Contract Value,"EUR 500,000.00","EUR 550,000.00",Contract value discrepancy in the underlying sales contract.
+Letter of Credit (LC),Document 7.txt,Advance Payment,"EUR 50,000.00","EUR 55,000.00",Advance payment amount discrepancy in the underlying sales contract.
+Letter of Credit (LC),Document 7.txt,Delivery Schedule,Not specified,"Delivery to be completed on or before December 15, 2024",Delivery schedule missing in the LC but present in the sales contract.

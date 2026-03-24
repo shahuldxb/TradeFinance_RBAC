@@ -1,0 +1,28 @@
+
+PERFORMANCE GUARANTEE
+--------------------------------------------------------------------------------
+Guarantee No.: BKCH-PG-2025-767929
+Issue Date: 04-Jul-2025
+Issuing Bank: Bank of China, Shanghai, China
+SWIFT: BKCHCNBJ
+Applicable Rules: URDG 758
+
+Applicant (Principal): London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+Beneficiary: European Machinery GmbH, Industriestrasse 45, Munich, Germany
+
+Guarantee Amount: USD 329,020.73
+Expiry Date: 22-Jun-2026
+
+Underlying Contract: CONT-2025-1435 dated 15-Jun-2025
+Contract Value: USD 1,925,726.89
+
+GUARANTEE TEXT:
+We hereby irrevocably and unconditionally guarantee payment to the Beneficiary upon receipt of the Beneficiary's first written demand stating that the Applicant has failed to fulfill its obligations under the underlying contract.
+
+Any claim must be received at our counters on or before 22-Jun-2026.
+
+This guarantee is subject to URDG 758.
+
+For Bank of China
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------

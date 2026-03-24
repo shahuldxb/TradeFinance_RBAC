@@ -1,0 +1,38 @@
+EXPORT LETTER OF CREDIT (SIGHT)
+--------------------------------------------------------------------------------
+Issuing Bank: Citi Bank PJSC, Dubai, UAE
+Advising Bank: DBS Bank Ltd, Singapore, Singapore
+LC No.: CITI-DUB-2025-128921
+Issue Date: 31-Jul-2025
+Expiry: 03-Oct-2025 at Singapore
+Rules: UCP 600, ISBP 821
+
+Applicant: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+Beneficiary: Brazilian Coffee Exporters SA, Av. Paulista 1578, São Paulo, SP 01310-200, Brazil
+
+Amount: USD 531,687.25
+Tolerance: +10/-10%
+Incoterms: CIF Singapore Port (Incoterms® 2020)
+Shipment: From Rio de Janeiro to Singapore Port
+Latest Shipment: 21-Sep-2025
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Goods:
+Arabica Coffee Beans - Grade AA, moisture content max 12%, screen size 17+
+HS Code: 0901.21
+Quantity: 41168 kg
+GW: 47,356.52 kg, NW: 41,168.00 kg
+Origin: Brazil
+
+Documents Required:
+1. Commercial Invoice (1 original + 2 copies) quoting LC number
+2. Full set 3/3 clean on board B/L to order of Issuing Bank, notify Applicant, freight prepaid
+3. Insurance for 110% CIC (C), War, SRCC, claims in Singapore
+4. Packing List quoting LC number
+5. Quality Certificate quoting LC number
+6. Certificate of Origin by Chamber of Commerce
+7. All documents must quote LC CITI-DUB-2025-128921
+
+Presentation: Within 21 days after shipment, within LC validity
+--------------------------------------------------------------------------------

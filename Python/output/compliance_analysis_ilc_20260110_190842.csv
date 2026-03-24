@@ -1,0 +1,8 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,LC Reference,LC202601104450,LC202601104450-DOC002,Extra reference appended in LC reference.
+Letter of Credit,Bill of Lading,Consignee,To Order of Shipper,Global Trade Solutions Ltd,Consignee mismatch.
+Letter of Credit,Certificate of Origin,Country of Origin,Japan,Germany,Country of origin mismatch in declaration.
+Letter of Credit,Commercial Invoice,Declaration of Origin,Not explicitly stated,Germany,Declaration of origin missing or incorrect.
+Letter of Credit,Insurance Certificate,Insured Value,"USD 104,730.46","USD 115,203.51",Insured value exceeds LC amount (110% of CIF value).
+Letter of Credit,Packing List,Package Type,Not specified,Wooden crates / Cartons,Extra information on package type.
+Letter of Credit,Quality Certificate,Required Document,Not listed in LC,Quality Certificate,Quality Certificate not listed as a required document in LC.

@@ -1,0 +1,18 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Document 1.txt,Certified Delivery,Not mentioned,Delivery of 3 units of Wind Turbine Generators,Certified delivery details not mentioned in LC.
+Letter of Credit (LC),Document 1.txt,Certified Value,Not mentioned,"EUR 330,000.00",Certified value not mentioned in LC.
+Letter of Credit (LC),Document 1.txt,Requested Reduction Amount,Not mentioned,"EUR 30,000.00",Requested reduction amount not mentioned in LC.
+Letter of Credit (LC),Document 1.txt,Remaining Guarantee Amount,Not mentioned,"EUR 20,000.00",Remaining guarantee amount not mentioned in LC.
+Letter of Credit (LC),Document 3.txt,Value Date,Not mentioned,"April 06, 2024",Value date not mentioned in LC.
+Letter of Credit (LC),Document 3.txt,Payment Reference,Contract No. WTG-2024-010,Advance payment under Contract No. WTG-2024-010,No discrepancy.
+Letter of Credit (LC),Document 5.txt,Invoice Number,Not mentioned,API-7789,Invoice number not mentioned in LC.
+Letter of Credit (LC),Document 5.txt,Invoice Date,Not mentioned,"April 08, 2024",Invoice date not mentioned in LC.
+Letter of Credit (LC),Document 5.txt,Invoice Description,Advance payment for Wind Turbine Generators (Contract No. WTG-2024-010),Advance payment for Wind Turbine Generators (Contract No. WTG-2024-011),Contract number mismatch in invoice description.
+Letter of Credit (LC),Document 5.txt,Advance Amount,"EUR 50,000.00","EUR 55,000.00",Advance amount mismatch.
+Letter of Credit (LC),Document 5.txt,Payment Terms,Not mentioned,Advance payable within 7 days,Payment terms not mentioned in LC.
+Letter of Credit (LC),Document 7.txt,Contract Number,WTG-2024-010,WTG-2024-011,Contract number mismatch.
+Letter of Credit (LC),Document 7.txt,Contract Date,"March 20, 2024","March 25, 2024",Contract date mismatch.
+Letter of Credit (LC),Document 7.txt,Goods Description,5 units of Wind Turbine Generators,6 units of Wind Turbine Generators,Goods quantity mismatch.
+Letter of Credit (LC),Document 7.txt,Contract Value,"EUR 500,000.00 (implied from 10% advance of EUR 50,000.00)","EUR 550,000.00",Contract value mismatch.
+Letter of Credit (LC),Document 7.txt,Delivery Schedule,Not mentioned,"Delivery to be completed on or before December 15, 2024",Delivery schedule not mentioned in LC.
+Letter of Credit (LC),Document 7.txt,Buyer Name,STU Energy Solutions,STU Energy Systems,Buyer name mismatch.

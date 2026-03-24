@@ -1,0 +1,13 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Bill of Lading,Country of Origin,Japan,Not declared,Missing country of origin in Bill of Lading,High
+LC,Certificate of Origin,Country of Origin,Japan,Singapore,Mismatch in country of origin,High
+LC,Commercial Invoice,Date,2026-01-21,2026-04-12,Invoice date does not match LC issue date,Medium
+LC,Insurance Certificate,Date of Issue,2026-01-21,2026-04-12,Insurance certificate issue date does not match LC issue date,Medium
+LC,Quality Certificate,Date of Issue,2026-01-21,2026-04-12,Quality certificate issue date does not match LC issue date,Medium
+LC,Bill of Lading,Vessel Name & Voyage Number,(Not specified in LC),To be advised by carrier,Missing vessel name and voyage number in Bill of Lading,Medium
+LC,Bill of Lading,Bill of Lading Number,(Not specified in LC),To be assigned by carrier,Missing Bill of Lading number,Medium
+LC,Certificate of Origin,Final Destination,Australia,Not explicitly stated,Missing explicit final destination in Certificate of Origin,Low
+LC,Packing List,Marks and Numbers,Not specified in LC,LC202601217940 / GLOBAL TRADE SOLUTIONS LTD,Extra information in marks and numbers,Low
+LC,Insurance Certificate,Insured Amount,"USD 408,581.43",110% of invoice value,Insured amount exceeds LC value,Medium
+LC,Quality Certificate,Inspection Date,Not specified in LC,2026-04-10,Inspection date not mentioned in LC,Low
+LC,Bill of Lading,Freight Details,Not specified in LC,Freight Prepaid,Extra information in freight details,Low

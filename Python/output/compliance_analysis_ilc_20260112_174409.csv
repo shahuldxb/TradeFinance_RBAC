@@ -1,0 +1,18 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+ilc.txt,Certificate of Origin.txt,Port of Loading,Hamburg,Mumbai,Port of Loading mismatch.
+ilc.txt,Certificate of Origin.txt,Port of Discharge,Mumbai,Hamburg,Port of Discharge mismatch.
+ilc.txt,Certificate of Origin.txt,Date of Issue,2026-01-12,2026-07-02,Date of Issue mismatch.
+ilc.txt,Certificate of Origin.txt,Beneficiary Name,Tokyo Industries Co Ltd,Dubai Trading LLC,Beneficiary Name mismatch.
+ilc.txt,Certificate of Origin.txt,Applicant Name,Dubai Trading LLC,Tokyo Industries Co Ltd,Applicant Name mismatch.
+ilc.txt,Bill of Lading.txt,Shipping Terms,FOB,CIF Mumbai,Shipping Terms mismatch.
+ilc.txt,Bill of Lading.txt,Vessel Name and Voyage No.,(Not specified),To be advised,Missing Vessel Name and Voyage No.
+ilc.txt,Bill of Lading.txt,Date of Shipment on Board,On or before 2026-06-05,2026-06-05,Date of Shipment on Board formatting discrepancy.
+ilc.txt,Insurance Certificate.txt,Percentage of Insurance Coverage,Not specified,110% of the CIF Value,Extra information in Insurance Certificate.
+ilc.txt,Packing Details.txt,Total Packages,Not specified,5,Missing Total Packages in LC.
+ilc.txt,Packing Details.txt,Package Type,Not specified,Cartons,Missing Package Type in LC.
+ilc.txt,Packing List Date.txt,Packing List Date,Not specified,2026-06-01,Missing Packing List Date in LC.
+ilc.txt,Quality Certificate.txt,Date Generated,Not specified,2026-06-15,Missing Date Generated in LC.
+ilc.txt,Quality Certificate.txt,Port of Loading,Hamburg,Not specified,Missing Port of Loading in Quality Certificate.
+ilc.txt,Quality Certificate.txt,Port of Discharge,Mumbai,Not specified,Missing Port of Discharge in Quality Certificate.
+ilc.txt,Quality Certificate.txt,Date of Issue,Not specified,2026-06-15,Missing Date of Issue in LC.
+ilc.txt,Certificate of Origin.txt,Country of Origin,Germany,India,Country of Origin mismatch.

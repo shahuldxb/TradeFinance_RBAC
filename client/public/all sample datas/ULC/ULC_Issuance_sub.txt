@@ -1,0 +1,102 @@
+
+LC APPLICATION FORM
+--------------------------------------------------------------------------------
+Issuing Bank: HSBC Bank Middle East
+Branch: Dubai Trade Finance Department
+Application Date: 14-May-2025
+Application Reference: APP-BBME-DUB-2025-845900
+
+APPLICANT:
+London Trading House Ltd
+25 Old Broad Street, London EC2N 1HQ, UK
+Account: 102246472
+Contact: Mr. Ahmed Hassan
+Email: trade@london.com
+
+BENEFICIARY:
+European Machinery GmbH
+Industriestrasse 45, Munich, Germany
+
+LC DETAILS:
+Type: ULC
+Amount: USD 194,630.58
+Validity: 09-Aug-2025
+Latest Shipment: 30-Jul-2025
+Advising Bank: BNP Paribas, SWIFT: BNPAFRPP
+
+GOODS:
+Steel Reinforcement Bars - Grade 60, diameter 12-32mm, length 12m
+HS Code: 7214.20
+Quantity: 343 metric tons
+Unit Price: USD 567.44
+
+SHIPMENT:
+From: Bremerhaven, Germany
+To: Felixstowe, UK
+Incoterms: EXW (Incoterms® 2020)
+
+Applicant's Signature: _______________________
+Date: 14-May-2025
+--------------------------------------------------------------------------------
+
+
+UNDERLYING SALES CONTRACT
+--------------------------------------------------------------------------------
+Contract No.: SC-2025-2298
+Date: 26-Apr-2025
+
+SELLER: European Machinery GmbH, Industriestrasse 45, Munich, Germany
+BUYER: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+
+COMMODITY:
+Steel Reinforcement Bars - Grade 60, diameter 12-32mm, length 12m
+HS Code: 7214.20
+Quantity: 343 metric tons
+Unit Price: USD 567.44
+Total Value: USD 204,362.11
+
+PAYMENT:
+100% by irrevocable LC at sight, payable against shipping documents
+LC to be opened 30 days before shipment
+
+SHIPMENT:
+Period: July 2025
+From: Bremerhaven To: Felixstowe
+Incoterms: EXW (Incoterms® 2020)
+
+DOCUMENTS:
+Commercial Invoice, Full set B/L, Insurance, Packing List, Quality Certificate, Certificate of Origin
+
+Seller: _______________________    Buyer: _______________________
+--------------------------------------------------------------------------------
+
+
+PROFORMA INVOICE
+--------------------------------------------------------------------------------
+Seller: European Machinery GmbH, Industriestrasse 45, Munich, Germany
+Buyer: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+
+PI No.: PI-20250503-174
+Date: 03-May-2025
+Validity: 30 days
+
+GOODS:
+Steel Reinforcement Bars
+Specification: Grade 60, diameter 12-32mm, length 12m
+HS Code: 7214.20
+Quantity: 343 metric tons
+Unit Price: USD 567.44
+Total: USD 194,630.58
+
+SHIPMENT:
+Incoterms: EXW (Incoterms® 2020)
+From: Bremerhaven To: Felixstowe
+Estimated: July 2025
+Origin: Germany
+
+PAYMENT:
+100% by irrevocable LC at sight
+LC via: BNP Paribas
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------

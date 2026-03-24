@@ -1,0 +1,30 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Certificate of Origin (COO),Reference Number,LC-2024-001234,LC202601135804,Reference number mismatch.
+Letter of Credit (LC),Certificate of Origin (COO),Date of Issue,2024-01-15,15 June 2026,Date of issue mismatch.
+Letter of Credit (LC),Certificate of Origin (COO),Exporter Name,XYZ Manufacturing Co.,Mumbai Exports Pvt Ltd,Exporter name mismatch.
+Letter of Credit (LC),Certificate of Origin (COO),Exporter Address,"456 Industrial Road, Shanghai, 200000, China","Nariman Point, Mumbai 400021, India",Exporter address mismatch.
+Letter of Credit (LC),Certificate of Origin (COO),Consignee Name,ABC Trading Company Ltd.,Singapore Commodities Pte,Consignee name mismatch.
+Letter of Credit (LC),Certificate of Origin (COO),Consignee Address,"123 Business Street, New York, NY 10001, USA","1 Raffles Place, Singapore 048616, Singapore",Consignee address mismatch.
+Letter of Credit (LC),Certificate of Origin (COO),Country of Origin,Germany,India,Country of origin mismatch.
+Letter of Credit (LC),Certificate of Origin (COO),Port of Loading,Hamburg,"Mumbai, India",Port of loading mismatch.
+Letter of Credit (LC),Certificate of Origin (COO),Port of Discharge,New York,Hamburg,Port of discharge mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Reference Number,LC-2024-001234,LC202601135804,Reference number mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Date of Issue,2024-01-15,15 January 2026,Date of issue mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Insured Party Name,XYZ Manufacturing Co.,Singapore Commodities Pte,Insured party name mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Insured Party Address,"456 Industrial Road, Shanghai, 200000, China","1 Raffles Place, Singapore 048616, Singapore",Insured party address mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Consignor Name,XYZ Manufacturing Co.,Mumbai Exports Pvt Ltd,Consignor name mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Consignor Address,"456 Industrial Road, Shanghai, 200000, China","Nariman Point, Mumbai 400021, India",Consignor address mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Total Insured Value,"USD 550,000.00","USD 325,265.95",Total insured value mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Port of Shipment,Hamburg,"Mumbai, India",Port of shipment mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Port of Discharge,New York,"Hamburg, Germany",Port of discharge mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Place of Final Delivery,China,India,Place of final delivery mismatch.
+Letter of Credit (LC),Quality Certificate (QC),Reference Number,LC-2024-001234,LC202601135804,Reference number mismatch.
+Letter of Credit (LC),Quality Certificate (QC),Date of Issue,2024-01-15,2026-05-26,Date of issue mismatch.
+Letter of Credit (LC),Quality Certificate (QC),Exporter Name,XYZ Manufacturing Co.,Mumbai Exports Pvt Ltd,Exporter name mismatch.
+Letter of Credit (LC),Quality Certificate (QC),Exporter Address,"456 Industrial Road, Shanghai, 200000, China","Nariman Point, Mumbai 400021, India",Exporter address mismatch.
+Letter of Credit (LC),Quality Certificate (QC),Importer Name,ABC Trading Company Ltd.,Singapore Commodities Pte,Importer name mismatch.
+Letter of Credit (LC),Quality Certificate (QC),Importer Address,"123 Business Street, New York, NY 10001, USA","1 Raffles Place, Singapore 048616, Singapore",Importer address mismatch.
+Letter of Credit (LC),Quality Certificate (QC),Port of Loading,Hamburg,"Mumbai, India",Port of loading mismatch.
+Letter of Credit (LC),Quality Certificate (QC),Port of Discharge,New York,Hamburg,Port of discharge mismatch.
+Letter of Credit (LC),Bill of Lading (BOL),Reference Number,LC-2024-001234,LC202601135804,Reference number mismatch.
+Letter of Credit (LC),Bill of Lading (BOL),Date of Issue,2024-01-15,26 May 2026,Date of issue mismatch.

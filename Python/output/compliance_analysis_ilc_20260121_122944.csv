@@ -1,0 +1,18 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Bill of Lading,Date of Issue,2026-03-06,"March 6, 2026",Date format mismatch,Low
+LC,Bill of Lading,Vessel Name,[Not specified in LC],[To be provided by carrier],Missing vessel name in Bill of Lading,Medium
+LC,Bill of Lading,Voyage Number,[Not specified in LC],[To be provided by carrier],Missing voyage number in Bill of Lading,Medium
+LC,Bill of Lading,Marks and Numbers,[Not specified in LC],[To be provided based on packing details],Missing marks and numbers in Bill of Lading,Medium
+LC,Certificate of Origin,Exporting Country,UAE,India,Exporting country mismatch,High
+LC,Certificate of Origin,Origin Criterion,[Not specified in LC],The goods are of Indian origin,Extra information in Certificate of Origin,Low
+LC,Commercial Invoice,Issuing Bank,HSBC Bank PLC,Bank of China,Issuing bank mismatch,High
+LC,Commercial Invoice,Shipping Terms,CIP,CIF,Shipping terms mismatch,High
+LC,Insurance Certificate,Effective Date,2026-03-06,"January 21, 2026",Effective date mismatch,High
+LC,Insurance Certificate,Expiry Date,2026-03-23,"March 23, 2026",Date format mismatch,Low
+LC,Insurance Certificate,Insurance Company,[Not specified in LC],HSBC Insurance Co. Ltd,Extra information in Insurance Certificate,Low
+LC,Packing List,Gross Weight,[Not specified in LC],1200 KGS,Missing gross weight in LC,Medium
+LC,Packing List,Net Weight,[Not specified in LC],1200 KGS,Missing net weight in LC,Medium
+LC,Packing List,Total Number of Packages,[Not specified in LC],5,Missing total number of packages in LC,Medium
+LC,Packing List,Type of Packing,[Not specified in LC],Export-standard cartons,Missing type of packing in LC,Medium
+LC,Quality Certificate,Inspection Location,[Not specified in LC],"Ho Chi Minh City, Vietnam",Extra information in Quality Certificate,Low
+LC,Quality Certificate,Inspection Completion Date,[Not specified in LC],06 March 2026,Extra information in Quality Certificate,Low

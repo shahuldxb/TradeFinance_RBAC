@@ -1,0 +1,24 @@
+{1:F01SENDERBICXXXX0000000000}
+{2:I707RECEIVERBICXXXXN}
+{3:{108:2508155ACC64060E}}
+{4:
+:27:1/1
+:20:AMEND-NY-2025-4589-01
+:21:ILC-NY-2025-4589
+:23:ILC-NY-2025-4589
+:30:251129
+:22A:AMND
+:26E:01
+:31C:251129
+:31E:260131
+:32B:USD935000.00
+:39A:10/10
+:44C:260115
+:79:The Documentary Credit is amended as follows:
+1. Field 31E (Date of Expiry) is extended from December 15, 2025, to January 31, 2026.
+2. Field 32B (Currency Code, Amount) is increased by USD 85,000.00 (Ten percent of the original amount) from USD 850,000.00 to USD 935,000.00.
+3. Field 39A (Tolerance) is changed from 0/0 to 10/10 (10% plus and 10% minus).
+4. Field 44C (Latest Date of Shipment) is extended from November 30, 2025, to January 15, 2026.
+5. Field 71B (Charges): All charges related to this amendment, including the Advising Bank's charges, are for the account of the Applicant, GlobalTech Solutions Inc.
+-}
+{5:{MAC:00000000}{CHK:000000000000}}

@@ -1,0 +1,15 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Commercial Invoice (Document 5.txt),Product Description,Knitted cotton T-shirts,"Knitted T-shirts, 97% cotton / 3% elastane (short sleeve, crew neck)",Product description mismatch.
+Letter of Credit (LC),Commercial Invoice (Document 5.txt),Gross Weight,"4,200.00 kg","4,200.00 kg",No discrepancy.
+Letter of Credit (LC),Commercial Invoice (Document 5.txt),Net Weight,"3,998.00 kg","3,998.00 kg",No discrepancy.
+Letter of Credit (LC),Packing List (Document 8.txt),Gross Weight,"4,200.00 kg","4,198.00 kg",Gross weight mismatch.
+Letter of Credit (LC),Packing List (Document 8.txt),Total Cartons,350,350,No discrepancy.
+Letter of Credit (LC),Bill of Lading (Document 2.txt),Consignee,"To Order of Citi Bank PJSC, Dubai","To Order of Citi Bank PJSC, Dubai",No discrepancy.
+Letter of Credit (LC),Bill of Lading (Document 2.txt),Notify Party,"Vietnam Garment Exporters Ltd., Ho Chi Minh City, Vietnam","Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, D7, Ho Chi Minh City, Vietnam",Address mismatch in Notify Party.
+Letter of Credit (LC),Bill of Lading (Document 2.txt),Description of Goods,Knitted cotton T-shirts,"350 cartons Knitted T-shirts, HS 6109.10, GW 4,200.00 kg, NW 3,998.00 kg",Description mismatch.
+Letter of Credit (LC),Insurance Certificate (Document 13.txt),Sum Insured,"USD 128,450.00","AED 471,000.00",Currency and value mismatch in Sum Insured.
+Letter of Credit (LC),Quality Certificate (Document 11.txt),Product Description,Knitted cotton T-shirts,Knitted cotton T-shirts,No discrepancy.
+Letter of Credit (LC),Quality Certificate (Document 11.txt),Buyer,"Vietnam Garment Exporters Ltd., Ho Chi Minh City, Vietnam","Vietnam Garment Exporters Ltd., Ho Chi Minh City, Vietnam",No discrepancy.
+Letter of Credit (LC),Quality Certificate (Document 11.txt),Date of Issue,10-Sep-2025,20-Sep-2025,Date mismatch.
+Letter of Credit (LC),Packing List (Document 8.txt),Pallet Details,Not specified,Pallets 1–6 = 50 cartons each; Pallet 7 = 49 cartons,Extra information in Packing List.
+Letter of Credit (LC),Bill of Lading (Document 2.txt),On Board Notation Date,Not specified,Shipped on Board 26-Sep-2025 at Jebel Ali,Missing On Board Notation Date in LC.

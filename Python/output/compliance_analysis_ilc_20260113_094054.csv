@@ -1,0 +1,19 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Bill of Lading (BOL),Vessel Name,[Not Applicable],[Insert Vessel Name],Missing vessel name in BOL.
+Letter of Credit (LC),Bill of Lading (BOL),Voyage Number,[Not Applicable],[Insert Voyage Number],Missing voyage number in BOL.
+Letter of Credit (LC),Bill of Lading (BOL),Bill of Lading Number,[Not Applicable],[Insert B/L Number],Missing Bill of Lading number in BOL.
+Letter of Credit (LC),Bill of Lading (BOL),Gross Weight,[Not Applicable],[Insert Gross Weight],Missing gross weight in BOL.
+Letter of Credit (LC),Bill of Lading (BOL),Net Weight,[Not Applicable],[Insert Net Weight],Missing net weight in BOL.
+Letter of Credit (LC),Bill of Lading (BOL),Volume,[Not Applicable],[Insert Volume],Missing volume in BOL.
+Letter of Credit (LC),Bill of Lading (BOL),Freight Terms,[Not Applicable],[Insert Freight Terms],Missing freight terms in BOL.
+Letter of Credit (LC),Bill of Lading (BOL),Marks and Numbers,[Not Applicable],[Insert Container/Package Marks and Numbers],Missing marks and numbers in BOL.
+Letter of Credit (LC),Certificate of Origin (COO),Reference Number,LC202601136315,CO202601136315,Reference number mismatch.
+Letter of Credit (LC),Certificate of Origin (COO),Country of Origin,China,Singapore,Country of origin mismatch.
+Letter of Credit (LC),Quality Certificate (QC),Inspection Date,[Not Applicable],"April 12, 2026",Missing inspection date in LC.
+Letter of Credit (LC),Quality Certificate (QC),Authorized Inspection Body Name,[Not Applicable],[Authorized Inspection Body Name],Missing authorized inspection body name in QC.
+Letter of Credit (LC),Quality Certificate (QC),Authorized Signature,[Not Applicable],[Authorized Signature],Missing authorized signature in QC.
+Letter of Credit (LC),Insurance Certificate (INS),Percentage Cover,[Not Applicable],110% of CIF Value,Percentage cover not specified in LC.
+Letter of Credit (LC),Insurance Certificate (INS),Insurance Company Name,[Not Applicable],XYZ Insurance Co. Pte Ltd,Missing insurance company name in LC.
+Letter of Credit (LC),Insurance Certificate (INS),Authorized Representative,[Not Applicable],[Authorized Signatory Name],Missing authorized representative in LC.
+Letter of Credit (LC),Packing List (PL),Dimensions and Weight,[Not Applicable],As per standard shipping requirements for electronics,Missing dimensions and weight in LC.
+Letter of Credit (LC),Packing List (PL),Packing Type,[Not Applicable],Export-grade packaging suitable for high-value electronics,Missing packing type in LC.

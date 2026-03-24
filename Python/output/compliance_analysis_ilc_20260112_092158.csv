@@ -1,0 +1,8 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Bill of Lading (BOL),Gross Weight,Not specified,541.80 KGS,Gross weight is not mentioned in the LC but is present in the BOL.
+Letter of Credit (LC),Certificate of Origin (COO),Country of Origin,Germany,Japan,"Country of origin mismatch. LC specifies Germany, but COO mentions Japan."
+Letter of Credit (LC),Insurance Certificate (INS),Insured Value,Not specified,"USD 428,465.98",Insured value is not mentioned in the LC but is present in the INS.
+Letter of Credit (LC),Packing List (PL),Gross Weight,Not specified,541.80 KGS,Gross weight is not mentioned in the LC but is present in the PL.
+Letter of Credit (LC),Packing List (PL),Number of Packages,Not specified,5 packages,Number of packages is not mentioned in the LC but is present in the PL.
+Letter of Credit (LC),Quality Certificate (QC),Batch Number,Not specified,BATCH-574426,Batch number is not mentioned in the LC but is present in the QC.
+Letter of Credit (LC),Quality Certificate (QC),Production Date,Not specified,2025-12-13,Production date is not mentioned in the LC but is present in the QC.

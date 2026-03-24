@@ -1,0 +1,8 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Document 1.txt,Contract Date,"March 20, 2024",20 March 2024,Date format discrepancy.
+Letter of Credit (LC),Document 1.txt,Contract Value,"EUR 500,000.00",Not explicitly stated,Missing explicit contract value in Document 1.txt.
+Letter of Credit (LC),Document 3.txt,Invoice Type,Not applicable,Proforma Invoice,Incorrect document type; Proforma Invoice provided instead of Commercial Invoice.
+Letter of Credit (LC),Document 3.txt,Invoice Number,Not applicable,PI-APG-045,Invoice number not referenced in LC.
+Letter of Credit (LC),Document 3.txt,Advance Payment Amount,"EUR 50,000.00","EUR 48,000.00",Advance payment amount discrepancy.
+Letter of Credit (LC),Document 5.txt,Ordering Customer Name,STU Energy Solutions,STU Energy,Name discrepancy in ordering customer.
+Letter of Credit (LC),Document 5.txt,Value Date,Not explicitly stated,"April 08, 2024",Value date not mentioned in LC.

@@ -1,0 +1,16 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Date of Issue,2026-03-04,2026-04-03,Date of issue on Bill of Lading is later than the latest shipment date specified in the LC.
+Letter of Credit,Bill of Lading,Place of Issue,Not specified,"Sydney, Australia",Place of issue is not specified in the LC but is mentioned in the Bill of Lading.
+Letter of Credit,Bill of Lading,Vessel Name,Not specified,[Insert Vessel Name],Vessel name is missing in the Bill of Lading.
+Letter of Credit,Bill of Lading,Voyage Number,Not specified,[Insert Voyage Number],Voyage number is missing in the Bill of Lading.
+Letter of Credit,Certificate of Origin,Country of Origin,Japan,India,Country of origin in the Certificate of Origin does not match the LC.
+Letter of Credit,Certificate of Origin,Date of Issue,Not specified,"March 4, 2026",Date of issue is not specified in the LC but is mentioned in the Certificate of Origin.
+Letter of Credit,Commercial Invoice,Date,Not specified,2026-03-04,Date is not specified in the LC but is mentioned in the Commercial Invoice.
+Letter of Credit,Commercial Invoice,Shipment Date,On or before 2026-03-04,2026-03-04,"Shipment date matches the latest shipment date but is not explicitly stated as ""on or before"" in the Commercial Invoice."
+Letter of Credit,Insurance Certificate,Total Insured Value,Not specified,"USD 249,658.19 (CIF value, including 10% over invoice value)","Total insured value includes 10% over invoice value, which is not explicitly stated in the LC."
+Letter of Credit,Insurance Certificate,Bill of Lading Reference,Not specified,To be advised,Bill of Lading reference is missing in the Insurance Certificate.
+Letter of Credit,Packing List,Number of Packages,Not specified,5,Number of packages is not specified in the LC but is mentioned in the Packing List.
+Letter of Credit,Packing List,Type of Packaging,Not specified,Secure chemical-grade drums,Type of packaging is not specified in the LC but is mentioned in the Packing List.
+Letter of Credit,Quality Certificate,Issued By,Not specified,Deutsche Handels GmbH,Issuer of the Quality Certificate is not specified in the LC but is mentioned in the Quality Certificate.
+Letter of Credit,Quality Certificate,Inspection Location,Not specified,"Yokohama, Japan",Inspection location is not specified in the LC but is mentioned in the Quality Certificate.
+Letter of Credit,Quality Certificate,Date of Inspection,Not specified,2026-03-03,Date of inspection is not specified in the LC but is mentioned in the Quality Certificate.

@@ -1,0 +1,28 @@
+
+ADVANCE PAYMENT GUARANTEE
+--------------------------------------------------------------------------------
+Guarantee No.: EBIL-APG-2025-252246
+Issue Date: 16-Aug-2025
+Issuing Bank: Emirates NBD, Dubai, UAE
+SWIFT: EBILAEAD
+Applicable Rules: URDG 758
+
+Applicant (Principal): New York Import Corp, 350 Fifth Avenue, New York, NY 10118, USA
+Beneficiary: European Machinery GmbH, Industriestrasse 45, Munich, Germany
+
+Guarantee Amount: USD 453,898.03
+Expiry Date: 16-Jun-2026
+
+Underlying Contract: CONT-2025-5564 dated 05-Aug-2025
+Contract Value: USD 6,149,134.22
+
+GUARANTEE TEXT:
+We hereby irrevocably and unconditionally guarantee payment to the Beneficiary upon receipt of the Beneficiary's first written demand stating that the Applicant has failed to fulfill its obligations under the underlying contract.
+
+Any claim must be received at our counters on or before 16-Jun-2026.
+
+This guarantee is subject to URDG 758.
+
+For Emirates NBD
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------

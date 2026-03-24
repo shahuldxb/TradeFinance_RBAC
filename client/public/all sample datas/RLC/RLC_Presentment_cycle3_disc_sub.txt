@@ -1,0 +1,52 @@
+DISCREPANCY REPORT
+Instrument: RLC
+Lifecycle: Presentment Cycle 3
+Generated: 30-Oct-2025
+
+================================================================================
+=== OWN DISCREPANCIES (Main Document) ===
+[Count: 0]
+
+================================================================================
+=== CROSS-DOCUMENT DISCREPANCIES ===
+[Count: 4]
+
+1. Type: Document Mismatch
+   Documents: LC Document vs Commercial Invoice
+   Description: Net weight differs from LC
+   Expected: 338.00 kg (LC)
+   Actual: 337.32 kg (Invoice)
+   Rule: Weight must match LC requirement
+
+2. Type: Document Mismatch
+   Documents: LC Document vs Bill of Lading
+   Description: Shipment date exceeds LC deadline
+   Expected: 24-Oct-2025 (LC latest)
+   Actual: 26-Oct-2025 (B/L on board)
+   Rule: UCP 600 Art 20 - Late shipment
+
+3. Type: Document Mismatch
+   Documents: LC Document vs Insurance Certificate
+   Description: Insurance in wrong currency
+   Expected: USD (LC requirement)
+   Actual: AED (Insurance)
+   Rule: UCP 600 Art 28 - Must be in LC currency
+
+4. Type: Document Mismatch
+   Documents: Bill of Lading vs Packing List
+   Description: Gross weight discrepancy
+   Expected: 389.46 kg (B/L)
+   Actual: 387.51 kg (Packing List)
+   Rule: Weights must be consistent
+
+================================================================================
+=== STANDARDS VIOLATIONS ===
+[Count: 1]
+
+1. Type: Standards Violation
+   Location: Bill of Lading
+   Description: Late shipment violates LC terms
+   Standard: UCP 600 Article 14(a)
+   Violation: Shipped after latest shipment date
+   Consequence: Document will be rejected
+

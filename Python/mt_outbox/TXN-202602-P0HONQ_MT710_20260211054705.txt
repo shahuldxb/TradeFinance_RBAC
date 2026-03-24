@@ -1,0 +1,36 @@
+{
+  "instrument_code": "MT707",
+  "lifecycle_code": "AMEND",
+  "variance_code": "INCREASE",
+  "message_type_code": "707",
+  "message_attributes": [
+    {"key": "20", "value": "FNB-NYC-LC-2025-4589"},
+    {"key": "21", "value": "GTSI-AMEND-2025-001"},
+    {"key": "31C", "value": "251129"},
+    {"key": "40B", "value": "IRREVOCABLE"},
+    {"key": "40E", "value": "UCP600"},
+    {"key": "31D", "value": "260131NEW YORK, USA"},
+    {"key": "50", "value": "GLOBALTECH SOLUTIONS INC., 123 TECH PARK, NEW YORK, USA"},
+    {"key": "59", "value": "BENEFICIARY NAME, ADDRESS, CITY, COUNTRY"},
+    {"key": "32B", "value": "USD525000.00"},
+    {"key": "41a", "value": "ANY BANK IN NEW YORK BY NEGOTIATION"},
+    {"key": "44C", "value": "260120"},
+    {"key": "46A", "value": "CERTIFICATE OF ORIGIN, ISSUED BY THE BENEFICIARY OR THEIR AUTHORIZED AGENT"},
+    {"key": "47A", "value": "THE BENEFICIARY MUST PROVIDE A FAX OR EMAIL NOTIFICATION TO THE APPLICANT (GLOBALTECH SOLUTIONS INC.) AT ELIAS.VANCE@GLOBALTECH.COM AT LEAST 72 HOURS PRIOR TO THE ACTUAL SHIPMENT DATE, CONFIRMING THE VESSEL NAME, ESTIMATED TIME OF DEPARTURE (ETD), AND ESTIMATED TIME OF ARRIVAL (ETA). FAILURE TO PROVIDE THIS NOTIFICATION, WHILE NOT CONSTITUTING A DISCREPANCY UNDER UCP 600, WILL BE CONSIDERED A BREACH OF THE UNDERLYING COMMERCIAL CONTRACT AND MAY RESULT IN A CLAIM OUTSIDE OF THE DOCUMENTARY CREDIT MECHANISM."},
+    {"key": "48", "value": "21 DAYS AFTER SHIPMENT DATE"},
+    {"key": "27", "value": "1/1"}
+  ],
+  "discrepancies": [
+    {
+      "severity": "CRITICAL",
+      "category": "LIFECYCLE",
+      "tag": null,
+      "rule_id": null,
+      "error_code": null,
+      "description": "Message type and lifecycle code mismatch.",
+      "expected": "MT707 with lifecycle_code AMEND",
+      "found": "MT710 structure expected for AMEND lifecycle",
+      "suggestion": "Ensure the message type and lifecycle code align with the expected structure."
+    }
+  ]
+}

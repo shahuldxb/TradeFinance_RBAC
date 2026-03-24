@@ -1,0 +1,39 @@
+EXPORT LETTER OF CREDIT (SIGHT)
+--------------------------------------------------------------------------------
+Issuing Bank: Emirates NBD, Dubai, UAE
+Advising/Nominated Bank: DBS Bank Ltd, Singapore, Singapore
+Credit No.: EBIL-DUB-2025-953829
+Date of Issue: 10-Jul-2025
+Applicable Rules: UCP 600, ISBP 821 (latest revision)
+Expiry Date/Place: 19-Sep-2025 / Singapore, Singapore
+
+Applicant (Buyer): Tokyo Industrial Supplies KK, 3-1-1 Marunouchi, Chiyoda-ku, Tokyo 100-0005, Japan
+Beneficiary (Seller): Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+Currency/Amount: USD 200,253.82
+Tolerance: +10/-10
+Incoterms: EXW Singapore Port (Incoterms® 2020)
+Port of Loading: Singapore Port, Singapore
+Port of Discharge: Tokyo, Japan
+Latest Shipment Date: 22-Sep-2025
+Presentation Period: Within 21 days after the date of shipment but within the validity of the credit
+Partial Shipments: Not Allowed
+Transshipment: Not Allowed
+
+Goods Description:
+- Steel Reinforcement Bars
+- Grade 60, diameter 12-32mm, length 12m
+- HS Code: 7214.20
+- Quantity: 341 metric tons
+- Gross Weight: 434.10 kg
+- Net Weight: 341.00 kg
+- Country of Origin: Singapore
+
+Documents Required:
+1. Commercial invoice in 1 original + 2 copies, quoting LC number EBIL-DUB-2025-953829.
+2. Full set 3/3 original clean on board ocean B/L to order of Issuing Bank, notify Applicant, freight collect.
+3. Insurance policy/certificate for 110% of invoice value, Institute Cargo Clauses (C), War and SRCC, claims payable in Japan.
+4. Packing list quoting LC number.
+5. Quality certificate quoting LC number.
+6. Certificate of Origin issued by Chamber of Commerce.
+7. All documents must quote LC number EBIL-DUB-2025-953829.
+--------------------------------------------------------------------------------

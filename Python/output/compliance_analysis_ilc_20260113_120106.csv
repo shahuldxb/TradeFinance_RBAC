@@ -1,0 +1,36 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Bill of Lading (BOL),Reference Number,LC-2024-001234,LC202601138697,LC reference number mismatch.
+Letter of Credit (LC),Bill of Lading (BOL),Shipper,Not specified,Tokyo Industries Co Ltd,Shipper name not as per LC.
+Letter of Credit (LC),Bill of Lading (BOL),Consignee,XYZ Manufacturing Co.,American Trading Corp,Consignee name mismatch.
+Letter of Credit (LC),Bill of Lading (BOL),Notify Party,Not specified,American Trading Corp,Notify party not specified in LC.
+Letter of Credit (LC),Bill of Lading (BOL),Port of Discharge,Shanghai,Ho Chi Minh City,Port of discharge mismatch.
+Letter of Credit (LC),Bill of Lading (BOL),Place of Delivery,Not specified,Vietnam,Place of delivery not specified in LC.
+Letter of Credit (LC),Bill of Lading (BOL),Date of Shipment,On or before 2024-06-30,"[TO BE COMPLETED BY CARRIER, NO LATER THAN MAY 19, 2026]",Shipment date exceeds LC requirement.
+Letter of Credit (LC),Certificate of Origin (COO),Reference Number,LC-2024-001234,LC202601138697,LC reference number mismatch.
+Letter of Credit (LC),Certificate of Origin (COO),Issuing Authority,Not specified,"Chamber of Commerce - Tokyo, Japan",Issuing authority not specified in LC.
+Letter of Credit (LC),Certificate of Origin (COO),Country of Origin,UAE,Japan,Country of origin mismatch.
+Letter of Credit (LC),Certificate of Origin (COO),Port of Discharge,Shanghai,Ho Chi Minh City,Port of discharge mismatch.
+Letter of Credit (LC),Certificate of Origin (COO),Final Destination,Not specified,Vietnam,Final destination not specified in LC.
+Letter of Credit (LC),Certificate of Origin (COO),Total Value,"USD 550,000.00","USD 389,693.58",Total value mismatch.
+Letter of Credit (LC),Commercial Invoice (INV),Reference Number,LC-2024-001234,LC202601138697,LC reference number mismatch.
+Letter of Credit (LC),Commercial Invoice (INV),Exporter,XYZ Manufacturing Co.,Tokyo Industries Co Ltd,Exporter name mismatch.
+Letter of Credit (LC),Commercial Invoice (INV),Importer,ABC Trading Company Ltd.,American Trading Corp,Importer name mismatch.
+Letter of Credit (LC),Commercial Invoice (INV),Port of Discharge,Shanghai,Ho Chi Minh City,Port of discharge mismatch.
+Letter of Credit (LC),Commercial Invoice (INV),Final Destination,Not specified,Vietnam,Final destination not specified in LC.
+Letter of Credit (LC),Commercial Invoice (INV),Total Value,"USD 550,000.00","USD 389,693.58",Total value mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Reference Number,LC-2024-001234,LC202601138697,LC reference number mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Insured Party,XYZ Manufacturing Co.,American Trading Corp,Insured party mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Country of Origin,UAE,Japan,Country of origin mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Port of Discharge,Shanghai,Ho Chi Minh City,Port of discharge mismatch.
+Letter of Credit (LC),Insurance Certificate (INS),Total Insured Value,"USD 550,000.00","USD 428,662.94",Total insured value mismatch.
+Letter of Credit (LC),Packing List (PL),Reference Number,LC-2024-001234,LC202601138697,LC reference number mismatch.
+Letter of Credit (LC),Packing List (PL),Exporter,XYZ Manufacturing Co.,Tokyo Industries Co Ltd,Exporter name mismatch.
+Letter of Credit (LC),Packing List (PL),Consignee,ABC Trading Company Ltd.,American Trading Corp,Consignee name mismatch.
+Letter of Credit (LC),Packing List (PL),Port of Discharge,Shanghai,Ho Chi Minh City,Port of discharge mismatch.
+Letter of Credit (LC),Packing List (PL),Final Destination,Not specified,Vietnam,Final destination not specified in LC.
+Letter of Credit (LC),Packing List (PL),Total Value,"USD 550,000.00","USD 389,693.58",Total value mismatch.
+Letter of Credit (LC),Quality Certificate (QC),Reference Number,LC-2024-001234,LC202601138697,LC reference number mismatch.
+Letter of Credit (LC),Quality Certificate (QC),Exporter,XYZ Manufacturing Co.,Tokyo Industries Co Ltd,Exporter name mismatch.
+Letter of Credit (LC),Quality Certificate (QC),Port of Discharge,Shanghai,Ho Chi Minh City,Port of discharge mismatch.
+Letter of Credit (LC),Quality Certificate (QC),Final Destination,Not specified,Vietnam,Final destination not specified in LC.
+Letter of Credit (LC),Quality Certificate (QC),Date of Issue,Not specified,16 June 2026,Date of issue exceeds LC expiry date.

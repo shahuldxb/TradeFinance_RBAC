@@ -1,0 +1,28 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+Letter of Credit (LC),Bill of Exchange,L/C Number,ILCAE00221000098,CA21001978,L/C number mismatch,High
+Letter of Credit (LC),Bill of Exchange,Amount,"USD 60,465.00","USD 60, 465. 00",Formatting discrepancy in amount,Low
+Letter of Credit (LC),Bill of Exchange,B/L Date,Not specified,"JUL 1, 2021",Missing B/L date in LC,Medium
+Letter of Credit (LC),Bill of Exchange,Due Date,Not specified,"DEC 28, 2021",Missing due date in LC,Medium
+Letter of Credit (LC),Bill of Lading,Port of Loading,ANY SEAPORT IN JAPAN,"YOKOHAMA, JAPAN","Specific port of loading not matching ""ANY SEAPORT IN JAPAN""",Medium
+Letter of Credit (LC),Bill of Lading,Port of Discharge,"ANY SEAPORT IN ABU DHABI, UAE",ABU DHABI SEAPORT,"Specific port of discharge not matching ""ANY SEAPORT IN ABU DHABI, UAE""",Medium
+Letter of Credit (LC),Bill of Lading,Vessel Name,Not specified,SPECTRUM N,Missing vessel name in LC,Medium
+Letter of Credit (LC),Bill of Lading,B/L Number,Not specified,OOLU2122490880,Missing B/L number in LC,Medium
+Letter of Credit (LC),Bill of Lading,Notify Party Address,"GREEN OASIS CO. LLC, P.O BOX 1297, AL AIN, UAE TEL: 037511332 FAX: 037511533","GREEN OASIS CO. LLC, P. O. BOX1297, ALAIN, UAE TEL 037511332 FAX 037511533",Minor formatting difference in notify party address,Low
+Letter of Credit (LC),Commercial Invoice,Date of Issue,210429,2021/6/7,Date of issue mismatch,High
+Letter of Credit (LC),Commercial Invoice,Amount,"USD 60,465.00","USD 60, 465. 00",Formatting discrepancy in amount,Low
+Letter of Credit (LC),Commercial Invoice,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 ₺ (PACKING -500ML) PESTICIDES,Typographical error in product description,Medium
+Letter of Credit (LC),Commercial Invoice,Manufacturing Date,Not specified,MAR. 2021,Missing manufacturing date in LC,Medium
+Letter of Credit (LC),Commercial Invoice,Expiry Date,Not specified,FEB. 2024,Missing expiry date in LC,Medium
+Letter of Credit (LC),Packing List,Date of Issue,210429,2021/6/7,Date of issue mismatch,High
+Letter of Credit (LC),Packing List,Amount,"USD 60,465.00","USD 60, 465. 00",Formatting discrepancy in amount,Low
+Letter of Credit (LC),Packing List,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES. ALL OTHER DETAILS RELATED TO GOODS ARE AS PER BENEFICIARY'S PROFORMA INVOICE NOS. B7WE-20-5130-X DATED 29-03-2021,Additional explanatory text in description,Low
+Letter of Credit (LC),Packing List,Manufacturing Date,Not specified,MAR. 2021,Missing manufacturing date in LC,Medium
+Letter of Credit (LC),Packing List,Expiry Date,Not specified,FEB. 2024,Missing expiry date in LC,Medium
+Letter of Credit (LC),Certificate of Origin,Date of Issue,Not specified,2021/06/07,Missing date of issue in LC,Medium
+Letter of Credit (LC),Certificate of Origin,Country of Origin,JAPAN,JAPAN,No discrepancy,N/A
+Letter of Credit (LC),Certificate of Origin,Manufacturer Name,Not specified,"AGRO-KANESHO CO., LTD",Missing manufacturer name in LC,Medium
+Letter of Credit (LC),Certificate of Origin,Manufacturer Address,Not specified,"AKASAKA SHASTA-EAST 7TH FL., 4-2-19, AKASAKA, MINATO-KU, TOKYO, JAPAN",Missing manufacturer address in LC,Medium
+Letter of Credit (LC),Insurance Certificate,Amount Insured,Invoice + 10%,"USD 66,512.00",Amount insured matches LC terms but not explicitly stated,Low
+Letter of Credit (LC),Insurance Certificate,Insurance Agent Address,Not specified,"INCHCAPE SHIPPING SERVICES (DUBAI) L.L.C., OFFICE COURT BUILDING, 5TH FLOOR, OUD METHA ROAD (P.O. BOX 33166), DUBAI, UNITED ARAB EMIRATES",Missing insurance agent address in LC,Medium
+Letter of Credit (LC),Insurance Certificate,Vessel Name,Not specified,SPECTRUM N,Missing vessel name in LC,Medium
+Letter of Credit (LC),Insurance Certificate,Date of Issue,Not specified,"JUN. 29, 2021",Missing date of issue in LC,Medium

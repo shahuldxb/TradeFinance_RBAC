@@ -1,0 +1,35 @@
+
+GUARANTEE APPLICATION
+--------------------------------------------------------------------------------
+From: Singapore Commodities Pte Ltd
+To: Deutsche Bank AG
+Date: 18-Jun-2025
+
+We request issuance of BG with following details:
+
+Beneficiary: Brazilian Coffee Exporters SA
+Amount: USD 123,288.70
+Validity: 02-May-2026
+Contract: CONT-2025-9104
+
+Applicant: _______________________
+--------------------------------------------------------------------------------
+
+
+UNDERLYING CONTRACT (EXCERPT)
+--------------------------------------------------------------------------------
+Contract No.: CONT-2025-9104
+Date: 31-May-2025
+
+Contractor: Singapore Commodities Pte Ltd
+Employer: Brazilian Coffee Exporters SA
+
+Contract Value: USD 1,013,527.87
+Scope: Supply and installation of equipment
+
+Payment Terms: 30% advance, 60% on delivery, 10% retention
+
+Guarantee Requirement: BG for 12% of contract value
+
+Parties: _______________________
+--------------------------------------------------------------------------------

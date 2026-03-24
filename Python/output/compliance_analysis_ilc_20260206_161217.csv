@@ -1,0 +1,24 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+DC NUMBER,B/L NUMBER,Document Number,LC12345,BOL-67890,Mismatch in document number,High
+DATE OF ISSUE,DATE,Date,2026-02-04,2026-03-10,Date mismatch,Medium
+APPLICANT,CONSIGNEE,Party,Global Imports Inc.,To the order of Mega Bank,Mismatch in consignee,High
+DESCRIPTION OF GOODS,DESCRIPTION OF GOODS,Goods Description,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Match,Low
+PORT OF LOADING,PORT OF LOADING,Port,Any Chinese port,"Shanghai Port, China",Match,Low
+PORT OF DISCHARGE,PORT OF DISCHARGE,Port,Shanghai Port,"Shanghai Port, China",Match,Low
+FREIGHT,FREIGHT,Freight Terms,CIF Shanghai Port,Prepaid,Mismatch in freight terms,Medium
+DC NUMBER,INVOICE NUMBER,Document Number,LC12345,INV-2026-001,Mismatch in document number,High
+DATE OF ISSUE,DATE,Date,2026-02-04,2026-03-12,Date mismatch,Medium
+APPLICANT,TO,Party,Global Imports Inc.,Global Imports Inc.,Match,Low
+BENEFICIARY,FROM,Party,Precision Manufacturing Co.,Precision Manufacturing Co.,Match,Low
+DESCRIPTION OF GOODS,DESCRIPTION OF GOODS,Goods Description,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100 @ USD 100/unit",Match,Low
+AMOUNT,TOTAL AMOUNT,Amount,"USD 50,000","USD 50,000",Match,Low
+INCOTERM,INCOTERM,Terms,CIF Shanghai Port,CIF Shanghai Port,Match,Low
+DC NUMBER,CERTIFICATE NUMBER,Document Number,LC12345,INS-54321,Mismatch in document number,High
+DATE OF ISSUE,DATE,Date,2026-02-04,2026-03-11,Date mismatch,Medium
+BENEFICIARY,INSURED,Party,Global Imports Inc.,Precision Manufacturing Co.,Mismatch in insured party,High
+AMOUNT,AMOUNT INSURED,Amount,"USD 50,000","USD 55,000",Mismatch in insured amount,High
+DESCRIPTION OF GOODS,GOODS INSURED,Goods Description,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Match,Low
+PORT OF LOADING,VOYAGE,Port,Any Chinese port,From Shanghai Port to New York Port,Mismatch in voyage details,High
+DC NUMBER,CERTIFICATE NUMBER,Document Number,LC12345,Q-2026-001,Mismatch in document number,High
+DATE OF ISSUE,DATE,Date,2026-02-04,2026-03-10,Date mismatch,Medium
+DESCRIPTION OF GOODS,GOODS,Goods Description,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Match,Low

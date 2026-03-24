@@ -1,0 +1,27 @@
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: Global Trading FZE, Dubai, UAE
+Consignee: Vietnam Garment Exporters Ltd., Ho Chi Minh City, Vietnam
+LC No.: CITI-DXB-2025-001122
+Packing List No.: PL-2025-0913
+Date: 20-Sep-2025
+
+Summary:
+- Total Pallets: 7
+- Cartons per Pallet: Pallets 1–6 = 50 cartons each; Pallet 7 = 49 cartons
+- Stated Total Cartons: 350
+- Gross Weight (stated total): 4,198.00 kg
+- Net Weight (stated total): 3,998.00 kg
+
+Detail (excerpt):
+- Pallet 1: Cartons 1–50 (50 ctns) — GW 600.00 kg / NW 571.00 kg
+- Pallet 2: Cartons 51–100 (50 ctns) — GW 600.00 kg / NW 571.00 kg
+- Pallet 3: Cartons 101–150 (50 ctns) — GW 600.00 kg / NW 571.00 kg
+- Pallet 4: Cartons 151–200 (50 ctns) — GW 600.00 kg / NW 571.00 kg
+- Pallet 5: Cartons 201–250 (50 ctns) — GW 600.00 kg / NW 571.00 kg
+- Pallet 6: Cartons 251–300 (50 ctns) — GW 600.00 kg / NW 571.00 kg
+- Pallet 7: Cartons 301–349 (49 ctns) — GW 598.00 kg / NW 572.00 kg
+
+Marks & Numbers: GT/VGE/0913/25
+Country of Origin: UAE
+--------------------------------------------------------------------------------

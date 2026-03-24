@@ -1,0 +1,45 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Country of Origin,Japan,Not specified,Country of origin is missing in the Bill of Lading.
+Letter of Credit,Certificate of Origin,Country of Origin,Japan,Singapore,Country of origin mismatch.
+Letter of Credit,Insurance Certificate,Country of Origin,Japan,Not specified,Country of origin is missing in the Insurance Certificate.
+Letter of Credit,Commercial Invoice,Date,2026-01-21,2026-04-02,Invoice date does not match the LC issue date.
+Letter of Credit,Insurance Certificate,Date of Issue,2026-01-21,2026-01-20,Insurance certificate issue date is earlier than the LC issue date.
+Letter of Credit,Packing List,Date,2026-01-21,2026-01-26,Packing list date does not match the LC issue date.
+Letter of Credit,Quality Certificate,Date of Issue,2026-01-21,2026-04-02,Quality certificate issue date does not match the LC issue date.
+Letter of Credit,Certificate of Origin,Shipping Date,2026-04-02,"On or before April 2, 2026",Shipping date format mismatch.
+Letter of Credit,Bill of Lading,Shipping Date,2026-04-02,02 April 2026,Shipping date format mismatch.
+Letter of Credit,Commercial Invoice,Shipping Date,2026-04-02,"April 2, 2026",Shipping date format mismatch.
+Letter of Credit,Insurance Certificate,Shipping Date,2026-04-02,Not specified,Shipping date is missing in the Insurance Certificate.
+Letter of Credit,Packing List,Shipping Date,2026-04-02,02 April 2026,Shipping date format mismatch.
+Letter of Credit,Quality Certificate,Shipping Date,2026-04-02,Not specified,Shipping date is missing in the Quality Certificate.
+Letter of Credit,Certificate of Origin,Port of Loading,Yokohama,Not specified,Port of loading is missing in the Certificate of Origin.
+Letter of Credit,Insurance Certificate,Port of Loading,Yokohama,Not specified,Port of loading is missing in the Insurance Certificate.
+Letter of Credit,Certificate of Origin,Port of Discharge,Sydney,Not specified,Port of discharge is missing in the Certificate of Origin.
+Letter of Credit,Insurance Certificate,Port of Discharge,Sydney,Not specified,Port of discharge is missing in the Insurance Certificate.
+Letter of Credit,Bill of Lading,Description of Goods,High quality textiles as per contract specifications,High quality textiles as per contract specifications,No discrepancy in description of goods.
+Letter of Credit,Certificate of Origin,Description of Goods,High quality textiles as per contract specifications,High quality textiles as per contract specifications,No discrepancy in description of goods.
+Letter of Credit,Commercial Invoice,Description of Goods,High quality textiles as per contract specifications,High-quality textiles as per contract specifications,Minor formatting difference in description of goods.
+Letter of Credit,Packing List,Description of Goods,High quality textiles as per contract specifications,High quality textiles as per contract specifications,No discrepancy in description of goods.
+Letter of Credit,Quality Certificate,Description of Goods,High quality textiles as per contract specifications,High quality textiles as per contract specifications,No discrepancy in description of goods.
+Letter of Credit,Bill of Lading,Quantity,2589 KGS,2589 KGS,No discrepancy in quantity.
+Letter of Credit,Certificate of Origin,Quantity,2589 KGS,2589 KGS,No discrepancy in quantity.
+Letter of Credit,Commercial Invoice,Quantity,2589 KGS,"2,589 KGS",Minor formatting difference in quantity.
+Letter of Credit,Packing List,Quantity,2589 KGS,"2,589 KGS",Minor formatting difference in quantity.
+Letter of Credit,Quality Certificate,Quantity,2589 KGS,"2,589 KGS",Minor formatting difference in quantity.
+Letter of Credit,Bill of Lading,Unit Price,USD 78.94,USD 78.94,No discrepancy in unit price.
+Letter of Credit,Certificate of Origin,Unit Price,USD 78.94,USD 78.94,No discrepancy in unit price.
+Letter of Credit,Commercial Invoice,Unit Price,USD 78.94,USD 78.94,No discrepancy in unit price.
+Letter of Credit,Packing List,Unit Price,USD 78.94,USD 78.94,No discrepancy in unit price.
+Letter of Credit,Quality Certificate,Unit Price,USD 78.94,USD 78.94,No discrepancy in unit price.
+Letter of Credit,Bill of Lading,Total Value,"USD 204,384.80","USD 204,384.80",No discrepancy in total value.
+Letter of Credit,Certificate of Origin,Total Value,"USD 204,384.80","USD 204,384.80",No discrepancy in total value.
+Letter of Credit,Commercial Invoice,Total Value,"USD 204,384.80","USD 204,384.80",No discrepancy in total value.
+Letter of Credit,Packing List,Total Value,"USD 204,384.80","USD 204,384.80",No discrepancy in total value.
+Letter of Credit,Quality Certificate,Total Value,"USD 204,384.80","USD 204,384.80",No discrepancy in total value.
+Letter of Credit,Insurance Certificate,Total Insured Value,"USD 204,384.80","USD 204,384.80 (CIF)",Minor formatting difference in total insured value.
+Letter of Credit,Bill of Lading,LC Reference,LC202601215831,LC202601215831-DOC002,LC reference mismatch.
+Letter of Credit,Certificate of Origin,LC Reference,LC202601215831,LC202601215831-DOC004,LC reference mismatch.
+Letter of Credit,Commercial Invoice,LC Reference,LC202601215831,LC202601215831-DOC008,LC reference mismatch.
+Letter of Credit,Insurance Certificate,LC Reference,LC202601215831,LC202601215831-DOC006,LC reference mismatch.
+Letter of Credit,Packing List,LC Reference,LC202601215831,LC202601215831-DOC007,LC reference mismatch.
+Letter of Credit,Quality Certificate,LC Reference,LC202601215831,LC202601215831-DOC015,LC reference mismatch.

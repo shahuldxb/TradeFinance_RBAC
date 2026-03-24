@@ -1,0 +1,13 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC (ilc.txt),BOL (Bill Of Lading.txt),Port of Loading,ANY PORT IN JAPAN,"CHIBA PORT, JAPAN",Compliant,Low
+LC (ilc.txt),BOL (Bill Of Lading.txt),Port of Discharge,"NHAVA SHEVA, INDIA","NHAVA SHEVA, INDIA",Compliant,Low
+LC (ilc.txt),BOL (Bill Of Lading.txt),Description of Goods,101.50 MT LUBIMAX 132,ETHYLENE PROPYLENE COPOLYMER LUBIMAX 132,Compliant,Low
+LC (ilc.txt),BOL (Bill Of Lading.txt),Freight,Freight Prepaid,Freight Prepaid,Compliant,Low
+LC (ilc.txt),INV (Commercial Invoice.txt),Description of Goods,101.50 MT LUBIMAX 132,ETHYLENE PROPYLENE COPOLYMER LUBIMAX 132,Compliant,Low
+LC (ilc.txt),INV (Commercial Invoice.txt),Incoterms,"CFR, NHAVA SHEVA, INDIA","CFR, NHAVA SHEVA, INDIA",Compliant,Low
+LC (ilc.txt),INV (Commercial Invoice.txt),Origin,Japan,Japan,Compliant,Low
+LC (ilc.txt),COO (Non Preferential Certificate.txt),Origin,Japan,Japan,Compliant,Low
+LC (ilc.txt),PL (Packing List.txt),Quantity,101.50 MT,101.50 MT,Compliant,Low
+LC (ilc.txt),PL (Packing List.txt),Gross Weight,Not Specified,"102,718 KGS",Missing,Medium
+LC (ilc.txt),Unknown (Shipment Consignment Advice),Policy Number,23/MO/011656,23/MO/011656,Compliant,Low
+LC (ilc.txt),Unknown (Shipment Consignment Advice),Certificate Number,23/MO/011656/235,23/MO/011656/235,Compliant,Low

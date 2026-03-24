@@ -1,0 +1,20 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+ilc.txt,Document 11.txt,Gross Weight,"4,200.00 kg","4,198.00 kg",Gross weight discrepancy between LC and Packing List.
+ilc.txt,Document 11.txt,Net Weight,"3,998.00 kg","3,998.00 kg","No discrepancy in net weight, but gross weight mismatch noted."
+ilc.txt,Document 14.txt,Buyer Address,Not specified,"45 Nguyen Van Linh, Dist. 7, Ho Chi Minh City, Vietnam",Buyer address is not mentioned in LC but is present in the Commercial Invoice.
+ilc.txt,Document 14.txt,Gross Weight,"4,200.00 kg","4,200.00 kg",No discrepancy in gross weight.
+ilc.txt,Document 14.txt,Net Weight,"3,998.00 kg","3,998.00 kg",No discrepancy in net weight.
+ilc.txt,Document 14.txt,Product Description,"Knitted T-shirts, 97% cotton / 3% elastane","Knitted T-shirts, 97% cotton / 3% elastane",No discrepancy in product description.
+ilc.txt,Document 14.txt,Quantity,350 cartons,350 cartons,No discrepancy in quantity.
+ilc.txt,Document 14.txt,Unit Price,Not specified,USD 7.34 / piece,Unit price is not mentioned in LC but is present in the Commercial Invoice.
+ilc.txt,Document 14.txt,Invoice Number,Not specified,INV-2025-0913,Invoice number is not mentioned in LC but is present in the Commercial Invoice.
+ilc.txt,Document 8.txt,Consignee,"Vietnam Garment Exporters Ltd., Ho Chi Minh City, Vietnam","To Order of Citi Bank PJSC, Dubai",Consignee discrepancy between LC and Bill of Lading.
+ilc.txt,Document 8.txt,Notify Party,Not specified,"Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, D7, Ho Chi Minh City, Vietnam",Notify party is not mentioned in LC but is present in the Bill of Lading.
+ilc.txt,Document 8.txt,On Board Date,Not specified,26-Sep-2025,On board date is not mentioned in LC but is present in the Bill of Lading.
+ilc.txt,Document 8.txt,Place of Delivery,Not specified,"Cat Lai CY, Ho Chi Minh City, Vietnam",Place of delivery is not mentioned in LC but is present in the Bill of Lading.
+ilc.txt,Document 5.txt,Sum Insured,Not specified,"AED 471,000.00",Sum insured is not mentioned in LC but is present in the Insurance Certificate.
+ilc.txt,Document 5.txt,Policy Number,Not specified,DNIC-CIF-2025-0913,Policy number is not mentioned in LC but is present in the Insurance Certificate.
+ilc.txt,Document 5.txt,Coverage,Not specified,"Institute Cargo Clauses (A), Institute War Clauses (Cargo), Institute Strikes, Riots & Civil Commotions (Cargo)",Coverage details are not mentioned in LC but are present in the Insurance Certificate.
+ilc.txt,Document 2.txt,Fiber Content,Not specified,100% cotton,Fiber content is not mentioned in LC but is present in the Quality Certificate.
+ilc.txt,Document 2.txt,Sampling Plan,Not specified,"ISO 2859-1, AQL 2.5 (General Inspection Level II)",Sampling plan is not mentioned in LC but is present in the Quality Certificate.
+ilc.txt,Document 2.txt,Buyer Specification,Not specified,VGE/KT-2025-09 (Rev A),Buyer specification is not mentioned in LC but is present in the Quality Certificate.

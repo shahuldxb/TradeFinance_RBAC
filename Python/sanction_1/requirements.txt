@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+pyodbc
+pandas
+rapidfuzz
+phonetics
+openai

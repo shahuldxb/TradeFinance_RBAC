@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+sqlalchemy>=2.0.25
+pymysql>=1.1.0
+python-dotenv>=1.0.1
+rapidfuzz>=3.6.1
+phonetics>=1.0.5
+openai>=1.12.0
+pyodbc
+

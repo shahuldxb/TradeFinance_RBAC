@@ -1,0 +1,48 @@
+**STANDBY LETTER OF CREDIT**
+
+**SBLC Number:** SBLC-2024-001241
+**Issue Date:** August 15, 2024
+**Expiry Date:** August 15, 2025
+
+**Applicant (Account Party):**
+Gamma Trading House
+50 Commerce Street
+Tokyo, 100-0004, Japan
+
+**Beneficiary:**
+Delta Commodity Fund
+100 Financial Plaza
+Zurich, 8001, Switzerland
+
+**Issuing Bank:**
+Tokyo Global Bank
+1-1-1 Marunouchi
+Tokyo, 100-0005, Japan
+
+**Advising Bank:**
+Swiss Trade Bank
+2 Bahnhofstrasse
+Zurich, 8001, Switzerland
+
+**Amount:** JPY 50,000,000.00 (Fifty Million Japanese Yen Only)
+
+**Available with:** Swiss Trade Bank by payment
+
+**Underlying Transaction:**
+Master Agreement for Commodity Trading, Reference No. CM-2024-015, dated July 30, 2024.
+
+**Purpose of SBLC:**
+To secure the Applicant's obligation to indemnify the Beneficiary against any loss arising from the Applicant's failure to perform its payment obligations under the Underlying Transaction.
+
+**Conditions for Drawing:**
+1. A written demand for payment, signed by an authorized representative of the Beneficiary.
+2. A statement in the demand certifying that the Applicant is in default of its payment obligations under Master Agreement CM-2024-015, and specifying the amount of the default.
+3. The demand must be presented at the counter of the Issuing Bank or the Advising Bank on or before the Expiry Date.
+
+This Standby Letter of Credit is subject to the **International Standby Practices (ISP98), ICC Publication No. 590**.
+
+**Authorized Signature:**
+_______________________
+Kenji Tanaka
+Vice President, International Banking
+Tokyo Global Bank

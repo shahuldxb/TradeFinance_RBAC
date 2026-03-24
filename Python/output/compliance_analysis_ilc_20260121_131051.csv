@@ -1,0 +1,12 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+Letter of Credit,Certificate of Origin,Date of Issue,2026-07-16,2026-07-15,Certificate of Origin issued after LC expiry date,High
+Letter of Credit,Certificate of Origin,Country of Origin of Goods,Japan,China,Country of origin mismatch,High
+Letter of Credit,Insurance Certificate,Consignee,Singapore Commodities Pte,Shanghai Import Export Co.,Consignee mismatch,High
+Letter of Credit,Insurance Certificate,Date of Issue,2026-01-21,2026-01-21,Insurance issued before shipment date,Medium
+Letter of Credit,Bill of Lading,Place of Delivery,Australia,Not indicated,Missing place of delivery,Medium
+Letter of Credit,Bill of Lading,Vessel Name and Voyage Number,Not specified,To be advised,Missing vessel name and voyage number,Medium
+Letter of Credit,Bill of Lading,Measurement,Not indicated,Not indicated,Missing measurement details,Low
+Letter of Credit,Commercial Invoice,Date,2026-07-16,2026-07-10,Invoice issued after LC expiry date,High
+Letter of Credit,Packing List,Date,Not specified,Not specified,Missing date on packing list,Medium
+Letter of Credit,Quality Certificate,Date of Issue,2026-07-16,2026-06-30,Quality certificate issued after LC expiry date,High
+Letter of Credit,Quality Certificate,Inspection Location,Not specified,"Sydney, Australia",Inspection location not specified in LC,Medium

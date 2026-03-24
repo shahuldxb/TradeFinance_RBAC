@@ -1,0 +1,59 @@
+PACKING LIST ---
+
+Sub Document Code:	DOC007 Sub Document Name:		Packing List
+Reference Number:		LC202601206084-DOC007 Category:	Commercial
+Related LC:	LC202601206084
+Date Generated:	2026-01-20 16:07:51
+
+DOCUMENT CONTENT
+
+**PACKING LIST**
+**Document No.: PL-202601206084**
+**Date: 20 January 2026**
+
+**Letter of Credit Reference:** LC202601206084
+
+**Exporter/Consignor:** Deutsche Handels GmbH Industriestraße 42, 80939 Munich Germany
+
+**Consignee:**
+Tokyo Industries Co Ltd
+1-1 Marunouchi, Chiyoda-ku, Tokyo Japan
+**Port of Loading:** Sydney, Australia
+**Port of Discharge:** Yokohama, Japan
+**Final Destination:** Japan
+ 
+
+**Description of Goods:** High quality textiles as per contract specifications
+
+**Details of Shipment:**
+-	**Quantity:** 2,280 KGS
+-	**Unit Price:** USD 65.48
+- **Total Value:** USD 149,300.62
+
+**Packing Details:**
+-	**Number of Packages:** 5
+-	**Type of Packing:** Securely packed in export-grade cartons
+-	**Gross Weight:** 2,280 KGS
+-	**Net Weight:** 2,280 KGS
+
+**Shipping Marks:**
+
+-	Consignee: Tokyo Industries Co Ltd
+-	Destination: Yokohama, Japan
+-	LC Reference: LC202601206084
+- Package Number: 1/5, 2/5, 3/5, 4/5, 5/5
+
+**Remarks:**
+-	This Packing List is issued in compliance with Letter of Credit LC202601206084.
+-	All weights and measurements are as per the exporter’s declaration.
+
+**Issued By:** Deutsche Handels GmbH
+Industriestraße 42, 80939 Munich Germany
+
+**Authorized Signature:**
+
+For Deutsche Handels GmbH
+
+End of Document.
+
+END OF PACKING LIST

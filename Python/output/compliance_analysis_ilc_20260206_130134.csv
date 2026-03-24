@@ -1,0 +1,11 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+ilc.txt,Bill Of Lading.txt,Port of Discharge,Shanghai Port,Shanghai Port,Compliant,Low
+ilc.txt,Bill Of Lading.txt,Port of Loading,Any Chinese Port,Shanghai Port,Compliant,Low
+ilc.txt,Bill Of Lading.txt,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Compliant,Low
+ilc.txt,Bill Of Lading.txt,Freight,CIF,Prepaid,Discrepancy: Freight term mismatch,High
+ilc.txt,Commercial Invoice.txt,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Compliant,Low
+ilc.txt,Commercial Invoice.txt,Total Amount,"USD 50,000","USD 50,000",Compliant,Low
+ilc.txt,Commercial Invoice.txt,Incoterm,CIF Shanghai Port,CIF Shanghai Port,Compliant,Low
+ilc.txt,Export Import License.txt,Amount Insured,"110% of invoice value (USD 55,000)","USD 55,000",Compliant,Low
+ilc.txt,Export Import License.txt,Voyage,Any Chinese Port to Shanghai Port,Shanghai Port to New York Port,Discrepancy: Incorrect voyage route,High
+ilc.txt,Preferential Certificate Of.txt,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Compliant,Low

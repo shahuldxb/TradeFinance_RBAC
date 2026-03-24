@@ -1,0 +1,12 @@
+MODE           : Mode 3 – MultiHop RAG
+TRANSACTION ID : TXN-202601-7JVFDJ
+INSTRUMENT     : ILC
+LIFECYCLE      : issuance
+TIMESTAMP      : 2026-01-06 10:35:25.335712
+
+================================================================================
+
+RESPONSE
+--------------------------------------------------------------------------------
+I couldn't find any relevant evidence in the knowledge base for this query.
+

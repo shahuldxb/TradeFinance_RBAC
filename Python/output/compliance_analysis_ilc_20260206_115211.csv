@@ -1,0 +1,10 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+Letter of Credit,Bill of Lading,Notify Party,Not specified in LC,"Global Imports Inc., 123 Main Street, New York, NY 10001, USA",Notify Party not explicitly mentioned in LC,Medium
+Letter of Credit,Bill of Lading,Voyage,Shipment from any Chinese port to Shanghai Port,From Shanghai Port to Shanghai Port,"Port of loading matches LC, but voyage description is incomplete",Low
+Letter of Credit,Insurance Certificate,Amount Insured,"110% of invoice value (USD 55,000)","USD 55,000",Matches LC requirement but voyage destination differs,Medium
+Letter of Credit,Insurance Certificate,Voyage,Shipment from any Chinese port to Shanghai Port,From Shanghai Port to New York Port,Incorrect voyage destination,High
+Letter of Credit,Certificate of Quality,Date,Not specified in LC,2026-03-10,Date not explicitly required in LC,Low
+Letter of Credit,Certificate of Quality,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Matches LC description,None
+Letter of Credit,Commercial Invoice,Date,Not specified in LC,2026-03-12,Date not explicitly required in LC,Low
+Letter of Credit,Commercial Invoice,Total Amount,"USD 50,000","USD 50,000",Matches LC amount,None
+Letter of Credit,Commercial Invoice,Incoterm,CIF Shanghai Port,CIF Shanghai Port,Matches LC Incoterm,None

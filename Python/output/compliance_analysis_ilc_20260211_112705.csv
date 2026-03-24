@@ -1,0 +1,13 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC (ilc.txt),BOL (Bill Of Lading.txt),Port of Loading,ANY SEAPORT IN JAPAN,"YOKOHAMA, JAPAN",Compliant Match,Low
+LC (ilc.txt),BOL (Bill Of Lading.txt),Port of Discharge,"ANY SEAPORT IN ABU DHABI, UAE","ABU DHABI SEAPORT, UAE",Compliant Match,Low
+LC (ilc.txt),BOL (Bill Of Lading.txt),Vessel Name,Not Specified,SPECTRUM N,Missing in LC,Medium
+LC (ilc.txt),BOL (Bill Of Lading.txt),Shipment Date,210726,01 JUL 2021,Earlier Shipment Date,Medium
+LC (ilc.txt),INV (Commercial Invoice.txt),Invoice Number,Not Specified,B7WE-20-5130-X,Missing in LC,Medium
+LC (ilc.txt),INV (Commercial Invoice.txt),Goods Description,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,Compliant Match,Low
+LC (ilc.txt),INV (Commercial Invoice.txt),Origin of Goods,JAPAN,JAPAN,Compliant Match,Low
+LC (ilc.txt),IC (Export Import License.txt),Insurance Coverage,Full Value of Invoice + 10%,"US$66,512.00",Compliant Match,Low
+LC (ilc.txt),IC (Export Import License.txt),Vessel Age,Up to 25 Years,2009 (12 Years),Compliant Match,Low
+LC (ilc.txt),PL (Packing List.txt),Goods Description,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,Compliant Match,Low
+LC (ilc.txt),PL (Packing List.txt),Batch Number,Not Specified,K21020UA,Missing in LC,Medium
+LC (ilc.txt),COO (Unknown.txt),Origin of Goods,JAPAN,JAPAN,Compliant Match,Low

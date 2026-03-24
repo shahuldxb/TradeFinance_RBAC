@@ -1,0 +1,38 @@
+IMPORT LETTER OF CREDIT (SIGHT) — MT700 STYLE SUMMARY
+--------------------------------------------------------------------------------
+Issuing Bank: Citi Bank PJSC, Dubai, UAE
+Advising/Nominated Bank: Emirates NBD, Dubai, UAE
+Credit No.: CITI-DXB-2025-001122
+Date of Issue: 10-Sep-2025
+Applicable Rules: UCP 600, ISBP 821 (latest revision)
+Expiry Date/Place: 15-Oct-2025 / Dubai, UAE
+
+Applicant (Buyer): Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, District 7, Ho Chi Minh City, Vietnam
+Beneficiary (Seller): Global Trading FZE, JAFZA South, Dubai, United Arab Emirates
+Currency/Amount: USD 128,450.00 (One hundred twenty-eight thousand four hundred fifty U.S. dollars)
+Tolerance: 0/0
+Incoterms: CIF Ho Chi Minh City, Vietnam (Incoterms® 2020)
+Port of Loading: Jebel Ali, United Arab Emirates
+Port of Discharge: Cat Lai Terminal, Ho Chi Minh City, Vietnam
+Latest Shipment Date: 25-Sep-2025
+Presentation Period: Within 21 days after the date of shipment but within the validity of the credit
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Goods Description (as per credit):
+- Knitted cotton T‑shirts, 100% cotton
+- HS Code: 6109.10
+- Quantity: 350 cartons
+- Gross Weight: 4,200.00 kg
+- Net Weight: 4,000.00 kg
+- Unit packing: 50 pieces per carton
+- Country of Origin: United Arab Emirates
+
+Documents Required:
+1. Commercial invoice signed by the beneficiary in 1 original + 2 copies, indicating LC number, HS code 6109.10, exact goods description (100% cotton), quantity 350 cartons, GW 4,200.00 kg, NW 4,000.00 kg, and country of origin UAE.
+2. Full set of 3/3 original clean on board ocean bill of lading made out to order of Issuing Bank, notify Applicant; marked "Freight Prepaid"; indicating Port of Loading Jebel Ali, Port of Discharge Cat Lai Terminal, Ho Chi Minh City; and showing Shipped on Board date not later than 25-Sep-2025.
+3. Insurance policy/certificate endorsed in blank for 110% of the invoice value covering Institute Cargo Clauses (C), Institute War Clauses (Cargo), and Institute Strikes, Riots and Civil Commotions (Cargo); claims payable in Vietnam; in the currency of the credit.
+4. Detailed packing list showing pallet-wise/carton-wise count and weights, quoting the LC number.
+5. Quality certificate issued by manufacturer, stating compliance with Buyer Specification No. VGE/KT-2025-09, fiber content 100% cotton, AQL 2.5; quoting the LC number.
+6. All documents must state the LC number CITI-DXB-2025-001122.
+--------------------------------------------------------------------------------

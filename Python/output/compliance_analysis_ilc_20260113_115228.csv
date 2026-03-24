@@ -1,0 +1,17 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Port of Discharge,Mumbai,"Mumbai, India","Formatting discrepancy: ""Mumbai"" vs. ""Mumbai, India"""
+Letter of Credit,Certificate of Origin,Port of Loading,Hamburg,Mumbai,Mismatch in Port of Loading
+Letter of Credit,Certificate of Origin,Port of Discharge,Mumbai,Hamburg,Mismatch in Port of Discharge
+Letter of Credit,Certificate of Origin,Country of Origin,Germany,India,Mismatch in Country of Origin
+Letter of Credit,Certificate of Origin,Date of Issue,2026-06-14,2026-06-14,"Date of Issue is the same as LC expiry date, which is unusual and may cause compliance issues"
+Letter of Credit,Commercial Invoice,Seller,Mumbai Exports Pvt Ltd,Deutsche Handels GmbH,Mismatch in Seller details
+Letter of Credit,Commercial Invoice,Buyer,Deutsche Handels GmbH,Mumbai Exports Pvt Ltd,Mismatch in Buyer details
+Letter of Credit,Packing List,Invoice Number,Not provided in LC,[Insert Invoice Number],Missing Invoice Number in Packing List
+Letter of Credit,Packing List,Date,Not provided in LC,[Insert Date of Packing List within LC validity],Missing Date in Packing List
+Letter of Credit,Packing List,Gross Weight,Not provided in LC,[Insert Gross Weight in KG],Missing Gross Weight in Packing List
+Letter of Credit,Packing List,Net Weight,Not provided in LC,[Insert Net Weight in KG],Missing Net Weight in Packing List
+Letter of Credit,Packing List,Dimensions,Not provided in LC,[Insert Dimensions of Cartons],Missing Dimensions in Packing List
+Letter of Credit,Insurance Certificate,Date of Issue,2026-01-13,2026-01-18,Date of Issue is later than LC issue date
+Letter of Credit,Insurance Certificate,Policy Coverage,100% of invoice value,110% of invoice value,Mismatch in Policy Coverage percentage
+Letter of Credit,Quality Certificate,Date of Issue,Not provided in LC,2026-05-17,Missing Date of Issue in LC
+Letter of Credit,Quality Certificate,Certifying Authority,Not specified in LC,Mumbai Exports Pvt Ltd,Missing Certifying Authority in LC

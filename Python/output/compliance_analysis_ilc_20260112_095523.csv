@@ -1,0 +1,9 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Gross Weight,Not specified,"9,572.85 KGS",Gross weight is not mentioned in the LC but is present in the Bill of Lading.
+Letter of Credit,Certificate of Origin,Country of Origin,China,Japan,"LC specifies the country of origin as China, but the Certificate of Origin declares Japan as the origin."
+Letter of Credit,Insurance Certificate,Insured Value,Not specified,"USD 305,454.57",Insured value is not mentioned in the LC but is present in the Insurance Certificate.
+Letter of Credit,Insurance Certificate,Coverage Type,Not specified,Institute Cargo Clauses (A) - All Risks,Coverage type is not mentioned in the LC but is present in the Insurance Certificate.
+Letter of Credit,Packing List,Gross Weight,Not specified,"9,572.85 KGS",Gross weight is not mentioned in the LC but is present in the Packing List.
+Letter of Credit,Packing List,Number of Packages,Not specified,91 packages,Number of packages is not mentioned in the LC but is present in the Packing List.
+Letter of Credit,Quality Certificate,Batch Number,Not specified,BATCH-884081,Batch number is not mentioned in the LC but is present in the Quality Certificate.
+Letter of Credit,Quality Certificate,Production Date,Not specified,2025-12-13,Production date is not mentioned in the LC but is present in the Quality Certificate.

@@ -1,0 +1,11 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+ilc.txt,Document 2.txt,Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy in Bill of Lading.
+ilc.txt,Document 2.txt,On Board Notation Date,Not later than 25-Sep-2025,26-Sep-2025,Shipment date exceeds the latest shipment date allowed by the LC.
+ilc.txt,Document 13.txt,Coverage,Institute Cargo Clauses (C),Institute Cargo Clauses (A),Insurance coverage type does not match LC requirements.
+ilc.txt,Document 13.txt,Claims Payable,Vietnam,"Dubai, United Arab Emirates",Claims payable location does not match LC requirements.
+ilc.txt,Document 13.txt,Sum Insured,"USD 141,295.00 (110% of invoice value)","AED 471,000.00",Sum insured is not in the currency of the credit and does not match 110% of the invoice value in USD.
+ilc.txt,Document 5.txt,Goods Description,"Knitted cotton T-shirts, 100% cotton","Knitted T-shirts, 97% cotton / 3% elastane",Goods description does not match LC requirements.
+ilc.txt,Document 5.txt,Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy in Commercial Invoice.
+ilc.txt,Document 8.txt,Gross Weight,"4,200.00 kg","4,198.00 kg",Gross weight discrepancy in Packing List.
+ilc.txt,Document 8.txt,Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy in Packing List.
+ilc.txt,Document 11.txt,Buyer Specification,VGE/KT-2025-09,VGE/KT-2025-09 (Rev A),Buyer specification revision not mentioned in LC.

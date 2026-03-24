@@ -1,0 +1,13 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+LC,Document 2.txt (BOL),Port of Discharge,"Cat Lai Terminal, Ho Chi Minh City, Vietnam","Ho Chi Minh City, Vietnam",Port of discharge is not specific as per LC requirements.
+LC,Document 2.txt (BOL),Place of Delivery,"Cat Lai Terminal, Ho Chi Minh City, Vietnam","Cat Lai CY, Ho Chi Minh City, Vietnam",Place of delivery description differs from LC.
+LC,Document 2.txt (BOL),On Board Notation Date,Not later than 25-Sep-2025,26-Sep-2025,Shipped on board date exceeds the latest shipment date in LC.
+LC,Document 4.txt (INV),Goods Description,"Knitted cotton T-shirts, 100% cotton","Knitted T-shirts, 97% cotton / 3% elastane (short sleeve, crew neck)",Goods description and composition do not match LC requirements.
+LC,Document 4.txt (INV),Net Weight,"4,000.00 kg","3,998.00 kg",Net weight does not match LC requirements.
+LC,Document 4.txt (INV),Remarks,Not mentioned,Banking charges outside UAE for applicant as per sales terms,Extra information not required by LC.
+LC,Document 7.txt (PL),Gross Weight,"4,200.00 kg","4,198.00 kg",Gross weight does not match LC requirements.
+LC,Document 7.txt (PL),Net Weight,"4,000.00 kg","3,998.00 kg",Net weight does not match LC requirements.
+LC,Document 10.txt (QC),Buyer Specification,VGE/KT-2025-09,VGE/KT-2025-09 (Rev A),Buyer specification includes an additional revision not mentioned in LC.
+LC,Document 13.txt (INS),Coverage Clauses,"Institute Cargo Clauses (C), Institute War Clauses (Cargo), Institute Strikes, Riots and Civil Commotions (Cargo)","Institute Cargo Clauses (A), Institute War Clauses (Cargo), Institute Strikes, Riots & Civil Commotions (Cargo)",Coverage clauses differ from LC requirements.
+LC,Document 13.txt (INS),Claims Payable,Vietnam,"Dubai, United Arab Emirates",Claims payable location does not match LC requirements.
+LC,Document 13.txt (INS),Sum Insured,110% of invoice value in USD,"AED 471,000.00",Sum insured is in AED instead of USD as per LC requirements.

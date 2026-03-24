@@ -1,0 +1,76 @@
+
+GUARANTEE CLAIM LETTER
+--------------------------------------------------------------------------------
+[Mumbai Textiles Pvt Ltd Letterhead]
+
+Date: 13-Apr-2026
+
+To: Deutsche Bank AG
+    Frankfurt, Germany
+
+Subject: Claim under Guarantee No. DEUT-APG-2025-873316 for USD 315,214.38
+
+1. REFERENCE
+We refer to Guarantee No. DEUT-APG-2025-873316 dated 13-May-2025 issued by your bank in favor of Mumbai Textiles Pvt Ltd (Beneficiary) for USD 315,214.38 in connection with Contract No. CONT-2025-2043.
+
+2. UNDERLYING CONTRACT
+Contract No.: CONT-2025-2043
+Contract Date: 19-Apr-2025
+Contractor: Singapore Commodities Pte Ltd
+Employer: Mumbai Textiles Pvt Ltd
+Contract Value: USD 5,205,059.09
+
+3. CIRCUMSTANCES LEADING TO CLAIM
+The Applicant has failed to comply with its obligations under the contract. Specifically:
+- Non-performance of contractual obligations
+- Delay in delivery beyond agreed timeline
+- Failure to meet quality standards
+
+Despite repeated notices, the Applicant has failed to remedy the default.
+
+4. INVOCATION
+In accordance with the guarantee terms, we hereby demand payment of USD 315,214.38 under the said guarantee.
+
+Payment Details:
+Bank: HSBC Bank Middle East
+Account: Mumbai Textiles Pvt Ltd
+Account No.: 485323951
+SWIFT: BKCHCNBJ
+
+5. SUPPORTING DOCUMENTS
+1. Original Guarantee
+2. Copy of Contract
+3. Statement of Default
+4. Correspondence evidencing default
+
+6. DECLARATION
+We confirm:
+- This claim is made within the validity period
+- The amount claimed represents our loss
+- We are entitled to make this claim per guarantee terms
+
+7. REQUEST
+Please remit the guaranteed amount immediately upon receipt.
+
+For Mumbai Textiles Pvt Ltd
+Authorized Signatory: _______________________
+Name: Ahmed Hassan
+Title: Finance Director
+--------------------------------------------------------------------------------
+
+
+STATEMENT OF DEFAULT
+--------------------------------------------------------------------------------
+Date: 13-Apr-2026
+Contract: CONT-2025-2043
+
+We certify that Singapore Commodities Pte Ltd has failed to:
+1. Complete work by 16-Oct-2025
+2. Meet quality specifications
+3. Respond to remedial notices
+
+Loss incurred: USD 315,214.38
+
+Certified by: _______________________
+Mumbai Textiles Pvt Ltd
+--------------------------------------------------------------------------------

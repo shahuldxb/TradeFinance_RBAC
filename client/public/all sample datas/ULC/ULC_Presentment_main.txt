@@ -1,0 +1,38 @@
+EXPORT LETTER OF CREDIT (USANCE - 60 days after B/L date)
+--------------------------------------------------------------------------------
+Issuing Bank: DBS Bank Ltd, Singapore, Singapore
+Advising Bank: Standard Chartered Bank, Singapore, Singapore
+LC No.: DBSS-SIN-2025-599213
+Issue Date: 30-Jun-2025
+Expiry: 17-Sep-2025 at Singapore
+Rules: UCP 600, ISBP 821
+
+Applicant: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+Beneficiary: European Machinery GmbH, Industriestrasse 45, Munich, Germany
+
+Amount: USD 731,165.47
+Tolerance: +10/-10%
+Incoterms: CFR Felixstowe (Incoterms® 2020)
+Shipment: From Bremerhaven to Felixstowe
+Latest Shipment: 05-Sep-2025
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Goods:
+Arabica Coffee Beans - Grade AA, moisture content max 12%, screen size 17+
+HS Code: 0901.21
+Quantity: 42162 kg
+GW: 47,006.29 kg, NW: 42,162.00 kg
+Origin: Germany
+
+Documents Required:
+1. Commercial Invoice (1 original + 2 copies) quoting LC number
+2. Full set 3/3 clean on board B/L to order of Issuing Bank, notify Applicant, freight prepaid
+3. Insurance for 110% CIC (C), War, SRCC, claims in UK
+4. Packing List quoting LC number
+5. Quality Certificate quoting LC number
+6. Certificate of Origin by Chamber of Commerce
+7. All documents must quote LC DBSS-SIN-2025-599213
+
+Presentation: Within 21 days after shipment, within LC validity
+--------------------------------------------------------------------------------

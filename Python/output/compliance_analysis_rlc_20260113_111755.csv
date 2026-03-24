@@ -1,0 +1,17 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Bill of Lading (BOL),Date of Issue,2026-01-13,"April 22, 2026",Date of issue mismatch.
+Letter of Credit (LC),Bill of Lading (BOL),Port of Loading,Kaohsiung,Kaohsiung,"Missing ""Taiwan"" in BOL."
+Letter of Credit (LC),Bill of Lading (BOL),Port of Discharge,Shanghai,Shanghai,"Missing ""China"" in BOL."
+Letter of Credit (LC),Bill of Lading (BOL),Country of Origin,Taiwan,Not mentioned,Missing country of origin in BOL.
+Letter of Credit (LC),Bill of Lading (BOL),Vessel Name,Not specified,To be inserted by carrier,Missing vessel name in BOL.
+Letter of Credit (LC),Bill of Lading (BOL),Voyage Number,Not specified,To be inserted by carrier,Missing voyage number in BOL.
+Letter of Credit (LC),Bill of Lading (BOL),Marks and Numbers,Not specified,To be inserted by shipper,Missing marks and numbers in BOL.
+Letter of Credit (LC),Commercial Invoice (INV),Invoice Number,Not specified,CI-20260501,Invoice number not mentioned in LC.
+Letter of Credit (LC),Commercial Invoice (INV),Date of Issue,2026-01-13,22 April 2026,Date of issue mismatch.
+Letter of Credit (LC),Commercial Invoice (INV),Description of Goods,High quality chemicals as per contract specifications,High-quality chemicals as per contract specifications,Formatting difference in description.
+Letter of Credit (LC),Packing List (PL),Date of Issue,2026-01-13,Not mentioned,Missing date of issue in PL.
+Letter of Credit (LC),Packing List (PL),Description of Goods,High quality chemicals as per contract specifications,High-quality chemicals as per contract specifications,Formatting difference in description.
+Letter of Credit (LC),Packing List (PL),Packaging Details,Not specified,"Goods are packed in 50 sealed drums, each containing 94.84 KGS of chemicals (approx.)",Extra information in PL.
+Letter of Credit (LC),Quality Certificate (QC),Date of Issue,2026-01-13,"April 22, 2026",Date of issue mismatch.
+Letter of Credit (LC),Quality Certificate (QC),Port of Loading,Kaohsiung,"Kaohsiung, Taiwan","Extra ""Taiwan"" in QC."
+Letter of Credit (LC),Quality Certificate (QC),Port of Discharge,Shanghai,"Shanghai, China","Extra ""China"" in QC."

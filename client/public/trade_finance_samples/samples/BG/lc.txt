@@ -1,0 +1,52 @@
+## Detailed Instrument Samples
+
+
+
+
+**BANK GUARANTEE**
+
+**Guarantee Number:** BG-2024-001235
+**Issue Date:** February 01, 2024
+**Expiry Date:** January 31, 2025
+
+**Applicant (Guarantor's Customer):**
+XYZ Construction Group
+456 Industrial Road
+Shanghai, 200000, China
+
+**Beneficiary:**
+ABC Project Development Corp.
+123 Business Street
+New York, NY 10001, USA
+
+**Guarantor (Issuing Bank):**
+China International Bank
+321 Commerce Boulevard
+Shanghai, 200001, China
+
+**Advising Bank:**
+Global Trade Bank
+789 Financial Avenue
+New York, NY 10005, USA
+
+**Amount:** USD 1,000,000.00 (One Million US Dollars Only)
+
+**Underlying Transaction:**
+Contract for the construction of the New York Office Tower, Contract No. NYC-2024-001, dated January 20, 2024.
+
+**Purpose of Guarantee:**
+To guarantee the Applicant's obligation to pay the Beneficiary upon presentation of a written demand stating that the Applicant has failed to perform its payment obligations under the Underlying Transaction.
+
+**Conditions for Demand:**
+1. A written demand for payment, signed by an authorized representative of the Beneficiary.
+2. A statement in the demand confirming that the Applicant is in breach of its payment obligations under Contract No. NYC-2024-001.
+3. The demand must be presented at the counter of the Guarantor or the Advising Bank on or before the Expiry Date.
+
+**Governing Law and Jurisdiction:**
+This Guarantee is subject to the **Uniform Rules for Demand Guarantees (URDG), ICC Publication No. 758**.
+
+**Authorized Signature:**
+_______________________
+Li Wei
+Head of Trade Finance
+China International Bank

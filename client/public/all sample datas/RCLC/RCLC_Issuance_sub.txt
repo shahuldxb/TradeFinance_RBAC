@@ -1,0 +1,102 @@
+
+LC APPLICATION FORM
+--------------------------------------------------------------------------------
+Issuing Bank: Bank of China
+Branch: Shanghai Trade Finance Department
+Application Date: 03-Aug-2025
+Application Reference: APP-BKCH-SHA-2025-560536
+
+APPLICANT:
+New York Import Corp
+350 Fifth Avenue, New York, NY 10118, USA
+Account: 132179841
+Contact: Ms. Sarah Lee
+Email: trade@new.com
+
+BENEFICIARY:
+European Machinery GmbH
+Industriestrasse 45, Munich, Germany
+
+LC DETAILS:
+Type: RCLC
+Amount: USD 536,381.73
+Validity: 26-Sep-2025
+Latest Shipment: 12-Sep-2025
+Advising Bank: HSBC Bank Middle East, SWIFT: BBMEAEAD
+
+GOODS:
+Industrial Pumps - Centrifugal pumps, stainless steel, 50HP motor
+HS Code: 8413.70
+Quantity: 39 units
+Unit Price: USD 13,753.38
+
+SHIPMENT:
+From: Bremerhaven, Germany
+To: Houston, USA
+Incoterms: EXW (Incoterms® 2020)
+
+Applicant's Signature: _______________________
+Date: 03-Aug-2025
+--------------------------------------------------------------------------------
+
+
+UNDERLYING SALES CONTRACT
+--------------------------------------------------------------------------------
+Contract No.: SC-2025-9325
+Date: 04-Jul-2025
+
+SELLER: European Machinery GmbH, Industriestrasse 45, Munich, Germany
+BUYER: New York Import Corp, 350 Fifth Avenue, New York, NY 10118, USA
+
+COMMODITY:
+Industrial Pumps - Centrifugal pumps, stainless steel, 50HP motor
+HS Code: 8413.70
+Quantity: 39 units
+Unit Price: USD 13,753.38
+Total Value: USD 563,200.82
+
+PAYMENT:
+100% by irrevocable LC at sight, payable against shipping documents
+LC to be opened 30 days before shipment
+
+SHIPMENT:
+Period: September 2025
+From: Bremerhaven To: Houston
+Incoterms: EXW (Incoterms® 2020)
+
+DOCUMENTS:
+Commercial Invoice, Full set B/L, Insurance, Packing List, Quality Certificate, Certificate of Origin
+
+Seller: _______________________    Buyer: _______________________
+--------------------------------------------------------------------------------
+
+
+PROFORMA INVOICE
+--------------------------------------------------------------------------------
+Seller: European Machinery GmbH, Industriestrasse 45, Munich, Germany
+Buyer: New York Import Corp, 350 Fifth Avenue, New York, NY 10118, USA
+
+PI No.: PI-20250727-724
+Date: 27-Jul-2025
+Validity: 30 days
+
+GOODS:
+Industrial Pumps
+Specification: Centrifugal pumps, stainless steel, 50HP motor
+HS Code: 8413.70
+Quantity: 39 units
+Unit Price: USD 13,753.38
+Total: USD 536,381.73
+
+SHIPMENT:
+Incoterms: EXW (Incoterms® 2020)
+From: Bremerhaven To: Houston
+Estimated: September 2025
+Origin: Germany
+
+PAYMENT:
+100% by irrevocable LC at sight
+LC via: HSBC Bank Middle East
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------

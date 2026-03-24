@@ -1,0 +1,7 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+Letter of Credit,Bill of Lading,Notify Party,"Global Imports Inc., 123 Main Street, New York, NY 10001, USA","Global Imports Inc., 123 Main Street, New York, NY 10001, USA","Notify Party matches LC Applicant, which is correct",Low
+Letter of Credit,Bill of Lading,Port of Discharge,"Shanghai Port, China","Shanghai Port, China",Port of Discharge matches LC terms,Low
+Letter of Credit,Commercial Invoice,Total Amount,"USD 50,000","USD 50,000",Total Amount matches LC terms,Low
+Letter of Credit,Commercial Invoice,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Description matches LC terms,Low
+Letter of Credit,Insurance Certificate,Amount Insured,"USD 55,000","USD 55,000",Amount Insured matches LC terms,Low
+Letter of Credit,Quality Certificate,Certificate Number,Q-2026-001,Q-2026-001,Certificate Number matches LC terms,Low

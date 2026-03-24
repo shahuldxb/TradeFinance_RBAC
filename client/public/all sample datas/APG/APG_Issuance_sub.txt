@@ -1,0 +1,35 @@
+
+GUARANTEE APPLICATION
+--------------------------------------------------------------------------------
+From: New York Import Corp
+To: Emirates NBD
+Date: 11-Aug-2025
+
+We request issuance of APG with following details:
+
+Beneficiary: European Machinery GmbH
+Amount: USD 453,898.03
+Validity: 16-Jun-2026
+Contract: CONT-2025-5564
+
+Applicant: _______________________
+--------------------------------------------------------------------------------
+
+
+UNDERLYING CONTRACT (EXCERPT)
+--------------------------------------------------------------------------------
+Contract No.: CONT-2025-5564
+Date: 05-Aug-2025
+
+Contractor: New York Import Corp
+Employer: European Machinery GmbH
+
+Contract Value: USD 6,149,134.22
+Scope: Supply and installation of equipment
+
+Payment Terms: 30% advance, 60% on delivery, 10% retention
+
+Guarantee Requirement: APG for 7% of contract value
+
+Parties: _______________________
+--------------------------------------------------------------------------------

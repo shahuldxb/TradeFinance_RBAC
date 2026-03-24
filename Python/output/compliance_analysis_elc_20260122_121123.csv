@@ -1,0 +1,8 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Bill of Lading,Date of Issue,2026-01-22,2026-04-04,Date of issue on Bill of Lading does not match LC issue date,Medium
+LC,Certificate of Origin,Quantity,3473 KGS,"3,473 KGS",Formatting difference in quantity representation,Low
+LC,Certificate of Origin,Place and Date,Not explicitly stated,"London, United Kingdom, April 3, 2026",Missing explicit place and date in LC,Medium
+LC,Commercial Invoice,Invoice Number,Not explicitly stated,CI202601227351,Invoice number not explicitly mentioned in LC,Medium
+LC,Packing List,Packing Details,Not explicitly stated,Goods are packed in 5 packages,Packing details not explicitly mentioned in LC,Medium
+LC,Shipping Bill,Terms of Shipment,FOB,CIF Hamburg,Terms of shipment differ from LC,High
+LC,Shipping Bill,Mode of Transport,Not explicitly stated,Sea,Mode of transport not explicitly mentioned in LC,Medium

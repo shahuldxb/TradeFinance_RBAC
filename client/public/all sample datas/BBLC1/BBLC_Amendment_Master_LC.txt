@@ -1,0 +1,109 @@
+IMPORT LETTER OF CREDIT (SIGHT) - MASTER LC
+--------------------------------------------------------------------------------
+
+Issuing Bank: Barclays Bank PLC
+                London, UK
+                SWIFT: BARCGB22
+
+Advising Bank: Bank of China
+                Shanghai, China
+                SWIFT: BKCHCNBJ
+
+Master LC Number: BARC-LON-2025-814300
+Date of Issue: 19-Jul-2025
+Date and Place of Expiry: 01-Oct-2025 at Shanghai, China
+
+Applicable Rules: UCP 600 (ICC Publication No. 600), ISBP 821
+
+Applicant (Buyer):
+New York Import Corp
+350 Fifth Avenue, New York, NY 10118
+USA
+
+Beneficiary (Intermediary/Trader):
+Singapore Commodities Pte Ltd
+1 Marina Boulevard, #20-01, Singapore 018989
+Singapore
+
+Amount: USD 159,652.12
+Tolerance: +10/-10%
+
+Available with: Bank of China by sight payment
+
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Loading on Board/Dispatch/Taking in Charge at/from: Jebel Ali, UAE
+For Transportation to: Los Angeles, USA
+Latest Date of Shipment: 13-Sep-2025
+
+Incoterms: CIF Los Angeles (Incoterms® 2020)
+
+Description of Goods:
+Arabica Coffee Beans
+Grade AA, moisture content max 12%, screen size 17+
+HS Code: 0901.21
+Quantity: 10811 kg
+Unit Price: USD 14.77 per kg
+Total Amount: USD 159,652.12
+Packing: jute bags
+Gross Weight: Approximately 13586.71 kg
+Net Weight: Approximately 10811.00 kg
+Country of Origin: UAE
+
+Documents Required:
+
+1. COMMERCIAL INVOICE
+   - Signed commercial invoice in 1 original and 2 copies
+   - Issued by beneficiary
+   - Showing LC number BARC-LON-2025-814300
+   - Showing buyer as New York Import Corp
+
+2. BILL OF LADING
+   - Full set (3/3) of clean on board ocean bills of lading
+   - Made out to order of Barclays Bank PLC
+   - Marked "Freight Prepaid"
+   - Notify: New York Import Corp
+   - Showing LC number BARC-LON-2025-814300
+
+3. INSURANCE DOCUMENT
+   - Insurance policy or certificate for 110% of invoice value
+   - Covering Institute Cargo Clauses (C), War and SRCC
+   - Claims payable in USA
+   - Showing LC number BARC-LON-2025-814300
+
+4. PACKING LIST
+   - Packing list in 1 original and 2 copies
+   - Showing LC number BARC-LON-2025-814300
+   - Showing gross and net weights
+
+5. QUALITY CERTIFICATE
+   - Quality certificate issued by beneficiary or manufacturer
+   - Showing LC number BARC-LON-2025-814300
+   - Certifying goods meet specifications
+
+6. CERTIFICATE OF ORIGIN
+   - Certificate of Origin issued by Chamber of Commerce
+   - Showing country of origin as UAE
+   - Showing LC number BARC-LON-2025-814300
+
+Additional Conditions:
+- All documents must be presented within 21 days after the date of shipment but within the validity of the credit
+- All documents must quote LC number BARC-LON-2025-814300
+- Documents with discrepancies will be held at applicant's risk pending authorization
+- All banking charges outside UK are for beneficiary's account
+
+Special Instructions:
+This is a Master LC issued in favor of an intermediary/trader. The intermediary will substitute documents before claiming under this LC.
+
+Confirmation: Without
+
+Reimbursement:
+Claim reimbursement from Barclays Bank PLC by SWIFT
+
+Period for Presentation: 21 days after shipment date but within LC validity
+
+--------------------------------------------------------------------------------
+Authorized Signature
+Barclays Bank PLC
+--------------------------------------------------------------------------------

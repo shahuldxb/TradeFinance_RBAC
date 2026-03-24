@@ -1,0 +1,7 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Bill Of Exchange.txt,LC Number,ILCAE00221000098,CA21001978,Discrepancy in LC Number,High
+LC,Bill Of Lading.txt,Port of Loading,ANY SEAPORT IN JAPAN,"YOKOHAMA, JAPAN",Port mismatch,Medium
+LC,Bill Of Lading.txt,Port of Discharge,"ANY SEAPORT IN ABU DHABI, UAE",ABU DHABI SEAPORT,Port mismatch,Medium
+LC,Commercial Invoice.txt,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 ₺ (PACKING -500ML) PESTICIDES,Typographical error in description,Low
+LC,Packing List.txt,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,Fully compliant match,Low
+LC,Unknown.txt,Vessel Age,Less than 25 years,12 years,Fully compliant match,Low

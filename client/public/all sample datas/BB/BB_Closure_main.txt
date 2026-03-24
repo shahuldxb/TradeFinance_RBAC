@@ -1,0 +1,28 @@
+
+BID BOND
+--------------------------------------------------------------------------------
+Guarantee No.: DEUT-BB-2025-827323
+Issue Date: 16-Jun-2025
+Issuing Bank: Deutsche Bank AG, Frankfurt, Germany
+SWIFT: DEUTDEFF
+Applicable Rules: URDG 758
+
+Applicant (Principal): Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, District 7, Ho Chi Minh City, Vietnam
+Beneficiary: Australian Mining Equipment Pty, Level 5, 123 Eagle Street, Brisbane QLD 4000, Australia
+
+Guarantee Amount: USD 318,195.68
+Expiry Date: 12-Apr-2026
+
+Underlying Contract: CONT-2025-4922 dated 18-May-2025
+Contract Value: USD 5,269,851.01
+
+GUARANTEE TEXT:
+We hereby irrevocably and unconditionally guarantee payment to the Beneficiary upon receipt of the Beneficiary's first written demand stating that the Applicant has failed to fulfill its obligations under the underlying contract.
+
+Any claim must be received at our counters on or before 12-Apr-2026.
+
+This guarantee is subject to URDG 758.
+
+For Deutsche Bank AG
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------

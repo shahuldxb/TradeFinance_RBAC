@@ -1,0 +1,4 @@
+Extract structured data from the following {instrument_code} application text.
+
+APPLICATION TEXT:
+{application_text}

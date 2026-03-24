@@ -1,0 +1,9 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Bill Of Exchange.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Bill Of Lading.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Cites Permit Certificate.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Commercial Invoice.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Export Import License.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Non Preferential Certificate.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Packing List.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Unknown.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low

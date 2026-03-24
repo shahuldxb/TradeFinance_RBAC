@@ -1,0 +1,28 @@
+
+BID BOND
+--------------------------------------------------------------------------------
+Guarantee No.: SCBL-BB-2025-233954
+Issue Date: 03-Jul-2025
+Issuing Bank: Standard Chartered Bank, Singapore, Singapore
+SWIFT: SCBLSG22
+Applicable Rules: URDG 758
+
+Applicant (Principal): New York Import Corp, 350 Fifth Avenue, New York, NY 10118, USA
+Beneficiary: Australian Mining Equipment Pty, Level 5, 123 Eagle Street, Brisbane QLD 4000, Australia
+
+Guarantee Amount: USD 244,034.06
+Expiry Date: 30-Mar-2026
+
+Underlying Contract: CONT-2025-4474 dated 09-Jun-2025
+Contract Value: USD 3,997,739.57
+
+GUARANTEE TEXT:
+We hereby irrevocably and unconditionally guarantee payment to the Beneficiary upon receipt of the Beneficiary's first written demand stating that the Applicant has failed to fulfill its obligations under the underlying contract.
+
+Any claim must be received at our counters on or before 30-Mar-2026.
+
+This guarantee is subject to URDG 758.
+
+For Standard Chartered Bank
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------

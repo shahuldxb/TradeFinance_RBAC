@@ -1,0 +1,38 @@
+EXPORT LETTER OF CREDIT (SIGHT)
+--------------------------------------------------------------------------------
+Issuing Bank: Barclays Bank PLC, London, UK
+Advising Bank: Bank of China, Shanghai, China
+LC No.: BARC-LON-2025-897597
+Issue Date: 08-Sep-2025
+Expiry: 25-Nov-2025 at Shanghai
+Rules: UCP 600, ISBP 821
+
+Applicant: New York Import Corp, 350 Fifth Avenue, New York, NY 10118, USA
+Beneficiary: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+
+Amount: USD 146,308.18
+Tolerance: +10/-10%
+Incoterms: EXW New York (Incoterms® 2020)
+Shipment: From Felixstowe to New York
+Latest Shipment: 06-Nov-2025
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Goods:
+Laptop Computers - 15.6 inch display, Intel Core i5, 8GB RAM, 256GB SSD
+HS Code: 8471.30
+Quantity: 197 units
+GW: 33.37 kg, NW: 31.70 kg
+Origin: UK
+
+Documents Required:
+1. Commercial Invoice (1 original + 2 copies) quoting LC number
+2. Full set 3/3 clean on board B/L to order of Issuing Bank, notify Applicant, freight prepaid
+3. Insurance for 110% CIC (C), War, SRCC, claims in USA
+4. Packing List quoting LC number
+5. Quality Certificate quoting LC number
+6. Certificate of Origin by Chamber of Commerce
+7. All documents must quote LC BARC-LON-2025-897597
+
+Presentation: Within 21 days after shipment, within LC validity
+--------------------------------------------------------------------------------

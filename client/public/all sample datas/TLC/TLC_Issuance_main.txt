@@ -1,0 +1,39 @@
+EXPORT LETTER OF CREDIT (SIGHT)
+--------------------------------------------------------------------------------
+Issuing Bank: HSBC Bank Middle East, Dubai, UAE
+Advising/Nominated Bank: Barclays Bank PLC, London, UK
+Credit No.: BBME-DUB-2025-772895
+Date of Issue: 12-Aug-2025
+Applicable Rules: UCP 600, ISBP 821 (latest revision)
+Expiry Date/Place: 11-Oct-2025 / London, UK
+
+Applicant (Buyer): Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+Beneficiary (Seller): European Machinery GmbH, Industriestrasse 45, Munich, Germany
+Currency/Amount: USD 994,179.90
+Tolerance: +10/-10
+Incoterms: CFR Singapore Port (Incoterms® 2020)
+Port of Loading: Bremerhaven, Germany
+Port of Discharge: Singapore Port, Singapore
+Latest Shipment Date: 14-Oct-2025
+Presentation Period: Within 21 days after the date of shipment but within the validity of the credit
+Partial Shipments: Allowed
+Transshipment: Not Allowed
+
+Goods Description:
+- Automotive Spare Parts
+- Brake pads, filters, belts - OEM quality
+- HS Code: 8708.99
+- Quantity: 2938 sets
+- Gross Weight: 595.65 kg
+- Net Weight: 565.86 kg
+- Country of Origin: Germany
+
+Documents Required:
+1. Commercial invoice in 1 original + 2 copies, quoting LC number BBME-DUB-2025-772895.
+2. Full set 3/3 original clean on board ocean B/L to order of Issuing Bank, notify Applicant, freight prepaid.
+3. Insurance policy/certificate for 110% of invoice value, Institute Cargo Clauses (C), War and SRCC, claims payable in Singapore.
+4. Packing list quoting LC number.
+5. Quality certificate quoting LC number.
+6. Certificate of Origin issued by Chamber of Commerce.
+7. All documents must quote LC number BBME-DUB-2025-772895.
+--------------------------------------------------------------------------------

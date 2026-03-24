@@ -1,0 +1,122 @@
+
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: Shanghai Electronics Co. Ltd., Building 12, Pudong Industrial Park, Shanghai, China
+Buyer: Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, District 7, Ho Chi Minh City, Vietnam
+
+Invoice No.: INV-20250923-5339
+Date: 23-Sep-2025
+LC No.: SCBL-SIN-2025-541589
+Incoterms: FOB Ho Chi Minh City (Cat Lai) (Incoterms® 2020)
+
+Item: Industrial Pumps
+Description: Centrifugal pumps, stainless steel, 50HP motor
+HS Code: 8413.70
+Quantity: 25 units
+Unit Price: USD 14,180.29
+Amount: USD 354,507.30
+GW: 29.65 kg
+NW: 24.95 kg
+Origin: China
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+BILL OF LADING
+--------------------------------------------------------------------------------
+Shipper: Shanghai Electronics Co. Ltd., Building 12, Pudong Industrial Park, Shanghai
+Consignee: To Order of Standard Chartered Bank
+Notify: Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, District 7, Ho Chi Minh City
+
+B/L No.: SCBL-SIN-2025-541589-BL8778
+Vessel/Voyage: MV Pacific Glory / VOY389
+Port of Loading: Ningbo, China
+Port of Discharge: Ho Chi Minh City (Cat Lai), Vietnam
+
+Goods: Industrial Pumps, HS 8413.70
+Quantity: 25 units
+GW 29.65 kg, NW 25.00 kg
+
+Freight: Prepaid
+Originals: 3
+Issue Date: 24-Sep-2025
+On Board: 26-Sep-2025
+Clean on Board: YES
+
+Carrier: _______________________
+--------------------------------------------------------------------------------
+
+
+INSURANCE CERTIFICATE
+--------------------------------------------------------------------------------
+Insurer: AXA Insurance Gulf
+Certificate No.: INS-20250922-6578
+Date: 22-Sep-2025
+Assured: To Order
+Endorsement: In blank
+LC No.: SCBL-SIN-2025-541589
+
+Interest: Industrial Pumps
+Voyage: Ningbo to Ho Chi Minh City (Cat Lai)
+Sum Insured: AED 389,958.03
+Coverage: Institute Cargo Clauses (C), War, SRCC
+Claims Payable: Vietnam
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: Shanghai Electronics Co. Ltd.
+Consignee: Vietnam Garment Exporters Ltd.
+LC No.: SCBL-SIN-2025-541589
+Date: 23-Sep-2025
+
+Quantity: 25 units
+GW: 29.50 kg
+NW: 25.00 kg
+Packing: wooden crates
+
+Marks: Shanghai/0925
+Origin: China
+--------------------------------------------------------------------------------
+
+
+QUALITY CERTIFICATE
+--------------------------------------------------------------------------------
+Issuer: Shanghai Electronics Co. Ltd. QA Dept
+Certificate No.: QC-20250921-185
+Date: 21-Sep-2025
+LC Reference: N/A
+
+Product: Industrial Pumps
+Specification: Centrifugal pumps, stainless steel, 50HP motor
+Quantity: 25 units
+Inspection: ISO 2859-1, AQL 2.5
+Result: PASSED
+Origin: China
+
+QA Manager: _______________________
+--------------------------------------------------------------------------------
+
+
+CERTIFICATE OF ORIGIN
+--------------------------------------------------------------------------------
+Issued by: Chamber of Commerce, China
+Certificate No.: CO-20250922-14431
+Date: 22-Sep-2025
+LC No.: SCBL-SIN-2025-541589
+
+Exporter: Shanghai Electronics Co. Ltd.
+Consignee: Vietnam Garment Exporters Ltd.
+
+Goods: Industrial Pumps
+HS Code: 8413.70
+Quantity: 25 units
+
+COUNTRY OF ORIGIN: China
+
+Authorized Officer: _______________________
+--------------------------------------------------------------------------------

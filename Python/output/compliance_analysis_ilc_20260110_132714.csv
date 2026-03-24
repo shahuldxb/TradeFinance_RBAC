@@ -1,0 +1,13 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Gross Weight,Not specified,"1,631.70 KGS",Gross weight is not mentioned in the LC but is present in the Bill of Lading.
+Letter of Credit,Bill of Lading,Freight Details,Not specified,PREPAID,"Freight details are not mentioned in the LC but are specified as ""PREPAID"" in the Bill of Lading."
+Letter of Credit,Certificate of Origin,Country of Origin,Germany,Singapore,"LC specifies Germany as the country of origin, but the Certificate of Origin declares Singapore as the origin in the declaration section."
+Letter of Credit,Insurance Certificate,Insured Value,Not specified,"USD 485,137.15",Insured value is not mentioned in the LC but is specified in the Insurance Certificate.
+Letter of Credit,Insurance Certificate,Coverage Type,Not specified,Institute Cargo Clauses (A) - All Risks,Coverage type is not mentioned in the LC but is specified in the Insurance Certificate.
+Letter of Credit,Packing List,Gross Weight,Not specified,"1,631.70 KGS",Gross weight is not mentioned in the LC but is present in the Packing List.
+Letter of Credit,Packing List,Number of Packages,Not specified,15 packages,Number of packages is not mentioned in the LC but is specified in the Packing List.
+Letter of Credit,Packing List,Package Type,Not specified,Wooden crates / Cartons,Package type is not mentioned in the LC but is specified in the Packing List.
+Letter of Credit,Quality Certificate,Batch Number,Not specified,BATCH-746544,Batch number is not mentioned in the LC but is specified in the Quality Certificate.
+Letter of Credit,Quality Certificate,Production Date,Not specified,2025-12-11,Production date is not mentioned in the LC but is specified in the Quality Certificate.
+Letter of Credit,Quality Certificate,Compliance,Not specified,ISO 9001:2015 certified,Compliance details are not mentioned in the LC but are specified in the Quality Certificate.
+Letter of Credit,Quality Certificate,Test Results,Not specified,PASSED,Test results are not mentioned in the LC but are specified in the Quality Certificate.

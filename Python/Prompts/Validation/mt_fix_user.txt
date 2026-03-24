@@ -1,0 +1,12 @@
+Rules MT type: MT{rules_mt}
+
+Allowed tags (ONLY these may appear in block 4):
+{allowed_tags_json}
+
+Critical discrepancies to fix:
+{critical_discrepancies_json}
+
+MT message:
+{mt_text}
+
+Return ONLY the corrected SWIFT MT message text.

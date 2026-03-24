@@ -1,0 +1,76 @@
+
+GUARANTEE CLAIM LETTER
+--------------------------------------------------------------------------------
+[London Trading House Ltd Letterhead]
+
+Date: 06-Apr-2026
+
+To: Standard Chartered Bank
+    Singapore, Singapore
+
+Subject: Claim under Guarantee No. SCBL-RG-2025-299988 for USD 406,800.14
+
+1. REFERENCE
+We refer to Guarantee No. SCBL-RG-2025-299988 dated 19-Jul-2025 issued by your bank in favor of London Trading House Ltd (Beneficiary) for USD 406,800.14 in connection with Contract No. CONT-2025-9889.
+
+2. UNDERLYING CONTRACT
+Contract No.: CONT-2025-9889
+Contract Date: 07-Jul-2025
+Contractor: Singapore Commodities Pte Ltd
+Employer: London Trading House Ltd
+Contract Value: USD 6,249,222.16
+
+3. CIRCUMSTANCES LEADING TO CLAIM
+The Applicant has failed to comply with its obligations under the contract. Specifically:
+- Non-performance of contractual obligations
+- Delay in delivery beyond agreed timeline
+- Failure to meet quality standards
+
+Despite repeated notices, the Applicant has failed to remedy the default.
+
+4. INVOCATION
+In accordance with the guarantee terms, we hereby demand payment of USD 406,800.14 under the said guarantee.
+
+Payment Details:
+Bank: Citi Bank PJSC
+Account: London Trading House Ltd
+Account No.: 243024782
+SWIFT: EBILAEAD
+
+5. SUPPORTING DOCUMENTS
+1. Original Guarantee
+2. Copy of Contract
+3. Statement of Default
+4. Correspondence evidencing default
+
+6. DECLARATION
+We confirm:
+- This claim is made within the validity period
+- The amount claimed represents our loss
+- We are entitled to make this claim per guarantee terms
+
+7. REQUEST
+Please remit the guaranteed amount immediately upon receipt.
+
+For London Trading House Ltd
+Authorized Signatory: _______________________
+Name: Sarah Lee
+Title: Project Manager
+--------------------------------------------------------------------------------
+
+
+STATEMENT OF DEFAULT
+--------------------------------------------------------------------------------
+Date: 06-Apr-2026
+Contract: CONT-2025-9889
+
+We certify that Singapore Commodities Pte Ltd has failed to:
+1. Complete work by 03-Jan-2026
+2. Meet quality specifications
+3. Respond to remedial notices
+
+Loss incurred: USD 406,800.14
+
+Certified by: _______________________
+London Trading House Ltd
+--------------------------------------------------------------------------------

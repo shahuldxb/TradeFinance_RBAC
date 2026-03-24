@@ -1,0 +1,35 @@
+
+GUARANTEE APPLICATION
+--------------------------------------------------------------------------------
+From: Vietnam Garment Exporters Ltd.
+To: Citi Bank PJSC
+Date: 16-Jul-2025
+
+We request issuance of RG with following details:
+
+Beneficiary: Shanghai Electronics Co. Ltd.
+Amount: USD 237,844.05
+Validity: 01-May-2026
+Contract: CONT-2025-6065
+
+Applicant: _______________________
+--------------------------------------------------------------------------------
+
+
+UNDERLYING CONTRACT (EXCERPT)
+--------------------------------------------------------------------------------
+Contract No.: CONT-2025-6065
+Date: 08-Jul-2025
+
+Contractor: Vietnam Garment Exporters Ltd.
+Employer: Shanghai Electronics Co. Ltd.
+
+Contract Value: USD 1,826,653.26
+Scope: Supply and installation of equipment
+
+Payment Terms: 30% advance, 60% on delivery, 10% retention
+
+Guarantee Requirement: RG for 13% of contract value
+
+Parties: _______________________
+--------------------------------------------------------------------------------

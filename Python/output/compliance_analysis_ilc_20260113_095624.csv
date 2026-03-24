@@ -1,0 +1,18 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Port of Loading,Hamburg,"Hamburg, Germany",Extra information in target document.
+Letter of Credit,Bill of Lading,Port of Discharge,Mumbai,"Mumbai, India",Extra information in target document.
+Letter of Credit,Bill of Lading,Place of Final Delivery,India,Not specified in LC,Extra information in target document.
+Letter of Credit,Bill of Lading,Gross Weight,Not specified in LC,"1,963 KGS",Missing information in LC.
+Letter of Credit,Bill of Lading,Net Weight,Not specified in LC,"1,950 KGS",Missing information in LC.
+Letter of Credit,Certificate of Origin,Country of Origin,Germany,India,Mismatch in country of origin.
+Letter of Credit,Certificate of Origin,Port of Loading,Hamburg,"Mumbai, India",Mismatch in port of loading.
+Letter of Credit,Certificate of Origin,Port of Discharge,Mumbai,"Hamburg, Germany",Mismatch in port of discharge.
+Letter of Credit,Commercial Invoice,Port of Loading,Hamburg,Mumbai,Mismatch in port of loading.
+Letter of Credit,Commercial Invoice,Port of Discharge,Mumbai,Hamburg,Mismatch in port of discharge.
+Letter of Credit,Packing List,Port of Loading,Hamburg,"Mumbai, India",Mismatch in port of loading.
+Letter of Credit,Packing List,Port of Discharge,Mumbai,"Hamburg, Germany",Mismatch in port of discharge.
+Letter of Credit,Packing List,Final Destination,India,Germany,Mismatch in final destination.
+Letter of Credit,Insurance Certificate,Port of Loading,Hamburg,"Mumbai, India",Mismatch in port of loading.
+Letter of Credit,Insurance Certificate,Port of Discharge,Mumbai,"Hamburg, Germany",Mismatch in port of discharge.
+Letter of Credit,Quality Certificate,Port of Loading,Hamburg,"Mumbai, India",Mismatch in port of loading.
+Letter of Credit,Quality Certificate,Port of Discharge,Mumbai,"Hamburg, Germany",Mismatch in port of discharge.

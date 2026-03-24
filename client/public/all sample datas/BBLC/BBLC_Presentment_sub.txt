@@ -1,0 +1,122 @@
+
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: Brazilian Coffee Exporters SA, Av. Paulista 1578, São Paulo, SP 01310-200, Brazil
+Buyer: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+
+Invoice No.: INV-20250920-2929
+Date: 20-Sep-2025
+LC No.: CITI-DUB-2025-128921
+Incoterms: CIF Singapore Port (Incoterms® 2020)
+
+Item: Arabica Coffee Beans
+Description: Grade AA, moisture content max 12%, screen size 17+
+HS Code: 0901.21
+Quantity: 41168 kg
+Unit Price: USD 12.92
+Amount: USD 531,687.25
+GW: 47,356.52 kg
+NW: 41,085.66 kg
+Origin: Brazil
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+BILL OF LADING
+--------------------------------------------------------------------------------
+Shipper: Brazilian Coffee Exporters SA, Av. Paulista 1578, São Paulo, SP 01310-200
+Consignee: To Order of Citi Bank PJSC
+Notify: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989
+
+B/L No.: CITI-DUB-2025-128921-BL6504
+Vessel/Voyage: MV Ocean Star / VOY231
+Port of Loading: Rio de Janeiro, Brazil
+Port of Discharge: Singapore Port, Singapore
+
+Goods: Arabica Coffee Beans, HS 0901.21
+Quantity: 41168 kg
+GW 47,356.52 kg, NW 41,168.00 kg
+
+Freight: Prepaid
+Originals: 3
+Issue Date: 21-Sep-2025
+On Board: 23-Sep-2025
+Clean on Board: YES
+
+Carrier: _______________________
+--------------------------------------------------------------------------------
+
+
+INSURANCE CERTIFICATE
+--------------------------------------------------------------------------------
+Insurer: Zurich Insurance
+Certificate No.: INS-20250919-2680
+Date: 19-Sep-2025
+Assured: To Order
+Endorsement: In blank
+LC No.: CITI-DUB-2025-128921
+
+Interest: Arabica Coffee Beans
+Voyage: Rio de Janeiro to Singapore Port
+Sum Insured: USD 584,855.97
+Coverage: Institute Cargo Clauses (C), War, SRCC
+Claims Payable: Singapore
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: Brazilian Coffee Exporters SA
+Consignee: Singapore Commodities Pte Ltd
+LC No.: CITI-DUB-2025-128921
+Date: 20-Sep-2025
+
+Quantity: 41168 kg
+GW: 47,356.52 kg
+NW: 41,168.00 kg
+Packing: jute bags
+
+Marks: Brazilian/0925
+Origin: Brazil
+--------------------------------------------------------------------------------
+
+
+QUALITY CERTIFICATE
+--------------------------------------------------------------------------------
+Issuer: Brazilian Coffee Exporters SA QA Dept
+Certificate No.: QC-20250918-415
+Date: 18-Sep-2025
+LC Reference: N/A
+
+Product: Arabica Coffee Beans
+Specification: Grade AA, moisture content max 12%, screen size 17+
+Quantity: 41168 kg
+Inspection: ISO 2859-1, AQL 2.5
+Result: PASSED
+Origin: Brazil
+
+QA Manager: _______________________
+--------------------------------------------------------------------------------
+
+
+CERTIFICATE OF ORIGIN
+--------------------------------------------------------------------------------
+Issued by: Chamber of Commerce, Brazil
+Certificate No.: CO-20250919-31091
+Date: 19-Sep-2025
+LC No.: CITI-DUB-2025-128921
+
+Exporter: Brazilian Coffee Exporters SA
+Consignee: Singapore Commodities Pte Ltd
+
+Goods: Arabica Coffee Beans
+HS Code: 0901.21
+Quantity: 41168 kg
+
+COUNTRY OF ORIGIN: Brazil
+
+Authorized Officer: _______________________
+--------------------------------------------------------------------------------

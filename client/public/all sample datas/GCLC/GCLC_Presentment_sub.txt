@@ -1,0 +1,122 @@
+
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+Buyer: Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, District 7, Ho Chi Minh City, Vietnam
+
+Invoice No.: INV-20250612-2406
+Date: 12-Jun-2025
+LC No.: BBME-DUB-2025-372034
+Incoterms: EXW Ho Chi Minh City (Cat Lai) (Incoterms® 2020)
+
+Item: Knitted Cotton T-shirts
+Description: 97% cotton / 3% elastane, crew neck, short sleeve
+HS Code: 6109.10
+Quantity: 32542 pieces
+Unit Price: USD 12.00
+Amount: USD 390,409.92
+GW: 7,368.38 kg
+NW: 6,985.96 kg
+Origin: UK
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+BILL OF LADING
+--------------------------------------------------------------------------------
+Shipper: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ
+Consignee: To Order of HSBC Bank Middle East
+Notify: Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, District 7, Ho Chi Minh City
+
+B/L No.: BBME-DUB-2025-372034-BL7573
+Vessel/Voyage: MV Ocean Star / VOY668
+Port of Loading: Southampton, UK
+Port of Discharge: Ho Chi Minh City (Cat Lai), Vietnam
+
+Goods: Knitted Cotton T-shirts, HS 6109.10
+Quantity: 32542 pieces
+GW 7,368.38 kg, NW 6,999.96 kg
+
+Freight: Prepaid
+Originals: 3
+Issue Date: 13-Jun-2025
+On Board: 15-Jun-2025
+Clean on Board: YES
+
+Carrier: _______________________
+--------------------------------------------------------------------------------
+
+
+INSURANCE CERTIFICATE
+--------------------------------------------------------------------------------
+Insurer: Allianz Global Corporate & Specialty
+Certificate No.: INS-20250611-7842
+Date: 11-Jun-2025
+Assured: To Order
+Endorsement: In blank
+LC No.: BBME-DUB-2025-372034
+
+Interest: Knitted Cotton T-shirts
+Voyage: Southampton to Ho Chi Minh City (Cat Lai)
+Sum Insured: USD 429,450.91
+Coverage: Institute Cargo Clauses (C), War, SRCC
+Claims Payable: Vietnam
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: London Trading House Ltd
+Consignee: Vietnam Garment Exporters Ltd.
+LC No.: BBME-DUB-2025-372034
+Date: 12-Jun-2025
+
+Quantity: 32542 pieces
+GW: 7,368.38 kg
+NW: 6,999.96 kg
+Packing: cartons
+
+Marks: London/0625
+Origin: UK
+--------------------------------------------------------------------------------
+
+
+QUALITY CERTIFICATE
+--------------------------------------------------------------------------------
+Issuer: London Trading House Ltd QA Dept
+Certificate No.: QC-20250610-548
+Date: 10-Jun-2025
+LC Reference: BBME-DUB-2025-372034
+
+Product: Knitted Cotton T-shirts
+Specification: 100% cotton, crew neck, short sleeve
+Quantity: 32542 pieces
+Inspection: ISO 2859-1, AQL 2.5
+Result: PASSED
+Origin: UK
+
+QA Manager: _______________________
+--------------------------------------------------------------------------------
+
+
+CERTIFICATE OF ORIGIN
+--------------------------------------------------------------------------------
+Issued by: Chamber of Commerce, UK
+Certificate No.: CO-20250611-66773
+Date: 11-Jun-2025
+LC No.: BBME-DUB-2025-372034
+
+Exporter: London Trading House Ltd
+Consignee: Vietnam Garment Exporters Ltd.
+
+Goods: Knitted Cotton T-shirts
+HS Code: 6109.10
+Quantity: 32542 pieces
+
+COUNTRY OF ORIGIN: UK
+
+Authorized Officer: _______________________
+--------------------------------------------------------------------------------

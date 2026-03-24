@@ -1,0 +1,122 @@
+
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: European Machinery GmbH, Industriestrasse 45, Munich, Germany
+Buyer: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+
+Invoice No.: INV-20250909-1183
+Date: 09-Sep-2025
+LC No.: BNPA-PAR-2025-745507
+Incoterms: CFR Singapore Port (Incoterms® 2020)
+
+Item: Arabica Coffee Beans
+Description: Grade AA, moisture content max 12%, screen size 17+
+HS Code: 0901.21
+Quantity: 14775 kg
+Unit Price: USD 17.61
+Amount: USD 260,117.25
+GW: 16,665.93 kg
+NW: 14,745.45 kg
+Origin: Germany
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+BILL OF LADING
+--------------------------------------------------------------------------------
+Shipper: European Machinery GmbH, Industriestrasse 45, Munich
+Consignee: To Order of BNP Paribas
+Notify: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989
+
+B/L No.: BNPA-PAR-2025-745507-BL9724
+Vessel/Voyage: MV Pacific Glory / VOY761
+Port of Loading: Hamburg, Germany
+Port of Discharge: Singapore Port, Singapore
+
+Goods: Arabica Coffee Beans, HS 0901.21
+Quantity: 14775 kg
+GW 16,665.93 kg, NW 14,775.00 kg
+
+Freight: Prepaid
+Originals: 3
+Issue Date: 10-Sep-2025
+On Board: 12-Sep-2025
+Clean on Board: YES
+
+Carrier: _______________________
+--------------------------------------------------------------------------------
+
+
+INSURANCE CERTIFICATE
+--------------------------------------------------------------------------------
+Insurer: Dubai National Insurance Co. (DNIC)
+Certificate No.: INS-20250908-5402
+Date: 08-Sep-2025
+Assured: To Order
+Endorsement: In blank
+LC No.: BNPA-PAR-2025-745507
+
+Interest: Arabica Coffee Beans
+Voyage: Hamburg to Singapore Port
+Sum Insured: AED 286,128.98
+Coverage: Institute Cargo Clauses (C), War, SRCC
+Claims Payable: Singapore
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: European Machinery GmbH
+Consignee: Singapore Commodities Pte Ltd
+LC No.: BNPA-PAR-2025-745507
+Date: 09-Sep-2025
+
+Quantity: 14775 kg
+GW: 16,665.93 kg
+NW: 14,775.00 kg
+Packing: jute bags
+
+Marks: European/0925
+Origin: Germany
+--------------------------------------------------------------------------------
+
+
+QUALITY CERTIFICATE
+--------------------------------------------------------------------------------
+Issuer: European Machinery GmbH QA Dept
+Certificate No.: QC-20250907-129
+Date: 07-Sep-2025
+LC Reference: N/A
+
+Product: Arabica Coffee Beans
+Specification: Grade AA, moisture content max 12%, screen size 17+
+Quantity: 14775 kg
+Inspection: ISO 2859-1, AQL 2.5
+Result: PASSED
+Origin: Germany
+
+QA Manager: _______________________
+--------------------------------------------------------------------------------
+
+
+CERTIFICATE OF ORIGIN
+--------------------------------------------------------------------------------
+Issued by: Chamber of Commerce, Germany
+Certificate No.: CO-20250908-60086
+Date: 08-Sep-2025
+LC No.: BNPA-PAR-2025-745507
+
+Exporter: European Machinery GmbH
+Consignee: Singapore Commodities Pte Ltd
+
+Goods: Arabica Coffee Beans
+HS Code: 0901.21
+Quantity: 14775 kg
+
+COUNTRY OF ORIGIN: Germany
+
+Authorized Officer: _______________________
+--------------------------------------------------------------------------------

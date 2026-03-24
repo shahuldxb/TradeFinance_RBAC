@@ -1,0 +1,28 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC (elc.txt),Bill Of Exchange.txt,LC Number,ILCAE00221000098,CA21001978,LC number mismatch,High
+LC (elc.txt),Bill Of Exchange.txt,Amount,"USD 60,465.00","USD 60, 465. 00",Formatting issue in amount,Low
+LC (elc.txt),Bill Of Exchange.txt,Beneficiary Name,MITSUI AND CO LTD,SUMHOMO MUSCI BANKING CORPORATION,Beneficiary name mismatch,High
+LC (elc.txt),Bill Of Exchange.txt,B/L Date,210726,"JUL 1, 2021",B/L date mismatch,High
+LC (elc.txt),Bill Of Lading.txt,Port of Loading,ANY SEAPORT IN JAPAN,"YOKOHAMA, JAPAN","Specific port of loading provided instead of ""ANY SEAPORT IN JAPAN""",Medium
+LC (elc.txt),Bill Of Lading.txt,Port of Discharge,"ANY SEAPORT IN ABU DHABI, UAE",ABU DHABI SEAPORT,"Specific port of discharge provided instead of ""ANY SEAPORT IN ABU DHABI, UAE""",Medium
+LC (elc.txt),Bill Of Lading.txt,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES. (CHEMICAL),"Extra information ""(CHEMICAL)"" added",Low
+LC (elc.txt),Bill Of Lading.txt,Batch Number,Not explicitly mentioned,K21020UA,Batch number not mentioned in LC,Medium
+LC (elc.txt),Bill Of Lading.txt,Manufacturing Date,Not explicitly mentioned,MAR. 2021,Manufacturing date not mentioned in LC,Medium
+LC (elc.txt),Bill Of Lading.txt,Expiry Date,Not explicitly mentioned,FEB. 2024,Expiry date not mentioned in LC,Medium
+LC (elc.txt),Cites Permit Certificate.txt,Invoice Number,B7WE-20-5130-X,JB7WE241022,Invoice number mismatch,High
+LC (elc.txt),Cites Permit Certificate.txt,Date of Issue,29-03-2021,2021/6/7,Date of issue mismatch,High
+LC (elc.txt),Commercial Invoice.txt,Invoice Number,B7WE-20-5130-X,JB7WE241022,Invoice number mismatch,High
+LC (elc.txt),Commercial Invoice.txt,Date of Issue,29-03-2021,2021/6/7,Date of issue mismatch,High
+LC (elc.txt),Commercial Invoice.txt,Amount,"USD 60,465.00","USD 60, 465. 00",Formatting issue in amount,Low
+LC (elc.txt),Export Import License.txt,Amount Insured,"USD 66,511.50","USD 66,512.00",Amount insured mismatch,Medium
+LC (elc.txt),Export Import License.txt,Insurance Agent Address,Not explicitly mentioned,"INCHCAPE SHIPPING SERVICES (DUBAI), UAE",Insurance agent address not mentioned in LC,Medium
+LC (elc.txt),Non Preferential Certificate.txt,Invoice Number,B7WE-20-5130-X,JB7WE241022,Invoice number mismatch,High
+LC (elc.txt),Non Preferential Certificate.txt,Date of Issue,29-03-2021,2021/6/7,Date of issue mismatch,High
+LC (elc.txt),Packing List.txt,Invoice Number,B7WE-20-5130-X,JB7WE241022,Invoice number mismatch,High
+LC (elc.txt),Packing List.txt,Date of Issue,29-03-2021,2021/6/7,Date of issue mismatch,High
+LC (elc.txt),Packing List.txt,Batch Number,Not explicitly mentioned,K21020UA,Batch number not mentioned in LC,Medium
+LC (elc.txt),Packing List.txt,Manufacturing Date,Not explicitly mentioned,MAR. 2021,Manufacturing date not mentioned in LC,Medium
+LC (elc.txt),Packing List.txt,Expiry Date,Not explicitly mentioned,FEB. 2024,Expiry date not mentioned in LC,Medium
+LC (elc.txt),Unknown.txt,B/L Number,Not explicitly mentioned,OOLU2122490880,B/L number not mentioned in LC,Medium
+LC (elc.txt),Unknown.txt,Vessel Name,Not explicitly mentioned,SPECTRUM N,Vessel name not mentioned in LC,Medium
+LC (elc.txt),Unknown.txt,Vessel Age,Less than 25 years,12 years (built in 2009),Vessel age matches but not explicitly stated in LC,Low

@@ -1,0 +1,47 @@
+**BID BOND**
+
+**Guarantee Number:** BB-2024-001238
+**Issue Date:** May 15, 2024
+**Expiry Date:** August 15, 2024
+
+**Applicant (Guarantor's Customer/Bidder):**
+V WX Infrastructure Ltd.
+30 Construction Way
+Toronto, M5V 2T6, Canada
+
+**Beneficiary (Tender Authority):**
+Government of Ontario, Ministry of Transport
+100 Queen's Park
+Toronto, M7A 1A2, Canada
+
+**Guarantor (Issuing Bank):**
+Royal Canadian Bank
+50 Bay Street
+Toronto, M5J 2T7, Canada
+
+**Advising Bank:**
+(Not Applicable - Direct Issue)
+
+**Amount:** CAD 500,000.00 (Five Hundred Thousand Canadian Dollars Only)
+
+**Underlying Transaction:**
+Tender for Highway Expansion Project, Tender Reference No. ON-HWY-2024-05, closing date July 31, 2024.
+
+**Purpose of Guarantee:**
+To guarantee that the Applicant will not withdraw its bid during the period of its validity and, if awarded the contract, will sign the contract and furnish the required Performance Guarantee.
+
+**Conditions for Demand:**
+1. A written demand for payment, signed by an authorized representative of the Beneficiary.
+2. A statement in the demand confirming that the Applicant has either:
+    a) Withdrawn its bid after the tender closing date but before the Expiry Date; OR
+    b) Failed to sign the contract or furnish the required Performance Guarantee after being awarded the contract.
+3. The demand must be presented at the counter of the Guarantor on or before the Expiry Date.
+
+**Governing Law and Jurisdiction:**
+This Guarantee is subject to the **Uniform Rules for Demand Guarantees (URDG), ICC Publication No. 758**.
+
+**Authorized Signature:**
+_______________________
+David Chen
+Director, Corporate Finance
+Royal Canadian Bank

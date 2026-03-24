@@ -1,0 +1,39 @@
+EXPORT LETTER OF CREDIT (USANCE - 120 days after B/L date)
+--------------------------------------------------------------------------------
+Issuing Bank: HSBC Bank Middle East, Dubai, UAE
+Advising/Nominated Bank: BNP Paribas, Paris, France
+Credit No.: BBME-DUB-2025-845900
+Date of Issue: 24-May-2025
+Applicable Rules: UCP 600, ISBP 821 (latest revision)
+Expiry Date/Place: 27-Jul-2025 / Paris, France
+
+Applicant (Buyer): London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+Beneficiary (Seller): European Machinery GmbH, Industriestrasse 45, Munich, Germany
+Currency/Amount: USD 194,630.58
+Tolerance: +5/-5
+Incoterms: EXW Bremerhaven (Incoterms® 2020)
+Port of Loading: Bremerhaven, Germany
+Port of Discharge: Felixstowe, UK
+Latest Shipment Date: 30-Jul-2025
+Presentation Period: Within 21 days after the date of shipment but within the validity of the credit
+Partial Shipments: Allowed
+Transshipment: Not Allowed
+
+Goods Description:
+- Steel Reinforcement Bars
+- Grade 60, diameter 12-32mm, length 12m
+- HS Code: 7214.20
+- Quantity: 343 metric tons
+- Gross Weight: 408.92 kg
+- Net Weight: 343.00 kg
+- Country of Origin: Germany
+
+Documents Required:
+1. Commercial invoice in 1 original + 2 copies, quoting LC number BBME-DUB-2025-845900.
+2. Full set 3/3 original clean on board ocean B/L to order of Issuing Bank, notify Applicant, freight collect.
+3. Insurance policy/certificate for 110% of invoice value, Institute Cargo Clauses (C), War and SRCC, claims payable in UK.
+4. Packing list quoting LC number.
+5. Quality certificate quoting LC number.
+6. Certificate of Origin issued by Chamber of Commerce.
+7. All documents must quote LC number BBME-DUB-2025-845900.
+--------------------------------------------------------------------------------

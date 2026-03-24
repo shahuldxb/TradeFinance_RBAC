@@ -1,0 +1,122 @@
+
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: Shanghai Electronics Co. Ltd., Building 12, Pudong Industrial Park, Shanghai, China
+Buyer: Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, District 7, Ho Chi Minh City, Vietnam
+
+Invoice No.: INV-20251023-7693
+Date: 23-Oct-2025
+LC No.: BNPA-PAR-2025-873032
+Incoterms: FOB Hai Phong (Incoterms® 2020)
+
+Item: Steel Reinforcement Bars
+Description: Grade 60, diameter 12-32mm, length 12m
+HS Code: 7214.20
+Quantity: 338 metric tons
+Unit Price: USD 747.15
+Amount: USD 252,536.44
+GW: 389.46 kg
+NW: 337.32 kg
+Origin: China
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+BILL OF LADING
+--------------------------------------------------------------------------------
+Shipper: Shanghai Electronics Co. Ltd., Building 12, Pudong Industrial Park, Shanghai
+Consignee: To Order of BNP Paribas
+Notify: Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, District 7, Ho Chi Minh City
+
+B/L No.: BNPA-PAR-2025-873032-BL3237
+Vessel/Voyage: MV Pacific Glory / VOY596
+Port of Loading: Shenzhen, China
+Port of Discharge: Hai Phong, Vietnam
+
+Goods: Steel Reinforcement Bars, HS 7214.20
+Quantity: 338 metric tons
+GW 389.46 kg, NW 338.00 kg
+
+Freight: Prepaid
+Originals: 3
+Issue Date: 24-Oct-2025
+On Board: 26-Oct-2025
+Clean on Board: YES
+
+Carrier: _______________________
+--------------------------------------------------------------------------------
+
+
+INSURANCE CERTIFICATE
+--------------------------------------------------------------------------------
+Insurer: AXA Insurance Gulf
+Certificate No.: INS-20251022-6144
+Date: 22-Oct-2025
+Assured: To Order
+Endorsement: In blank
+LC No.: BNPA-PAR-2025-873032
+
+Interest: Steel Reinforcement Bars
+Voyage: Shenzhen to Hai Phong
+Sum Insured: AED 277,790.08
+Coverage: Institute Cargo Clauses (C), War, SRCC
+Claims Payable: Vietnam
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: Shanghai Electronics Co. Ltd.
+Consignee: Vietnam Garment Exporters Ltd.
+LC No.: BNPA-PAR-2025-873032
+Date: 23-Oct-2025
+
+Quantity: 338 metric tons
+GW: 387.51 kg
+NW: 338.00 kg
+Packing: bundles
+
+Marks: Shanghai/1025
+Origin: China
+--------------------------------------------------------------------------------
+
+
+QUALITY CERTIFICATE
+--------------------------------------------------------------------------------
+Issuer: Shanghai Electronics Co. Ltd. QA Dept
+Certificate No.: QC-20251021-443
+Date: 21-Oct-2025
+LC Reference: BNPA-PAR-2025-873032
+
+Product: Steel Reinforcement Bars
+Specification: Grade 60, diameter 12-32mm, length 12m
+Quantity: 338 metric tons
+Inspection: ISO 2859-1, AQL 2.5
+Result: PASSED
+Origin: China
+
+QA Manager: _______________________
+--------------------------------------------------------------------------------
+
+
+CERTIFICATE OF ORIGIN
+--------------------------------------------------------------------------------
+Issued by: Chamber of Commerce, China
+Certificate No.: CO-20251022-87244
+Date: 22-Oct-2025
+LC No.: BNPA-PAR-2025-873032
+
+Exporter: Shanghai Electronics Co. Ltd.
+Consignee: Vietnam Garment Exporters Ltd.
+
+Goods: Steel Reinforcement Bars
+HS Code: 7214.20
+Quantity: 338 metric tons
+
+COUNTRY OF ORIGIN: China
+
+Authorized Officer: _______________________
+--------------------------------------------------------------------------------

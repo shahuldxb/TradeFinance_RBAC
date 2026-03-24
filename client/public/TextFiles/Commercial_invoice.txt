@@ -1,0 +1,23 @@
+
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: Global Trading FZE, JAFZA South, Dubai, UAE
+Buyer: Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, Dist. 7, Ho Chi Minh City, Vietnam
+Invoice No.: INV-2025-0913
+Invoice Date: 20-Sep-2025
+LC No.: CITI-DXB-2025-001122
+Incoterms: CIF Ho Chi Minh City, Vietnam (Incoterms® 2020)
+Currency: USD
+
+Item: Knitted T‑shirts, 97% cotton / 3% elastane (short sleeve, crew neck)
+HS Code: 6109.10
+Quantity: 350 cartons (50 pcs/carton = 17,500 pcs)
+Unit Price: USD 7.34 / piece
+Merchandise Amount: USD 128,450.00
+Freight & Insurance: Included as per CIF
+Gross Weight: 4,200.00 kg
+Net Weight: 3,998.00 kg
+Country of Origin: U.A.E.
+Remarks: Banking charges outside UAE for applicant as per sales terms.
+Authorized Signatory: ______________________ (Global Trading FZE)
+--------------------------------------------------------------------------------

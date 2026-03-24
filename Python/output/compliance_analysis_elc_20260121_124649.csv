@@ -1,0 +1,16 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Bill of Lading,Vessel Name,[Not Provided],[Insert Vessel Name],Missing vessel name in Bill of Lading,High
+LC,Bill of Lading,Voyage Number,[Not Provided],[Insert Voyage Number],Missing voyage number in Bill of Lading,High
+LC,Bill of Lading,Gross Weight,[Not Provided],[Insert total gross weight],Missing gross weight in Bill of Lading,Medium
+LC,Bill of Lading,Freight Details,[Not Provided],[Insert freight details],Missing freight details in Bill of Lading,Medium
+LC,Bill of Lading,Freight Payable Location,[Not Provided],[Insert location],Missing freight payable location in Bill of Lading,Medium
+LC,Bill of Lading,Container/Seal Numbers,[Not Provided],[Insert container/seal numbers],Missing container/seal numbers in Bill of Lading,Medium
+LC,Certificate of Origin,Country of Origin,Kenya,India,Country of origin mismatch,High
+LC,Packing List,Date of Issue,[Not Provided],"April 10, 2026",Missing date of issue in LC,Medium
+LC,Packing List,Marks and Numbers,[Not Provided],"""LC202601218093"", ""Deutsche Handels GmbH, Munich, Germany"", ""From Mumbai Exports Pvt Ltd, India"", ""Crate No. 1 of 24 through Crate No. 24 of 24""",Missing marks and numbers in LC,Medium
+LC,Shipping Bill,Date of Issue,[Not Provided],12-April-2026,Missing date of issue in LC,Medium
+LC,Shipping Bill,Shipping Bill Number,[Not Provided],SB/20260412/001,Missing shipping bill number in LC,Medium
+LC,Shipping Bill,Mode of Transport,[Not Provided],By Sea,Missing mode of transport in LC,Medium
+LC,Shipping Bill,Name of Vessel,[Not Provided],[To be provided by Shipping Line],Missing vessel name in Shipping Bill,High
+LC,Shipping Bill,Customs Approval,[Not Provided],[Customs Clearance Seal and Signature],Missing customs approval in LC,High
+LC,Shipping Bill,Shipping Line Acknowledgment,[Not Provided],[Shipping Company Seal and Signature],Missing shipping line acknowledgment in LC,High

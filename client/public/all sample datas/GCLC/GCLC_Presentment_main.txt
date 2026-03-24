@@ -1,0 +1,38 @@
+EXPORT LETTER OF CREDIT (SIGHT)
+--------------------------------------------------------------------------------
+Issuing Bank: HSBC Bank Middle East, Dubai, UAE
+Advising Bank: Deutsche Bank AG, Frankfurt, Germany
+LC No.: BBME-DUB-2025-372034
+Issue Date: 05-May-2025
+Expiry: 01-Jul-2025 at Frankfurt
+Rules: UCP 600, ISBP 821
+
+Applicant: Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, District 7, Ho Chi Minh City, Vietnam
+Beneficiary: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+
+Amount: USD 390,409.92
+Tolerance: +10/-10%
+Incoterms: EXW Ho Chi Minh City (Cat Lai) (Incoterms® 2020)
+Shipment: From Southampton to Ho Chi Minh City (Cat Lai)
+Latest Shipment: 13-Jun-2025
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Goods:
+Knitted Cotton T-shirts - 100% cotton, crew neck, short sleeve
+HS Code: 6109.10
+Quantity: 32542 pieces
+GW: 7,368.38 kg, NW: 6,999.96 kg
+Origin: UK
+
+Documents Required:
+1. Commercial Invoice (1 original + 2 copies) quoting LC number
+2. Full set 3/3 clean on board B/L to order of Issuing Bank, notify Applicant, freight prepaid
+3. Insurance for 110% CIC (C), War, SRCC, claims in Vietnam
+4. Packing List quoting LC number
+5. Quality Certificate quoting LC number
+6. Certificate of Origin by Chamber of Commerce
+7. All documents must quote LC BBME-DUB-2025-372034
+
+Presentation: Within 21 days after shipment, within LC validity
+--------------------------------------------------------------------------------

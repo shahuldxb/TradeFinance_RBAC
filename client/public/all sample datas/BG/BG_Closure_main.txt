@@ -1,0 +1,28 @@
+
+BANK GUARANTEE
+--------------------------------------------------------------------------------
+Guarantee No.: BARC-BG-2025-373960
+Issue Date: 08-May-2025
+Issuing Bank: Barclays Bank PLC, London, UK
+SWIFT: BARCGB22
+Applicable Rules: URDG 758
+
+Applicant (Principal): London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+Beneficiary: Brazilian Coffee Exporters SA, Av. Paulista 1578, São Paulo, SP 01310-200, Brazil
+
+Guarantee Amount: USD 286,977.49
+Expiry Date: 19-Dec-2025
+
+Underlying Contract: CONT-2025-4527 dated 13-Apr-2025
+Contract Value: USD 1,522,182.87
+
+GUARANTEE TEXT:
+We hereby irrevocably and unconditionally guarantee payment to the Beneficiary upon receipt of the Beneficiary's first written demand stating that the Applicant has failed to fulfill its obligations under the underlying contract.
+
+Any claim must be received at our counters on or before 19-Dec-2025.
+
+This guarantee is subject to URDG 758.
+
+For Barclays Bank PLC
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------

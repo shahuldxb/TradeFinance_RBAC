@@ -1,0 +1,38 @@
+DISCREPANCY REPORT
+Instrument: ELC
+Lifecycle: Amendment
+Generated: 30-Oct-2025
+
+================================================================================
+=== OWN DISCREPANCIES (Main Document) ===
+[Count: 1]
+
+1. Type: Internal Inconsistency
+   Location: Amendment document, Amendment number
+   Description: Amendment number sequence unclear or missing
+   Expected: Should clearly state 'First Amendment' or 'Amendment No. 1'
+   Actual: States 'AMD-2' without clear sequence
+   Impact: Confusion about amendment history
+
+================================================================================
+=== CROSS-DOCUMENT DISCREPANCIES ===
+[Count: 1]
+
+1. Type: Document Mismatch
+   Documents: Amendment Request vs Amendment Issued
+   Description: Requested amount increase differs from issued amendment
+   Expected: Increase by 25% (as per request)
+   Actual: Increase by 30% (as per amendment)
+   Rule: Amendment should reflect applicant's request
+
+================================================================================
+=== STANDARDS VIOLATIONS ===
+[Count: 1]
+
+1. Type: Standards Violation
+   Location: Amendment document
+   Description: No mention of beneficiary acceptance requirement
+   Standard: UCP 600 Article 10 - Amendments
+   Violation: Should state 'Subject to beneficiary acceptance'
+   Consequence: Amendment may be disputed if acceptance not clear
+

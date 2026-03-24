@@ -1,0 +1,38 @@
+EXPORT LETTER OF CREDIT (SIGHT)
+--------------------------------------------------------------------------------
+Issuing Bank: Standard Chartered Bank, Singapore, Singapore
+Advising Bank: Bank of China, Shanghai, China
+LC No.: SCBL-SIN-2025-541589
+Issue Date: 22-Aug-2025
+Expiry: 09-Oct-2025 at Shanghai
+Rules: UCP 600, ISBP 821
+
+Applicant: Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, District 7, Ho Chi Minh City, Vietnam
+Beneficiary: Shanghai Electronics Co. Ltd., Building 12, Pudong Industrial Park, Shanghai, China
+
+Amount: USD 354,507.30
+Tolerance: +10/-10%
+Incoterms: FOB Ho Chi Minh City (Cat Lai) (Incoterms® 2020)
+Shipment: From Ningbo to Ho Chi Minh City (Cat Lai)
+Latest Shipment: 24-Sep-2025
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Goods:
+Industrial Pumps - Centrifugal pumps, stainless steel, 50HP motor
+HS Code: 8413.70
+Quantity: 25 units
+GW: 29.65 kg, NW: 25.00 kg
+Origin: China
+
+Documents Required:
+1. Commercial Invoice (1 original + 2 copies) quoting LC number
+2. Full set 3/3 clean on board B/L to order of Issuing Bank, notify Applicant, freight prepaid
+3. Insurance for 110% CIC (C), War, SRCC, claims in Vietnam
+4. Packing List quoting LC number
+5. Quality Certificate quoting LC number
+6. Certificate of Origin by Chamber of Commerce
+7. All documents must quote LC SCBL-SIN-2025-541589
+
+Presentation: Within 21 days after shipment, within LC validity
+--------------------------------------------------------------------------------

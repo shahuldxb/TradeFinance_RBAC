@@ -1,0 +1,12 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+ilc.txt,Document 2.txt,Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy in Bill of Lading.
+ilc.txt,Document 2.txt,On Board Notation Date,25-Sep-2025,26-Sep-2025,Shipped on Board date exceeds the latest shipment date.
+ilc.txt,Document 13.txt,Coverage Clauses,Institute Cargo Clauses (C),Institute Cargo Clauses (A),Insurance coverage clause mismatch.
+ilc.txt,Document 13.txt,Claims Payable Location,Vietnam,"Dubai, United Arab Emirates",Claims payable location discrepancy in Insurance Certificate.
+ilc.txt,Document 5.txt,Goods Description,100% cotton,97% cotton / 3% elastane,Goods description mismatch in Commercial Invoice.
+ilc.txt,Document 5.txt,Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy in Commercial Invoice.
+ilc.txt,Document 5.txt,Quantity,350 cartons,349 cartons,Quantity discrepancy in Commercial Invoice.
+ilc.txt,Document 8.txt,Gross Weight,"4,200.00 kg","4,198.00 kg",Gross weight discrepancy in Packing List.
+ilc.txt,Document 8.txt,Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy in Packing List.
+ilc.txt,Document 11.txt,Buyer Specification,VGE/KT-2025-09,VGE/KT-2025-09 (Rev A),Buyer specification mismatch in Quality Certificate.
+ilc.txt,Document 11.txt,Country of Origin,United Arab Emirates,UAE,Formatting difference in Country of Origin in Quality Certificate.

@@ -1,0 +1,16 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Date of Issue,2026-01-16,02 June 2026,Date of issue mismatch.
+Letter of Credit,Bill of Lading,Date of Shipment On Board,2026-06-02,02 June 2026,Date format mismatch.
+Letter of Credit,Certificate of Origin,Consignee,Shanghai Import Export Co.,Mumbai Exports Pvt Ltd,Consignee mismatch.
+Letter of Credit,Certificate of Origin,Exporter,Mumbai Exports Pvt Ltd,Shanghai Import Export Co.,Exporter mismatch.
+Letter of Credit,Packing List,Exporter,Shanghai Import Export Co.,Mumbai Exports Pvt Ltd,Exporter mismatch.
+Letter of Credit,Packing List,Gross Weight,Not specified,"6,400 KGS",Gross weight discrepancy.
+Letter of Credit,Quality Certificate,Date of Issue,2026-01-16,"July 2, 2026",Date of issue mismatch.
+Letter of Credit,Quality Certificate,Inspection Location,Not specified,"Sydney, Australia",Inspection location missing in LC.
+Letter of Credit,Insurance Certificate,Insured Amount,Not specified,"USD 150,445.64",Insured amount missing in LC.
+Letter of Credit,Insurance Certificate,Coverage,Not specified,"Institute Cargo Clauses (A), War and Strikes Clauses",Coverage details missing in LC.
+Letter of Credit,Packing List,Packaging Details,Not specified,"Packed in 50 KG containers, 127 containers in total",Packaging details missing in LC.
+Letter of Credit,Bill of Lading,Vessel Name and Voyage No.,Not specified,[To be completed by the carrier],Missing vessel name and voyage number.
+Letter of Credit,Bill of Lading,Freight Details,Not specified,[To be completed by carrier],Missing freight details.
+Letter of Credit,Bill of Lading,Marks and Numbers,Not specified,[To be completed by the shipper/carrier],Missing marks and numbers.
+Letter of Credit,Packing List,Marks and Numbers,Not specified,"MUMBAI EXPORTS PVT LTD, Nariman Point, Mumbai 400021, India, LC No.: LC202601167987",Marks and numbers missing in LC.

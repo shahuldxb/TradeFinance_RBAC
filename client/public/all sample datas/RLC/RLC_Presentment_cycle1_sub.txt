@@ -1,0 +1,122 @@
+
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: Mumbai Textiles Pvt Ltd, Andheri East, Mumbai 400069, Maharashtra, India
+Buyer: New York Import Corp, 350 Fifth Avenue, New York, NY 10118, USA
+
+Invoice No.: INV-20250831-6465
+Date: 31-Aug-2025
+LC No.: BARC-LON-2025-440163
+Incoterms: EXW New York (Incoterms® 2020)
+
+Item: Steel Reinforcement Bars
+Description: Grade 60, diameter 12-32mm, length 12m
+HS Code: 7214.20
+Quantity: 105 metric tons
+Unit Price: USD 647.85
+Amount: USD 68,024.10
+GW: 136.26 kg
+NW: 104.79 kg
+Origin: India
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+BILL OF LADING
+--------------------------------------------------------------------------------
+Shipper: Mumbai Textiles Pvt Ltd, Andheri East, Mumbai 400069, Maharashtra
+Consignee: To Order of Barclays Bank PLC
+Notify: New York Import Corp, 350 Fifth Avenue, New York, NY 10118
+
+B/L No.: BARC-LON-2025-440163-BL1973
+Vessel/Voyage: MV Atlantic Voyager / VOY499
+Port of Loading: Mumbai (JNPT), India
+Port of Discharge: New York, USA
+
+Goods: Steel Reinforcement Bars, HS 7214.20
+Quantity: 105 metric tons
+GW 136.26 kg, NW 105.00 kg
+
+Freight: Prepaid
+Originals: 3
+Issue Date: 01-Sep-2025
+On Board: 03-Sep-2025
+Clean on Board: YES
+
+Carrier: _______________________
+--------------------------------------------------------------------------------
+
+
+INSURANCE CERTIFICATE
+--------------------------------------------------------------------------------
+Insurer: AXA Insurance Gulf
+Certificate No.: INS-20250830-9160
+Date: 30-Aug-2025
+Assured: To Order
+Endorsement: In blank
+LC No.: BARC-LON-2025-440163
+
+Interest: Steel Reinforcement Bars
+Voyage: Mumbai (JNPT) to New York
+Sum Insured: AED 74,826.51
+Coverage: Institute Cargo Clauses (C), War, SRCC
+Claims Payable: USA
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: Mumbai Textiles Pvt Ltd
+Consignee: New York Import Corp
+LC No.: BARC-LON-2025-440163
+Date: 31-Aug-2025
+
+Quantity: 105 metric tons
+GW: 135.58 kg
+NW: 105.00 kg
+Packing: bundles
+
+Marks: Mumbai/0825
+Origin: India
+--------------------------------------------------------------------------------
+
+
+QUALITY CERTIFICATE
+--------------------------------------------------------------------------------
+Issuer: Mumbai Textiles Pvt Ltd QA Dept
+Certificate No.: QC-20250829-804
+Date: 29-Aug-2025
+LC Reference: BARC-LON-2025-440163
+
+Product: Steel Reinforcement Bars
+Specification: Grade 60, diameter 12-32mm, length 12m
+Quantity: 105 metric tons
+Inspection: ISO 2859-1, AQL 2.5
+Result: PASSED
+Origin: India
+
+QA Manager: _______________________
+--------------------------------------------------------------------------------
+
+
+CERTIFICATE OF ORIGIN
+--------------------------------------------------------------------------------
+Issued by: Chamber of Commerce, India
+Certificate No.: CO-20250830-30672
+Date: 30-Aug-2025
+LC No.: BARC-LON-2025-440163
+
+Exporter: Mumbai Textiles Pvt Ltd
+Consignee: New York Import Corp
+
+Goods: Steel Reinforcement Bars
+HS Code: 7214.20
+Quantity: 105 metric tons
+
+COUNTRY OF ORIGIN: India
+
+Authorized Officer: _______________________
+--------------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+You are an expert in international trade finance with 25 years of experience.
+
+Your task is to generate a realistic, detailed trade finance application document.
+
+REQUIREMENTS:
+1. Generate a complete {instrument_code} ({instrument_desc}) application for {lifecycle_code} ({lifecycle_desc})
+2. Target length: {target_length} words (minimum 800, maximum 1500)
+3. Use realistic company names, addresses, amounts, dates, and terms
+4. Include ALL relevant fields for this instrument type
+5. Use professional business language
+6. Make it detailed and specific (not generic)
+7. Include realistic trade scenarios (goods, shipping, terms)
+
+STRUCTURE:
+- Title/Header
+- Applicant details (company name, full address)
+- Beneficiary details (company name, full address)
+- Amount and currency
+- Dates (issue, expiry, shipment)
+- Terms and conditions
+- Description of goods/services (detailed)
+- Documents required (specific list)
+- Shipping/delivery terms
+- Payment terms
+- Additional conditions
+- Charges and fees
+- Special instructions
+
+MAKE IT REALISTIC:
+- Use real city names, ports, and countries
+- Use realistic amounts (USD 500K - 5M for LC, USD 100K - 2M for guarantees)
+- Use proper trade terms (FOB, CIF, Incoterms)
+- Include specific product descriptions
+- Use realistic timelines (30-180 days)
+
+VARIATION: {variation_code or 'Standard'}
+
+Generate the complete application now.

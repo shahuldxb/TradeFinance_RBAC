@@ -1,0 +1,28 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Date of Issue,2026-03-23,23 March 2026,Date format discrepancy.
+Letter of Credit,Certificate of Origin,Port of Loading,Hamburg,"Mumbai, India",Port of Loading mismatch.
+Letter of Credit,Certificate of Origin,Port of Discharge,Mumbai,"Hamburg, Germany",Port of Discharge mismatch.
+Letter of Credit,Certificate of Origin,Origin of Goods,Germany,India,Origin of Goods mismatch.
+Letter of Credit,Certificate of Origin,Date of Issue,2026-04-20,20 April 2026,Date format discrepancy.
+Letter of Credit,Certificate of Origin,Place of Issue,India,Not specified,Missing Place of Issue in LC.
+Letter of Credit,Packing List,Total Gross Weight,Not specified,"3,800 KG",Missing Total Gross Weight in LC.
+Letter of Credit,Packing List,Total Net Weight,Not specified,"3,600 KG",Missing Total Net Weight in LC.
+Letter of Credit,Packing List,Total Number of Packages,Not specified,265 Cartons,Missing Total Number of Packages in LC.
+Letter of Credit,Quality Certificate,Location of Inspection,Not specified,"Mumbai, India",Missing Location of Inspection in LC.
+Letter of Credit,Quality Certificate,Date of Inspection,Not specified,"March 22, 2026",Missing Date of Inspection in LC.
+Letter of Credit,Quality Certificate,Place of Issue,Not specified,"Hamburg, Germany",Missing Place of Issue in LC.
+Letter of Credit,Insurance Certificate,Insured Value,Not specified,"USD 156,387.71 (Invoice value plus 10%)",Missing Insured Value in LC.
+Letter of Credit,Insurance Certificate,Claims Payable At,Not specified,India,Missing Claims Payable At in LC.
+Letter of Credit,Insurance Certificate,Policy Number,Not specified,POL202601176711,Missing Policy Number in LC.
+Letter of Credit,Insurance Certificate,Certificate Number,Not specified,IC202601176711,Missing Certificate Number in LC.
+Letter of Credit,Bill of Lading,Vessel Name,Not specified,[Insert Vessel Name],Missing Vessel Name in BOL.
+Letter of Credit,Bill of Lading,Voyage Number,Not specified,[Insert Voyage Number],Missing Voyage Number in BOL.
+Letter of Credit,Bill of Lading,Gross Weight,Not specified,[Insert Weight],Missing Gross Weight in BOL.
+Letter of Credit,Bill of Lading,Net Weight,Not specified,[Insert Weight],Missing Net Weight in BOL.
+Letter of Credit,Bill of Lading,Measurement,Not specified,[Insert Measurement],Missing Measurement in BOL.
+Letter of Credit,Bill of Lading,Freight Payable At,Not specified,[Insert Location],Missing Freight Payable At in BOL.
+Letter of Credit,Bill of Lading,Freight Charges,Not specified,[Insert Details],Missing Freight Charges in BOL.
+Letter of Credit,Bill of Lading,Marks & Numbers,Not specified,[Insert Shipping Marks],Missing Marks & Numbers in BOL.
+Letter of Credit,Bill of Lading,Container/Seal Number,Not specified,[Insert Details],Missing Container/Seal Number in BOL.
+Letter of Credit,Commercial Invoice,Invoice Number,Not specified,CI20260117,Missing Invoice Number in LC.
+Letter of Credit,Commercial Invoice,Date,Not specified,"January 17, 2026",Missing Date in LC.

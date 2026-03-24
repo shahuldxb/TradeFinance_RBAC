@@ -1,0 +1,109 @@
+IMPORT LETTER OF CREDIT (SIGHT) - MASTER LC
+--------------------------------------------------------------------------------
+
+Issuing Bank: HSBC Bank Middle East
+                Dubai, UAE
+                SWIFT: BBMEAEAD
+
+Advising Bank: Barclays Bank PLC
+                London, UK
+                SWIFT: BARCGB22
+
+Master LC Number: BBME-DUB-2025-943766
+Date of Issue: 18-Aug-2025
+Date and Place of Expiry: 19-Oct-2025 at London, UK
+
+Applicable Rules: UCP 600 (ICC Publication No. 600), ISBP 821
+
+Applicant (Buyer):
+Vietnam Garment Exporters Ltd.
+45 Nguyen Van Linh, District 7, Ho Chi Minh City
+Vietnam
+
+Beneficiary (Intermediary/Trader):
+Singapore Commodities Pte Ltd
+1 Marina Boulevard, #20-01, Singapore 018989
+Singapore
+
+Amount: USD 177,582.49
+Tolerance: +10/-10%
+
+Available with: Barclays Bank PLC by sight payment
+
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Loading on Board/Dispatch/Taking in Charge at/from: Hamburg, Germany
+For Transportation to: Ho Chi Minh City (Cat Lai), Vietnam
+Latest Date of Shipment: 24-Oct-2025
+
+Incoterms: CFR Ho Chi Minh City (Cat Lai) (Incoterms® 2020)
+
+Description of Goods:
+Knitted Cotton T-shirts
+100% cotton, crew neck, short sleeve
+HS Code: 6109.10
+Quantity: 32342 pieces
+Unit Price: USD 5.49 per pieces
+Total Amount: USD 177,582.49
+Packing: cartons
+Gross Weight: Approximately 6656.20 kg
+Net Weight: Approximately 6323.39 kg
+Country of Origin: Germany
+
+Documents Required:
+
+1. COMMERCIAL INVOICE
+   - Signed commercial invoice in 1 original and 2 copies
+   - Issued by beneficiary
+   - Showing LC number BBME-DUB-2025-943766
+   - Showing buyer as Vietnam Garment Exporters Ltd.
+
+2. BILL OF LADING
+   - Full set (3/3) of clean on board ocean bills of lading
+   - Made out to order of HSBC Bank Middle East
+   - Marked "Freight Prepaid"
+   - Notify: Vietnam Garment Exporters Ltd.
+   - Showing LC number BBME-DUB-2025-943766
+
+3. INSURANCE DOCUMENT
+   - Insurance policy or certificate for 110% of invoice value
+   - Covering Institute Cargo Clauses (C), War and SRCC
+   - Claims payable in Vietnam
+   - Showing LC number BBME-DUB-2025-943766
+
+4. PACKING LIST
+   - Packing list in 1 original and 2 copies
+   - Showing LC number BBME-DUB-2025-943766
+   - Showing gross and net weights
+
+5. QUALITY CERTIFICATE
+   - Quality certificate issued by beneficiary or manufacturer
+   - Showing LC number BBME-DUB-2025-943766
+   - Certifying goods meet specifications
+
+6. CERTIFICATE OF ORIGIN
+   - Certificate of Origin issued by Chamber of Commerce
+   - Showing country of origin as Germany
+   - Showing LC number BBME-DUB-2025-943766
+
+Additional Conditions:
+- All documents must be presented within 21 days after the date of shipment but within the validity of the credit
+- All documents must quote LC number BBME-DUB-2025-943766
+- Documents with discrepancies will be held at applicant's risk pending authorization
+- All banking charges outside UAE are for beneficiary's account
+
+Special Instructions:
+This is a Master LC issued in favor of an intermediary/trader. The intermediary will substitute documents before claiming under this LC.
+
+Confirmation: Without
+
+Reimbursement:
+Claim reimbursement from HSBC Bank Middle East by SWIFT
+
+Period for Presentation: 21 days after shipment date but within LC validity
+
+--------------------------------------------------------------------------------
+Authorized Signature
+HSBC Bank Middle East
+--------------------------------------------------------------------------------

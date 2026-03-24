@@ -1,0 +1,39 @@
+EXPORT LETTER OF CREDIT (SIGHT)
+--------------------------------------------------------------------------------
+Issuing Bank: Barclays Bank PLC, London, UK
+Advising/Nominated Bank: Emirates NBD, Dubai, UAE
+Credit No.: BARC-LON-2025-363227
+Date of Issue: 13-Jun-2025
+Applicable Rules: UCP 600, ISBP 821 (latest revision)
+Expiry Date/Place: 30-Jul-2025 / Dubai, UAE
+
+Applicant (Buyer): Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, District 7, Ho Chi Minh City, Vietnam
+Beneficiary (Seller): Mumbai Textiles Pvt Ltd, Andheri East, Mumbai 400069, Maharashtra, India
+Currency/Amount: USD 566,187.42
+Tolerance: +10/-10
+Incoterms: EXW Chennai (Incoterms® 2020)
+Port of Loading: Chennai, India
+Port of Discharge: Hai Phong, Vietnam
+Latest Shipment Date: 02-Aug-2025
+Presentation Period: Within 21 days after the date of shipment but within the validity of the credit
+Partial Shipments: Not Allowed
+Transshipment: Not Allowed
+
+Goods Description:
+- Laptop Computers
+- 15.6 inch display, Intel Core i5, 8GB RAM, 256GB SSD
+- HS Code: 8471.30
+- Quantity: 601 units
+- Gross Weight: 130.50 kg
+- Net Weight: 123.97 kg
+- Country of Origin: India
+
+Documents Required:
+1. Commercial invoice in 1 original + 2 copies, quoting LC number BARC-LON-2025-363227.
+2. Full set 3/3 original clean on board ocean B/L to order of Issuing Bank, notify Applicant, freight collect.
+3. Insurance policy/certificate for 110% of invoice value, Institute Cargo Clauses (C), War and SRCC, claims payable in Vietnam.
+4. Packing list quoting LC number.
+5. Quality certificate quoting LC number.
+6. Certificate of Origin issued by Chamber of Commerce.
+7. All documents must quote LC number BARC-LON-2025-363227.
+--------------------------------------------------------------------------------

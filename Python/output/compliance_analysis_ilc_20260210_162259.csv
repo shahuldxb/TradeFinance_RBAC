@@ -1,0 +1,17 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,BOL,Port of Loading,ANY SEAPORT IN JAPAN,"YOKOHAMA, JAPAN",Compliant Match,Low
+LC,BOL,Port of Discharge,"ANY SEAPORT IN ABU DHABI, UAE",ABU DHABI SEAPORT,Compliant Match,Low
+LC,BOL,Vessel Age,Less than 25 years,12 years (Built 2009),Compliant Match,Low
+LC,BOL,Freight,Freight Prepaid,Freight Prepaid,Compliant Match,Low
+LC,BOL,Notify Party,GREEN OASIS CO. LLC,GREEN OASIS CO. LLC,Compliant Match,Low
+LC,INV,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,Compliant Match,Low
+LC,INV,Origin of Goods,Japan,Japan,Compliant Match,Low
+LC,INV,Invoice Amount,"USD 60,465.00","USD 60,465.00",Compliant Match,Low
+LC,IC,Insurance Coverage,Full value of invoice + 10%,"USD 66,512.00",Compliant Match,Low
+LC,IC,Insurance Clauses,"Institute Cargo Clause (A), War Clauses, Strike Clauses","Institute Cargo Clause (A), War Clauses, Strike Clauses",Compliant Match,Low
+LC,IC,Payable Location,UAE,UAE,Compliant Match,Low
+LC,COO,Origin of Goods,Japan,Japan,Compliant Match,Low
+LC,COO,Manufacturer Name,"AGRO-KANESHO CO., LTD","AGRO-KANESHO CO., LTD",Compliant Match,Low
+LC,PL,Batch Number,K21020UA,K21020UA,Compliant Match,Low
+LC,PL,Manufacturing Date,MAR. 2021,MAR. 2021,Compliant Match,Low
+LC,PL,Expiry Date,FEB. 2024,FEB. 2024,Compliant Match,Low

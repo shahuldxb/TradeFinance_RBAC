@@ -1,0 +1,13 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Quantity,2197 KGS,"2,197 KGS",Formatting discrepancy in quantity representation.
+Letter of Credit,Bill of Lading,Gross Weight,Not specified,"2,306.85 KGS",Gross weight is missing in the LC but present in the Bill of Lading.
+Letter of Credit,Certificate of Origin,Country of Origin,Germany,India,"Discrepancy in the country of origin; LC specifies Germany, but COO declares India."
+Letter of Credit,Commercial Invoice,Declaration of Origin,Not specified,India,Declaration of origin is missing in the LC but present in the Commercial Invoice.
+Letter of Credit,Insurance Certificate,Insured Value,Not specified,"USD 98,697.38",Insured value is missing in the LC but present in the Insurance Certificate.
+Letter of Credit,Insurance Certificate,Coverage Type,Not specified,Institute Cargo Clauses (A) - All Risks,Coverage type is missing in the LC but present in the Insurance Certificate.
+Letter of Credit,Packing List,Gross Weight,Not specified,"2,306.85 KGS",Gross weight is missing in the LC but present in the Packing List.
+Letter of Credit,Packing List,Package Details,Not specified,"21 packages, Wooden crates/Cartons",Package details are missing in the LC but present in the Packing List.
+Letter of Credit,Quality Certificate,Batch Number,Not specified,BATCH-464022,Batch number is missing in the LC but present in the Quality Certificate.
+Letter of Credit,Quality Certificate,Production Date,Not specified,2025-12-13,Production date is missing in the LC but present in the Quality Certificate.
+Letter of Credit,Quality Certificate,Compliance,Not specified,ISO 9001:2015 certified,Compliance details are missing in the LC but present in the Quality Certificate.
+Letter of Credit,Quality Certificate,Test Results,Not specified,PASSED,Test results are missing in the LC but present in the Quality Certificate.

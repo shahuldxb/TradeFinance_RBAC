@@ -1,0 +1,11 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+Description of Goods,Bill of Lading,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Match,Low
+Port of Loading,Bill of Lading,Port of Loading,Any Chinese port,"Shanghai Port, China",Match,Low
+Port of Discharge,Bill of Lading,Port of Discharge,Shanghai Port,"Shanghai Port, China",Match,Low
+Freight,Bill of Lading,Freight,CIF,Prepaid,Freight term mismatch,High
+Description of Goods,Commercial Invoice,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Match,Low
+Total Amount,Commercial Invoice,Total Amount,"USD 50,000","USD 50,000",Match,Low
+Incoterm,Commercial Invoice,Incoterm,CIF Shanghai Port,CIF Shanghai Port,Match,Low
+Amount Insured,Insurance Certificate,Amount Insured,"110% of invoice value (USD 55,000)","USD 55,000",Match,Low
+Voyage,Insurance Certificate,Voyage,Any Chinese port to Shanghai Port,Shanghai Port to New York Port,Voyage mismatch,High
+Description of Goods,Certificate of Quality,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Match,Low

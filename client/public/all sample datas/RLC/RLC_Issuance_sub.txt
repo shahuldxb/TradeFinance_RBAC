@@ -1,0 +1,102 @@
+
+LC APPLICATION FORM
+--------------------------------------------------------------------------------
+Issuing Bank: Barclays Bank PLC
+Branch: London Trade Finance Department
+Application Date: 13-Jun-2025
+Application Reference: APP-BARC-LON-2025-616059
+
+APPLICANT:
+Singapore Commodities Pte Ltd
+1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+Account: 287310816
+Contact: Ms. Sarah Lee
+Email: trade@singapore.com
+
+BENEFICIARY:
+Global Trading FZE
+JAFZA South, Dubai, UAE
+
+LC DETAILS:
+Type: RLC
+Amount: USD 443,701.10
+Validity: 02-Sep-2025
+Latest Shipment: 15-Aug-2025
+Advising Bank: Citi Bank PJSC, SWIFT: CITIAEADXXX
+
+GOODS:
+Arabica Coffee Beans - Grade AA, moisture content max 12%, screen size 17+
+HS Code: 0901.21
+Quantity: 33499 kg
+Unit Price: USD 13.25
+
+SHIPMENT:
+From: Port Rashid, UAE
+To: Singapore Port, Singapore
+Incoterms: CIF (Incoterms® 2020)
+
+Applicant's Signature: _______________________
+Date: 13-Jun-2025
+--------------------------------------------------------------------------------
+
+
+UNDERLYING SALES CONTRACT
+--------------------------------------------------------------------------------
+Contract No.: SC-2025-8276
+Date: 01-Jun-2025
+
+SELLER: Global Trading FZE, JAFZA South, Dubai, UAE
+BUYER: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+
+COMMODITY:
+Arabica Coffee Beans - Grade AA, moisture content max 12%, screen size 17+
+HS Code: 0901.21
+Quantity: 33499 kg
+Unit Price: USD 13.25
+Total Value: USD 465,886.15
+
+PAYMENT:
+100% by irrevocable LC at sight, payable against shipping documents
+LC to be opened 30 days before shipment
+
+SHIPMENT:
+Period: August 2025
+From: Port Rashid To: Singapore Port
+Incoterms: CIF (Incoterms® 2020)
+
+DOCUMENTS:
+Commercial Invoice, Full set B/L, Insurance, Packing List, Quality Certificate, Certificate of Origin
+
+Seller: _______________________    Buyer: _______________________
+--------------------------------------------------------------------------------
+
+
+PROFORMA INVOICE
+--------------------------------------------------------------------------------
+Seller: Global Trading FZE, JAFZA South, Dubai, UAE
+Buyer: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+
+PI No.: PI-20250603-961
+Date: 03-Jun-2025
+Validity: 30 days
+
+GOODS:
+Arabica Coffee Beans
+Specification: Grade AA, moisture content max 12%, screen size 17+
+HS Code: 0901.21
+Quantity: 33499 kg
+Unit Price: USD 13.25
+Total: USD 443,701.10
+
+SHIPMENT:
+Incoterms: CIF (Incoterms® 2020)
+From: Port Rashid To: Singapore Port
+Estimated: August 2025
+Origin: UAE
+
+PAYMENT:
+100% by irrevocable LC at sight
+LC via: Citi Bank PJSC
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------

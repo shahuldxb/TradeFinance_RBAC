@@ -1,0 +1,45 @@
+DISCREPANCY REPORT
+Instrument: GCLC
+Lifecycle: Presentment
+Generated: 30-Oct-2025
+
+================================================================================
+=== OWN DISCREPANCIES (Main Document) ===
+[Count: 0]
+
+================================================================================
+=== CROSS-DOCUMENT DISCREPANCIES ===
+[Count: 3]
+
+1. Type: Document Mismatch
+   Documents: LC Document vs Commercial Invoice
+   Description: Fiber content mismatch
+   Expected: 100% cotton (LC)
+   Actual: 97% cotton / 3% elastane (Invoice)
+   Rule: UCP 600 Art 18 - Invoice must not conflict with LC
+
+2. Type: Document Mismatch
+   Documents: LC Document vs Commercial Invoice
+   Description: Net weight differs from LC
+   Expected: 6,999.96 kg (LC)
+   Actual: 6,985.96 kg (Invoice)
+   Rule: Weight must match LC requirement
+
+3. Type: Document Mismatch
+   Documents: LC Document vs Bill of Lading
+   Description: Shipment date exceeds LC deadline
+   Expected: 13-Jun-2025 (LC latest)
+   Actual: 15-Jun-2025 (B/L on board)
+   Rule: UCP 600 Art 20 - Late shipment
+
+================================================================================
+=== STANDARDS VIOLATIONS ===
+[Count: 1]
+
+1. Type: Standards Violation
+   Location: Bill of Lading
+   Description: Late shipment violates LC terms
+   Standard: UCP 600 Article 14(a)
+   Violation: Shipped after latest shipment date
+   Consequence: Document will be rejected
+

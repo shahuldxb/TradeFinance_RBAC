@@ -1,0 +1,8 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Document 1.txt,Invoice Description,Advance payment for Wind Turbine Generators (Contract No. WTG-2024-010),Advance payment for Wind Turbine Generators (Contract No. WTG-2024-011),Contract number mismatch in invoice description.
+Letter of Credit (LC),Document 1.txt,Advance Amount,"EUR 50,000.00","EUR 55,000.00",Advance amount discrepancy.
+Letter of Credit (LC),Document 3.txt,Payment Reference,Advance payment under Contract No. WTG-2024-010,Advance payment under Contract No. WTG-2024-010,No discrepancy.
+Letter of Credit (LC),Document 5.txt,Certified Delivery,Not mentioned in LC,Delivery of 3 units of Wind Turbine Generators,Certified delivery information is extra and not mentioned in LC.
+Letter of Credit (LC),Document 5.txt,Certified Value,Not mentioned in LC,"EUR 330,000.00",Certified value information is extra and not mentioned in LC.
+Letter of Credit (LC),Document 5.txt,Requested Reduction Amount,Reduction Clause: 10% of each invoice value,"EUR 30,000.00",Reduction amount does not align with the reduction clause in LC.
+Letter of Credit (LC),Document 5.txt,Remaining Guarantee Amount,Not mentioned in LC,"EUR 20,000.00",Remaining guarantee amount is extra and not mentioned in LC.

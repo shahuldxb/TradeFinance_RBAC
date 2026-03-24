@@ -1,0 +1,19 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Port of Loading,Hamburg,"Mumbai, India",Port of Loading mismatch.
+Letter of Credit,Bill of Lading,Port of Discharge,Mumbai,"Hamburg, Germany",Port of Discharge mismatch.
+Letter of Credit,Bill of Lading,Place of Receipt,Not specified,"Mumbai, India",Place of Receipt is extra in Bill of Lading.
+Letter of Credit,Bill of Lading,Place of Delivery,Not specified,"Hamburg, Germany",Place of Delivery is extra in Bill of Lading.
+Letter of Credit,Bill of Lading,Date of Shipment,20260501,20260501,"No discrepancy, but ensure consistency."
+Letter of Credit,Certificate of Origin,Place of Origin of Goods,Germany,India,Place of Origin mismatch.
+Letter of Credit,Certificate of Origin,Port of Loading,Hamburg,"Mumbai, India",Port of Loading mismatch.
+Letter of Credit,Certificate of Origin,Port of Discharge,Mumbai,"Hamburg, Germany",Port of Discharge mismatch.
+Letter of Credit,Commercial Invoice,Port of Loading,Hamburg,Hamburg,"No discrepancy, but ensure consistency."
+Letter of Credit,Commercial Invoice,Port of Discharge,Mumbai,Mumbai,"No discrepancy, but ensure consistency."
+Letter of Credit,Insurance Certificate,Port of Loading,Hamburg,"Mumbai, India",Port of Loading mismatch.
+Letter of Credit,Insurance Certificate,Port of Discharge,Mumbai,"Hamburg, Germany",Port of Discharge mismatch.
+Letter of Credit,Insurance Certificate,Total Sum Insured,Not specified,"USD 281,916.66 (Full Invoice Value + 10%)",Total Sum Insured extra in Insurance Certificate.
+Letter of Credit,Packing List,Port of Loading,Hamburg,"Mumbai, India",Port of Loading mismatch.
+Letter of Credit,Packing List,Port of Discharge,Mumbai,"Hamburg, Germany",Port of Discharge mismatch.
+Letter of Credit,Quality Certificate,Port of Loading,Hamburg,"Mumbai, India",Port of Loading mismatch.
+Letter of Credit,Quality Certificate,Port of Discharge,Mumbai,"Hamburg, Germany",Port of Discharge mismatch.
+Letter of Credit,Quality Certificate,Date of Issue,Not specified,"May 1, 2026",Date of Issue extra in Quality Certificate.

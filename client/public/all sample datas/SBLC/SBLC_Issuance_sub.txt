@@ -1,0 +1,102 @@
+
+LC APPLICATION FORM
+--------------------------------------------------------------------------------
+Issuing Bank: BNP Paribas
+Branch: Paris Trade Finance Department
+Application Date: 22-Jul-2025
+Application Reference: APP-BNPA-PAR-2025-752773
+
+APPLICANT:
+Singapore Commodities Pte Ltd
+1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+Account: 248445193
+Contact: Ms. Sarah Lee
+Email: trade@singapore.com
+
+BENEFICIARY:
+London Trading House Ltd
+25 Old Broad Street, London EC2N 1HQ, UK
+
+LC DETAILS:
+Type: SBLC
+Amount: USD 439,349.25
+Validity: 29-Sep-2025
+Latest Shipment: 10-Sep-2025
+Advising Bank: HSBC Bank Middle East, SWIFT: BBMEAEAD
+
+GOODS:
+Knitted Cotton T-shirts - 100% cotton, crew neck, short sleeve
+HS Code: 6109.10
+Quantity: 34424 pieces
+Unit Price: USD 12.76
+
+SHIPMENT:
+From: Southampton, UK
+To: Singapore Port, Singapore
+Incoterms: CIF (Incoterms® 2020)
+
+Applicant's Signature: _______________________
+Date: 22-Jul-2025
+--------------------------------------------------------------------------------
+
+
+UNDERLYING SALES CONTRACT
+--------------------------------------------------------------------------------
+Contract No.: SC-2025-8829
+Date: 27-Jun-2025
+
+SELLER: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+BUYER: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+
+COMMODITY:
+Knitted Cotton T-shirts - 100% cotton, crew neck, short sleeve
+HS Code: 6109.10
+Quantity: 34424 pieces
+Unit Price: USD 12.76
+Total Value: USD 461,316.71
+
+PAYMENT:
+100% by irrevocable LC at sight, payable against shipping documents
+LC to be opened 30 days before shipment
+
+SHIPMENT:
+Period: September 2025
+From: Southampton To: Singapore Port
+Incoterms: CIF (Incoterms® 2020)
+
+DOCUMENTS:
+Commercial Invoice, Full set B/L, Insurance, Packing List, Quality Certificate, Certificate of Origin
+
+Seller: _______________________    Buyer: _______________________
+--------------------------------------------------------------------------------
+
+
+PROFORMA INVOICE
+--------------------------------------------------------------------------------
+Seller: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+Buyer: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+
+PI No.: PI-20250709-263
+Date: 09-Jul-2025
+Validity: 30 days
+
+GOODS:
+Knitted Cotton T-shirts
+Specification: 100% cotton, crew neck, short sleeve
+HS Code: 6109.10
+Quantity: 34424 pieces
+Unit Price: USD 12.76
+Total: USD 439,349.25
+
+SHIPMENT:
+Incoterms: CIF (Incoterms® 2020)
+From: Southampton To: Singapore Port
+Estimated: September 2025
+Origin: UK
+
+PAYMENT:
+100% by irrevocable LC at sight
+LC via: HSBC Bank Middle East
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------

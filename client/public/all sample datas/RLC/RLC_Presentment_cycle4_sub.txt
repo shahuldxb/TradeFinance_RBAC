@@ -1,0 +1,122 @@
+
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: Mumbai Textiles Pvt Ltd, Andheri East, Mumbai 400069, Maharashtra, India
+Buyer: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+
+Invoice No.: INV-20251124-3451
+Date: 24-Nov-2025
+LC No.: CITI-DUB-2025-111805
+Incoterms: FOB Singapore Port (Incoterms® 2020)
+
+Item: Steel Reinforcement Bars
+Description: Grade 60, diameter 12-32mm, length 12m
+HS Code: 7214.20
+Quantity: 124 metric tons
+Unit Price: USD 674.18
+Amount: USD 83,598.13
+GW: 139.51 kg
+NW: 123.75 kg
+Origin: India
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+BILL OF LADING
+--------------------------------------------------------------------------------
+Shipper: Mumbai Textiles Pvt Ltd, Andheri East, Mumbai 400069, Maharashtra
+Consignee: To Order of Citi Bank PJSC
+Notify: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989
+
+B/L No.: CITI-DUB-2025-111805-BL6812
+Vessel/Voyage: MV Pacific Glory / VOY576
+Port of Loading: Mumbai (JNPT), India
+Port of Discharge: Singapore Port, Singapore
+
+Goods: Steel Reinforcement Bars, HS 7214.20
+Quantity: 124 metric tons
+GW 139.51 kg, NW 124.00 kg
+
+Freight: Prepaid
+Originals: 3
+Issue Date: 25-Nov-2025
+On Board: 27-Nov-2025
+Clean on Board: YES
+
+Carrier: _______________________
+--------------------------------------------------------------------------------
+
+
+INSURANCE CERTIFICATE
+--------------------------------------------------------------------------------
+Insurer: Allianz Global Corporate & Specialty
+Certificate No.: INS-20251123-8123
+Date: 23-Nov-2025
+Assured: To Order
+Endorsement: In blank
+LC No.: CITI-DUB-2025-111805
+
+Interest: Steel Reinforcement Bars
+Voyage: Mumbai (JNPT) to Singapore Port
+Sum Insured: AED 91,957.94
+Coverage: Institute Cargo Clauses (C), War, SRCC
+Claims Payable: Singapore
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: Mumbai Textiles Pvt Ltd
+Consignee: Singapore Commodities Pte Ltd
+LC No.: CITI-DUB-2025-111805
+Date: 24-Nov-2025
+
+Quantity: 124 metric tons
+GW: 138.81 kg
+NW: 124.00 kg
+Packing: bundles
+
+Marks: Mumbai/1125
+Origin: India
+--------------------------------------------------------------------------------
+
+
+QUALITY CERTIFICATE
+--------------------------------------------------------------------------------
+Issuer: Mumbai Textiles Pvt Ltd QA Dept
+Certificate No.: QC-20251122-716
+Date: 22-Nov-2025
+LC Reference: CITI-DUB-2025-111805
+
+Product: Steel Reinforcement Bars
+Specification: Grade 60, diameter 12-32mm, length 12m
+Quantity: 124 metric tons
+Inspection: ISO 2859-1, AQL 2.5
+Result: PASSED
+Origin: India
+
+QA Manager: _______________________
+--------------------------------------------------------------------------------
+
+
+CERTIFICATE OF ORIGIN
+--------------------------------------------------------------------------------
+Issued by: Chamber of Commerce, India
+Certificate No.: CO-20251123-31388
+Date: 23-Nov-2025
+LC No.: CITI-DUB-2025-111805
+
+Exporter: Mumbai Textiles Pvt Ltd
+Consignee: Singapore Commodities Pte Ltd
+
+Goods: Steel Reinforcement Bars
+HS Code: 7214.20
+Quantity: 124 metric tons
+
+COUNTRY OF ORIGIN: India
+
+Authorized Officer: _______________________
+--------------------------------------------------------------------------------

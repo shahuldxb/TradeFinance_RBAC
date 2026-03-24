@@ -1,0 +1,17 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC (ilc.txt),BOL (Bill Of Lading.txt),Port of Loading,ANY SEAPORT IN JAPAN,"YOKOHAMA, JAPAN",Compliant Match,Low
+LC (ilc.txt),BOL (Bill Of Lading.txt),Port of Discharge,"ANY SEAPORT IN ABU DHABI, UAE",ABU DHABI SEAPORT,Compliant Match,Low
+LC (ilc.txt),BOL (Bill Of Lading.txt),Freight Terms,CIF,FREIGHT PREPAID,Discrepancy,High
+LC (ilc.txt),BOL (Bill Of Lading.txt),Vessel Age,Less than 25 years,12 years (Built 2009),Compliant Match,Low
+LC (ilc.txt),INV (Commercial Invoice.txt),Invoice Number,Not explicitly stated,B7WE-20-5130-X,Compliant Match,Low
+LC (ilc.txt),INV (Commercial Invoice.txt),Goods Description,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,Compliant Match,Low
+LC (ilc.txt),INV (Commercial Invoice.txt),Origin of Goods,JAPAN,JAPAN,Compliant Match,Low
+LC (ilc.txt),INV (Commercial Invoice.txt),Amount,"USD 60,465.00","USD 60,465.00",Compliant Match,Low
+LC (ilc.txt),IC (Export Import License.txt),Insurance Coverage,Full value of invoice + 10%,"USD 66,512.00",Compliant Match,Low
+LC (ilc.txt),IC (Export Import License.txt),Vessel Age,Less than 25 years,12 years (Built 2009),Compliant Match,Low
+LC (ilc.txt),PL (Packing List.txt),Goods Description,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,Compliant Match,Low
+LC (ilc.txt),PL (Packing List.txt),Batch Number,Not explicitly stated,K21020UA,Compliant Match,Low
+LC (ilc.txt),PL (Packing List.txt),Manufacturing Date,Not explicitly stated,MAR. 2021,Compliant Match,Low
+LC (ilc.txt),PL (Packing List.txt),Expiry Date,Not explicitly stated,FEB. 2024,Compliant Match,Low
+LC (ilc.txt),COO (Unknown.txt),Origin of Goods,JAPAN,JAPAN,Compliant Match,Low
+LC (ilc.txt),COO (Unknown.txt),Manufacturer Name,Not explicitly stated,"AGRO-KANESHO CO., LTD",Compliant Match,Low

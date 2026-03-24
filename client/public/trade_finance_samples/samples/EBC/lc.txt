@@ -1,0 +1,50 @@
+**EXPORT BILLS FOR COLLECTION INSTRUCTION**
+
+**Collection Reference:** COL-2024-001249
+**Date of Instruction:** April 01, 2025
+
+**Remitting Bank (Exporter's Bank):**
+Indian Commercial Bank
+15 Financial Center
+Mumbai, 400002, India
+
+**Principal (Exporter/Seller):**
+Upsilon Exporters Ltd.
+50 Trade Tower
+Mumbai, 400001, India
+
+**Collecting Bank (Importer's Bank):**
+Global Trade Bank
+789 Financial Avenue
+New York, NY 10005, USA
+
+**Drawee (Importer/Buyer):**
+Phi Importers Inc.
+123 Business Street
+New York, NY 10001, USA
+
+**Amount of Draft/Bill of Exchange:** USD 120,000.00 (One Hundred Twenty Thousand US Dollars Only)
+
+**Documents Attached:**
+1. Commercial Invoice (3 copies)
+2. Full set of clean on board Bills of Lading (3 originals)
+3. Packing List (2 copies)
+4. Certificate of Origin (1 copy)
+
+**Terms of Payment:**
+**Documents Against Payment (D/P) - Sight Draft**
+The Collecting Bank is instructed to release the documents to the Drawee only upon receipt of the full collection amount of USD 120,000.00.
+
+**Special Instructions:**
+- Advise fate (payment/non-payment) by authenticated SWIFT.
+- In case of non-payment, hold documents and advise the Remitting Bank immediately.
+- Interest is not to be collected.
+- All bank charges outside the Remitting Bank are for the account of the Drawee. If refused, charge to the Principal.
+
+This Collection is subject to the **Uniform Rules for Collections (1995 Revision), ICC Publication No. 522**.
+
+**Authorized Signature:**
+_______________________
+Ravi Kumar
+Manager, Trade Services
+Indian Commercial Bank

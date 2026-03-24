@@ -1,0 +1,11 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Bill Of Exchange.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Bill Of Lading.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Commercial Invoice.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Packing List.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Unknown.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Bill Of Lading.txt,Port of Loading,ANY SEAPORT IN JAPAN,"YOKOHAMA, JAPAN",Discrepancy,Medium
+LC,Bill Of Lading.txt,Port of Discharge,"ANY SEAPORT IN ABU DHABI, UAE",ABU DHABI SEAPORT,Match,Low
+LC,Commercial Invoice.txt,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,Match,Low
+LC,Packing List.txt,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,Match,Low
+LC,Unknown.txt,Vessel Age,Less than 25 years,12 years (Built in 2009),Match,Low

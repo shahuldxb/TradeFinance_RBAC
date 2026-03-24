@@ -1,0 +1,122 @@
+
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+Buyer: New York Import Corp, 350 Fifth Avenue, New York, NY 10118, USA
+
+Invoice No.: INV-20250907-3174
+Date: 07-Sep-2025
+LC No.: BKCH-SHA-2025-595457
+Incoterms: CFR Los Angeles (Incoterms® 2020)
+
+Item: Steel Reinforcement Bars
+Description: Grade 60, diameter 12-32mm, length 12m
+HS Code: 7214.20
+Quantity: 398 metric tons
+Unit Price: USD 723.88
+Amount: USD 288,102.26
+GW: 474.43 kg
+NW: 397.20 kg
+Origin: UK
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+BILL OF LADING
+--------------------------------------------------------------------------------
+Shipper: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ
+Consignee: To Order of Bank of China
+Notify: New York Import Corp, 350 Fifth Avenue, New York, NY 10118
+
+B/L No.: BKCH-SHA-2025-595457-BL3155
+Vessel/Voyage: MV Pacific Glory / VOY491
+Port of Loading: Felixstowe, UK
+Port of Discharge: Los Angeles, USA
+
+Goods: Steel Reinforcement Bars, HS 7214.20
+Quantity: 398 metric tons
+GW 474.43 kg, NW 398.00 kg
+
+Freight: Prepaid
+Originals: 3
+Issue Date: 08-Sep-2025
+On Board: 10-Sep-2025
+Clean on Board: YES
+
+Carrier: _______________________
+--------------------------------------------------------------------------------
+
+
+INSURANCE CERTIFICATE
+--------------------------------------------------------------------------------
+Insurer: Chubb Insurance
+Certificate No.: INS-20250906-8871
+Date: 06-Sep-2025
+Assured: To Order
+Endorsement: In blank
+LC No.: BKCH-SHA-2025-595457
+
+Interest: Steel Reinforcement Bars
+Voyage: Felixstowe to Los Angeles
+Sum Insured: USD 316,912.49
+Coverage: Institute Cargo Clauses (C), War, SRCC
+Claims Payable: USA
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: London Trading House Ltd
+Consignee: New York Import Corp
+LC No.: BKCH-SHA-2025-595457
+Date: 07-Sep-2025
+
+Quantity: 398 metric tons
+GW: 474.43 kg
+NW: 398.00 kg
+Packing: bundles
+
+Marks: London/0925
+Origin: UK
+--------------------------------------------------------------------------------
+
+
+QUALITY CERTIFICATE
+--------------------------------------------------------------------------------
+Issuer: London Trading House Ltd QA Dept
+Certificate No.: QC-20250905-326
+Date: 05-Sep-2025
+LC Reference: N/A
+
+Product: Steel Reinforcement Bars
+Specification: Grade 60, diameter 12-32mm, length 12m
+Quantity: 398 metric tons
+Inspection: ISO 2859-1, AQL 2.5
+Result: PASSED
+Origin: UK
+
+QA Manager: _______________________
+--------------------------------------------------------------------------------
+
+
+CERTIFICATE OF ORIGIN
+--------------------------------------------------------------------------------
+Issued by: Chamber of Commerce, UK
+Certificate No.: CO-20250906-45968
+Date: 06-Sep-2025
+LC No.: BKCH-SHA-2025-595457
+
+Exporter: London Trading House Ltd
+Consignee: New York Import Corp
+
+Goods: Steel Reinforcement Bars
+HS Code: 7214.20
+Quantity: 398 metric tons
+
+COUNTRY OF ORIGIN: UK
+
+Authorized Officer: _______________________
+--------------------------------------------------------------------------------

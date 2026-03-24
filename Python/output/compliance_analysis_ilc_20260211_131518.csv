@@ -1,0 +1,8 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,BOL,Description of Goods,"1,000 bags of Brazilian Arabica Coffee Beans","1,000 bags of Brazilian Arabica Coffee Beans",Fully compliant match,Low
+LC,BOL,Port of Loading,"Santos Port, Brazil","Santos Port, Brazil",Fully compliant match,Low
+LC,BOL,Port of Discharge,Toronto,"Montreal Port, Canada",Port mismatch,High
+LC,BOL,Freight Terms,Not explicitly stated,Prepaid,Missing freight terms in LC,Medium
+LC,INV,Description of Goods,"1,000 bags of Brazilian Arabica Coffee Beans","1,000 bags of Brazilian Arabica Coffee Beans",Fully compliant match,Low
+LC,INV,Total Amount,"USD 90,000","USD 90,000",Fully compliant match,Low
+LC,INV,Incoterm,CPT Toronto,CPT Toronto,Fully compliant match,Low

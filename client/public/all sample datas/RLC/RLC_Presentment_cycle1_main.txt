@@ -1,0 +1,38 @@
+EXPORT LETTER OF CREDIT (SIGHT)
+--------------------------------------------------------------------------------
+Issuing Bank: Barclays Bank PLC, London, UK
+Advising Bank: HSBC Bank Middle East, Dubai, UAE
+LC No.: BARC-LON-2025-440163
+Issue Date: 23-Jul-2025
+Expiry: 21-Sep-2025 at Dubai
+Rules: UCP 600, ISBP 821
+
+Applicant: New York Import Corp, 350 Fifth Avenue, New York, NY 10118, USA
+Beneficiary: Mumbai Textiles Pvt Ltd, Andheri East, Mumbai 400069, Maharashtra, India
+
+Amount: USD 68,024.10
+Tolerance: +10/-10%
+Incoterms: EXW New York (Incoterms® 2020)
+Shipment: From Mumbai (JNPT) to New York
+Latest Shipment: 01-Sep-2025
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Goods:
+Steel Reinforcement Bars - Grade 60, diameter 12-32mm, length 12m
+HS Code: 7214.20
+Quantity: 105 metric tons
+GW: 136.26 kg, NW: 105.00 kg
+Origin: India
+
+Documents Required:
+1. Commercial Invoice (1 original + 2 copies) quoting LC number
+2. Full set 3/3 clean on board B/L to order of Issuing Bank, notify Applicant, freight prepaid
+3. Insurance for 110% CIC (C), War, SRCC, claims in USA
+4. Packing List quoting LC number
+5. Quality Certificate quoting LC number
+6. Certificate of Origin by Chamber of Commerce
+7. All documents must quote LC BARC-LON-2025-440163
+
+Presentation: Within 21 days after shipment, within LC validity
+--------------------------------------------------------------------------------

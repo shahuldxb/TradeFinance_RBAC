@@ -1,0 +1,122 @@
+
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: Shanghai Electronics Co. Ltd., Building 12, Pudong Industrial Park, Shanghai, China
+Buyer: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+
+Invoice No.: INV-20250915-8610
+Date: 15-Sep-2025
+LC No.: DBSS-SIN-2025-369151
+Incoterms: CFR Felixstowe (Incoterms® 2020)
+
+Item: Pharmaceutical Tablets
+Description: GMP certified, blister pack, 100 tablets per bottle
+HS Code: 3004.90
+Quantity: 18984 bottles
+Unit Price: USD 26.56
+Amount: USD 504,224.64
+GW: 4,362.06 kg
+NW: 4,135.67 kg
+Origin: China
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+BILL OF LADING
+--------------------------------------------------------------------------------
+Shipper: Shanghai Electronics Co. Ltd., Building 12, Pudong Industrial Park, Shanghai
+Consignee: To Order of DBS Bank Ltd
+Notify: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ
+
+B/L No.: DBSS-SIN-2025-369151-BL7671
+Vessel/Voyage: MV Atlantic Voyager / VOY517
+Port of Loading: Shanghai, China
+Port of Discharge: Felixstowe, UK
+
+Goods: Pharmaceutical Tablets, HS 3004.90
+Quantity: 18984 bottles
+GW 4,362.06 kg, NW 4,143.96 kg
+
+Freight: Prepaid
+Originals: 3
+Issue Date: 16-Sep-2025
+On Board: 18-Sep-2025
+Clean on Board: YES
+
+Carrier: _______________________
+--------------------------------------------------------------------------------
+
+
+INSURANCE CERTIFICATE
+--------------------------------------------------------------------------------
+Insurer: AXA Insurance Gulf
+Certificate No.: INS-20250914-8774
+Date: 14-Sep-2025
+Assured: To Order
+Endorsement: In blank
+LC No.: DBSS-SIN-2025-369151
+
+Interest: Pharmaceutical Tablets
+Voyage: Shanghai to Felixstowe
+Sum Insured: USD 554,647.10
+Coverage: Institute Cargo Clauses (C), War, SRCC
+Claims Payable: UK
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: Shanghai Electronics Co. Ltd.
+Consignee: London Trading House Ltd
+LC No.: DBSS-SIN-2025-369151
+Date: 15-Sep-2025
+
+Quantity: 18984 bottles
+GW: 4,362.06 kg
+NW: 4,143.96 kg
+Packing: cartons
+
+Marks: Shanghai/0925
+Origin: China
+--------------------------------------------------------------------------------
+
+
+QUALITY CERTIFICATE
+--------------------------------------------------------------------------------
+Issuer: Shanghai Electronics Co. Ltd. QA Dept
+Certificate No.: QC-20250913-759
+Date: 13-Sep-2025
+LC Reference: DBSS-SIN-2025-369151
+
+Product: Pharmaceutical Tablets
+Specification: GMP certified, blister pack, 100 tablets per bottle
+Quantity: 18984 bottles
+Inspection: ISO 2859-1, AQL 2.5
+Result: PASSED
+Origin: China
+
+QA Manager: _______________________
+--------------------------------------------------------------------------------
+
+
+CERTIFICATE OF ORIGIN
+--------------------------------------------------------------------------------
+Issued by: Chamber of Commerce, China
+Certificate No.: CO-20250914-21936
+Date: 14-Sep-2025
+LC No.: DBSS-SIN-2025-369151
+
+Exporter: Shanghai Electronics Co. Ltd.
+Consignee: London Trading House Ltd
+
+Goods: Pharmaceutical Tablets
+HS Code: 3004.90
+Quantity: 18984 bottles
+
+COUNTRY OF ORIGIN: China
+
+Authorized Officer: _______________________
+--------------------------------------------------------------------------------

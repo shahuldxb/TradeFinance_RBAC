@@ -1,0 +1,17 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Gross Weight,Not specified,"2,149.35 KGS",Gross weight is mentioned in the Bill of Lading but not in the LC.
+Letter of Credit,Certificate of Origin,Country of Origin,Germany,India,"Country of origin mismatch. LC specifies Germany, but COO declares India."
+Letter of Credit,Insurance Certificate,Insured Value,Not specified,"USD 206,402.31",Insured value is not mentioned in the LC but is present in the Insurance Certificate.
+Letter of Credit,Packing List,Gross Weight,Not specified,"2,149.35 KGS",Gross weight is mentioned in the Packing List but not in the LC.
+Letter of Credit,Packing List,Package Details,Not specified,"20 packages, Wooden crates/Cartons",Package details are not mentioned in the LC but are present in the Packing List.
+Letter of Credit,Quality Certificate,Batch Number,Not specified,BATCH-495459,Batch number is not mentioned in the LC but is present in the Quality Certificate.
+Letter of Credit,Quality Certificate,Production Date,Not specified,2025-12-11,Production date is not mentioned in the LC but is present in the Quality Certificate.
+Letter of Credit,Commercial Invoice,Declaration of Origin,Not specified,India,Declaration of origin is not mentioned in the LC but is present in the Commercial Invoice.
+Letter of Credit,Insurance Certificate,Insurance Company Address,Not specified,"Lloyd's Building, London EC3M 7HA",Insurance company address is not mentioned in the LC but is present in the Insurance Certificate.
+Letter of Credit,Bill of Lading,Notify Party,Not specified,"Dubai Trading LLC, Dubai Marina, P.O. Box 12345, Dubai, UAE",Notify party is not mentioned in the LC but is present in the Bill of Lading.
+Letter of Credit,Bill of Lading,Vessel Name,Not specified,MV Ocean Voyager,Vessel name is not mentioned in the LC but is present in the Bill of Lading.
+Letter of Credit,Bill of Lading,Voyage Number,Not specified,430E,Voyage number is not mentioned in the LC but is present in the Bill of Lading.
+Letter of Credit,Bill of Lading,Flag,Not specified,Panama,Vessel flag is not mentioned in the LC but is present in the Bill of Lading.
+Letter of Credit,Certificate of Origin,Issuing Authority Address,Not specified,Germany,Issuing authority address is not mentioned in the LC but is present in the Certificate of Origin.
+Letter of Credit,Quality Certificate,Compliance,Not specified,ISO 9001:2015 certified,Compliance details are not mentioned in the LC but are present in the Quality Certificate.
+Letter of Credit,Quality Certificate,Test Results,Not specified,PASSED,Test results are not mentioned in the LC but are present in the Quality Certificate.

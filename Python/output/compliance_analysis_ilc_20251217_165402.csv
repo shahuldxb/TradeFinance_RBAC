@@ -1,0 +1,13 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+ilc.txt,Document 11.txt,Gross Weight,"4,200.00 kg","4,198.00 kg",Gross weight discrepancy in packing list.
+ilc.txt,Document 11.txt,Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy in packing list.
+ilc.txt,Document 11.txt,Cartons per Pallet,50 cartons per pallet,Pallet 7 = 49 cartons,Carton count discrepancy in packing list for Pallet 7.
+ilc.txt,Document 14.txt,Goods Description,"Knitted cotton T‑shirts, 100% cotton","Knitted T‑shirts, 97% cotton / 3% elastane",Goods description mismatch in commercial invoice.
+ilc.txt,Document 14.txt,Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy in commercial invoice.
+ilc.txt,Document 4.txt,Coverage Clauses,Institute Cargo Clauses (C),Institute Cargo Clauses (A),Insurance coverage clause mismatch.
+ilc.txt,Document 4.txt,Claims Payable Location,Vietnam,"Dubai, United Arab Emirates",Claims payable location discrepancy in insurance certificate.
+ilc.txt,Document 8.txt,Shipped on Board Date,Not later than 25-Sep-2025,26-Sep-2025,Late shipment date in bill of lading.
+ilc.txt,Document 8.txt,Port of Discharge,"Cat Lai Terminal, Ho Chi Minh City, Vietnam","Ho Chi Minh City, Vietnam",Port of discharge mismatch in bill of lading.
+ilc.txt,Document 2.txt,Buyer Specification,VGE/KT-2025-09,VGE/KT-2025-09 (Rev A),Buyer specification revision mismatch in quality certificate.
+ilc.txt,Document 2.txt,Fiber Content,100% cotton,100% cotton (tested),Extra information in fiber content field in quality certificate.
+ilc.txt,Document 5.txt,Sum Insured,110% of invoice value,"AED 471,000.00",Currency mismatch in insurance certificate.

@@ -1,0 +1,10 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Document 1.txt,Certified Delivery,5 units of Wind Turbine Generators,3 units of Wind Turbine Generators,Discrepancy in the number of units delivered.
+Letter of Credit (LC),Document 1.txt,Certified Value,"EUR 50,000.00","EUR 330,000.00",Certified value does not match the guaranteed amount.
+Letter of Credit (LC),Document 1.txt,Requested Reduction Amount,Reduction Clause: 10% of each invoice value,"EUR 30,000.00",Reduction amount does not align with the reduction clause in the LC.
+Letter of Credit (LC),Document 1.txt,Remaining Guarantee Amount,"EUR 50,000.00","EUR 20,000.00",Remaining guarantee amount is inconsistent with the LC terms.
+Letter of Credit (LC),Document 3.txt,Value Date,"April 05, 2024","April 06, 2024",Value date mismatch between LC issue date and bank advice.
+Letter of Credit (LC),Document 5.txt,Contract Number,WTG-2024-010,WTG-2024-011,Contract number mismatch in the invoice description.
+Letter of Credit (LC),Document 5.txt,Advance Amount,"EUR 50,000.00","EUR 55,000.00",Advance amount discrepancy between LC and invoice.
+Letter of Credit (LC),Document 5.txt,Invoice Date,Not specified in LC,"April 08, 2024",Invoice date is missing in the LC but present in the invoice.
+Letter of Credit (LC),Document 5.txt,Payment Terms,Not specified in LC,Advance payable within 7 days,Payment terms are not mentioned in the LC but are specified in the invoice.

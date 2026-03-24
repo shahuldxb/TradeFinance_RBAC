@@ -1,0 +1,47 @@
+**PERFORMANCE GUARANTEE**
+
+**Guarantee Number:** PG-2024-001239
+**Issue Date:** June 10, 2024
+**Expiry Date:** June 10, 2026
+
+**Applicant (Guarantor's Customer/Contractor):**
+YZ Software Solutions
+50 Tech Park
+Bangalore, 560001, India
+
+**Beneficiary (Client):**
+MNO Financial Services
+80 Bank Street
+Singapore, 049318
+
+**Guarantor (Issuing Bank):**
+State Bank of India
+100 Corporate Plaza
+Bangalore, 560002, India
+
+**Advising Bank:**
+Singapore Trade Bank
+20 Raffles Place
+Singapore, 048620
+
+**Amount:** SGD 800,000.00 (Eight Hundred Thousand Singapore Dollars Only)
+
+**Underlying Transaction:**
+Contract for the development and implementation of a new core banking system, Contract No. CBS-2024-005, dated May 25, 2024. The guarantee amount represents 10% of the total contract value.
+
+**Purpose of Guarantee:**
+To guarantee the Applicant's due and faithful performance of its obligations under the Underlying Transaction, including the timely completion and functionality of the core banking system.
+
+**Conditions for Demand:**
+1. A written demand for payment, signed by an authorized representative of the Beneficiary.
+2. A statement in the demand confirming that the Applicant is in breach of its performance obligations under Contract No. CBS-2024-005, specifying the nature of the breach.
+3. The demand must be presented at the counter of the Guarantor or the Advising Bank on or before the Expiry Date.
+
+**Governing Law and Jurisdiction:**
+This Guarantee is subject to the **Uniform Rules for Demand Guarantees (URDG), ICC Publication No. 758**.
+
+**Authorized Signature:**
+_______________________
+Priya Sharma
+Chief Manager, Project Finance
+State Bank of India

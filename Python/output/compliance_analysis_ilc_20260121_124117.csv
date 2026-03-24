@@ -1,0 +1,13 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Bill of Lading,Date of Issue,2026-05-22,22 May 2026,Date format mismatch,Low
+LC,Bill of Lading,Consignee Address,"Industriestraße 42, 80939 Munich, Germany","Industriestraße 42, 80939 Munich, Germany",Extra comma in address,Low
+LC,Certificate of Origin,Country of Origin,UAE,United States,Country of origin mismatch,High
+LC,Certificate of Origin,Date of Issue,Not specified,"January 21, 2026",Missing date in LC,Medium
+LC,Commercial Invoice,Quantity,4162 KGS,"4,162 KGS",Formatting difference in quantity,Low
+LC,Commercial Invoice,Date of Issue,2026-05-22,2026-05-22,No discrepancy (normalized),N/A
+LC,Insurance Certificate,Country of Origin,UAE,Not explicitly stated,Missing country of origin in Insurance Certificate,Medium
+LC,Insurance Certificate,Insured Value,"USD 373,264.23","USD 373,264.23 (CIF + 10%)",Additional information in target document,Low
+LC,Packing List,Quantity,4162 KGS,4162 KGS,No discrepancy (normalized),N/A
+LC,Packing List,Date of Issue,Not specified,2026-05-22,Missing date in LC,Medium
+LC,Quality Certificate,Quantity,4162 KGS,"4,162 KGS",Formatting difference in quantity,Low
+LC,Quality Certificate,Date of Issue,Not specified,"May 22, 2026",Missing date in LC,Medium

@@ -1,0 +1,15 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Document 1.txt,Contract Number,WTG-2024-010,WTG-2024-011,Contract number mismatch.
+Letter of Credit (LC),Document 1.txt,Contract Date,"March 20, 2024","March 25, 2024",Contract date mismatch.
+Letter of Credit (LC),Document 1.txt,Goods Description,5 units of Wind Turbine Generators,6 units of Wind Turbine Generators,Goods quantity mismatch.
+Letter of Credit (LC),Document 1.txt,Contract Value,"EUR 500,000.00 (implied from 10% advance of EUR 50,000.00)","EUR 550,000.00",Contract value mismatch.
+Letter of Credit (LC),Document 3.txt,Invoice Number,Not mentioned,API-7789,Invoice number missing in LC.
+Letter of Credit (LC),Document 3.txt,Invoice Date,Not mentioned,"April 08, 2024",Invoice date missing in LC.
+Letter of Credit (LC),Document 3.txt,Advance Amount,"EUR 50,000.00","EUR 55,000.00",Advance amount mismatch.
+Letter of Credit (LC),Document 3.txt,Contract Number,WTG-2024-010,WTG-2024-011,Contract number mismatch in invoice description.
+Letter of Credit (LC),Document 5.txt,Payment Reference,Advance payment under Contract No. WTG-2024-010,Advance payment under Contract No. WTG-2024-010,No discrepancy in payment reference.
+Letter of Credit (LC),Document 5.txt,Amount Credited,"EUR 50,000.00","EUR 50,000.00",No discrepancy in credited amount.
+Letter of Credit (LC),Document 7.txt,Certified Delivery,Not mentioned,Delivery of 3 units of Wind Turbine Generators,Certified delivery details missing in LC.
+Letter of Credit (LC),Document 7.txt,Certified Value,Not mentioned,"EUR 330,000.00",Certified value details missing in LC.
+Letter of Credit (LC),Document 7.txt,Requested Reduction Amount,Not mentioned,"EUR 30,000.00",Requested reduction amount details missing in LC.
+Letter of Credit (LC),Document 7.txt,Remaining Guarantee Amount,Not mentioned,"EUR 20,000.00",Remaining guarantee amount details missing in LC.

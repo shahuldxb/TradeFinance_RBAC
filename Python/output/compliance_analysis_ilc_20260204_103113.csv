@@ -1,0 +1,30 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC (ilc.txt),Bill Of Exchange.txt,LC Number,ILCAE00221000098,CA21001978,LC number mismatch,High
+LC (ilc.txt),Bill Of Exchange.txt,Amount,"USD 60,465.00","USD 60, 465. 00",Formatting issue in amount,Low
+LC (ilc.txt),Bill Of Exchange.txt,B/L Date,Not specified,"JUL 1, 2021",Missing B/L date in LC,Medium
+LC (ilc.txt),Bill Of Exchange.txt,Due Date,Not specified,"DEC 28, 2021",Missing due date in LC,Medium
+LC (ilc.txt),Bill Of Lading.txt,Port of Loading,ANY SEAPORT IN JAPAN,"YOKOHAMA, JAPAN","Specific port of loading not matching ""ANY SEAPORT IN JAPAN""",Medium
+LC (ilc.txt),Bill Of Lading.txt,Port of Discharge,"ANY SEAPORT IN ABU DHABI, UAE",ABU DHABI SEAPORT,"Specific port of discharge not matching ""ANY SEAPORT IN ABU DHABI, UAE""",Medium
+LC (ilc.txt),Bill Of Lading.txt,Notify Party Address,"PO BOX 1297, AL AIN, UAE","P.O BOX 1297, ALAIN, UAE",Formatting difference in notify party address,Low
+LC (ilc.txt),Bill Of Lading.txt,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES. (CHEMICAL),"Extra annotation ""(CHEMICAL)"" in description",Low
+LC (ilc.txt),Bill Of Lading.txt,Batch Number,Not specified,K21020UA,Missing batch number in LC,Medium
+LC (ilc.txt),Cites Permit Certificate.txt,Date of Issue,29-03-2021,2021/06/07,Date mismatch for invoice,Medium
+LC (ilc.txt),Cites Permit Certificate.txt,Batch Number,Not specified,K21020UA,Missing batch number in LC,Medium
+LC (ilc.txt),Cites Permit Certificate.txt,Manufacturing Date,Not specified,MAR. 2021,Missing manufacturing date in LC,Medium
+LC (ilc.txt),Cites Permit Certificate.txt,Expiry Date,Not specified,FEB. 2024,Missing expiry date in LC,Medium
+LC (ilc.txt),Commercial Invoice.txt,Date of Issue,29-03-2021,2021/06/07,Date mismatch for invoice,Medium
+LC (ilc.txt),Commercial Invoice.txt,Batch Number,Not specified,K21020UA,Missing batch number in LC,Medium
+LC (ilc.txt),Commercial Invoice.txt,Manufacturing Date,Not specified,MAR. 2021,Missing manufacturing date in LC,Medium
+LC (ilc.txt),Commercial Invoice.txt,Expiry Date,Not specified,FEB. 2024,Missing expiry date in LC,Medium
+LC (ilc.txt),Export Import License.txt,Amount Insured,"USD 60,465.00","USD 66,512.00",Amount insured exceeds LC amount by 10%,Low
+LC (ilc.txt),Export Import License.txt,Insurance Agent Address,Not specified,"INCHCAPE SHIPPING SERVICES (DUBAI), UAE",Missing insurance agent address in LC,Medium
+LC (ilc.txt),Export Import License.txt,Insurance Policy Date,Not specified,"JUN. 29, 2021",Missing insurance policy date in LC,Medium
+LC (ilc.txt),Packing List.txt,Batch Number,Not specified,K21020UA,Missing batch number in LC,Medium
+LC (ilc.txt),Packing List.txt,Manufacturing Date,Not specified,MAR. 2021,Missing manufacturing date in LC,Medium
+LC (ilc.txt),Packing List.txt,Expiry Date,Not specified,FEB. 2024,Missing expiry date in LC,Medium
+LC (ilc.txt),Packing List.txt,Net Weight,Not specified,"1,500 KGS",Missing net weight in LC,Medium
+LC (ilc.txt),Packing List.txt,Gross Weight,Not specified,"1,920 KGS",Missing gross weight in LC,Medium
+LC (ilc.txt),Packing List.txt,Measurement,Not specified,5.663 CBM,Missing measurement in LC,Medium
+LC (ilc.txt),Certificate of Origin.txt,Batch Number,Not specified,K21020UA,Missing batch number in LC,Medium
+LC (ilc.txt),Certificate of Origin.txt,Manufacturing Date,Not specified,MAR. 2021,Missing manufacturing date in LC,Medium
+LC (ilc.txt),Certificate of Origin.txt,Expiry Date,Not specified,FEB. 2024,Missing expiry date in LC,Medium

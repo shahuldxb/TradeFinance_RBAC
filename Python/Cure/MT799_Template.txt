@@ -1,0 +1,48 @@
+SWIFT MT799 (Free Format Message) – Copy/Paste Templates
+====================================================
+
+CORE FIELDS (common usage)
+-------------------------
+:20:  Transaction Reference Number (mandatory)
+:21:  Related Reference (optional)
+:79:  Narrative (mandatory; free format; repeatable lines)
+
+
+1) SIMPLE “TEXT BLOCK” TEMPLATE
+------------------------------
+:20:YOURREF123456789
+:21:RELATEDREF123456
+:79:FREE FORMAT TEXT LINE 1
+:79:FREE FORMAT TEXT LINE 2
+:79:FREE FORMAT TEXT LINE 3
+
+
+2) FULL FIN-STYLE ENVELOPE TEMPLATE (WITH BLOCKS)
+------------------------------------------------
+{1:F01SENDERBICXXXX0000000000}{2:I799RECEIVERBICXXXXN}{4:
+:20:YOURREF123456789
+:21:RELATEDREF123456
+:79:WE REFER TO LC/TRADE REFERENCE XXXXX.
+:79:PLEASE CONFIRM / ADVISE / PROVIDE DETAILS AS FOLLOWS:
+:79:1) ...
+:79:2) ...
+:79:REGARDS,
+:79:SENDER BANK TRADE SERVICES
+-}
+
+
+3) EXAMPLE NARRATIVE (TRADE FINANCE – NEUTRAL)
+---------------------------------------------
+:20:TF7992412250001
+:21:LC2412001234
+:79:WE REFER TO YOUR LC NO LC2412001234.
+:79:KINDLY CONFIRM STATUS OF AMENDMENT REQUEST DATED 24DEC2025.
+:79:PLEASE ADVISE EXPECTED TIMELINE FOR ISSUANCE / ADVICE.
+:79:CONTACT: TRADE OPS +XX-XXXX-XXXX, EMAIL: TRADEOPS@BANK.COM
+
+
+NOTES
+-----
+- You can repeat :79: across multiple lines to continue the narrative.
+- Keep each :79: line within SWIFT line-length conventions used by your interface.
+- If a structured trade message type fits (e.g., MT759), it is often preferred over MT799.

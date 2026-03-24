@@ -1,0 +1,15 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Bill of Lading,Date of Issue,2026-04-12,12 April 2026,Date format mismatch,Low
+LC,Certificate of Origin,Country of Origin,Japan,United Kingdom,Country of origin mismatch,High
+LC,Certificate of Origin,Port of Loading,Yokohama,"Yokohama, Japan",Extra information in port of loading,Low
+LC,Certificate of Origin,Port of Discharge,Sydney,"Sydney, Australia",Extra information in port of discharge,Low
+LC,Certificate of Origin,Final Destination,Australia,Australia,"Missing explicit mention of ""Country of Destination"" in LC",Medium
+LC,Commercial Invoice,Invoice Number,Not specified,INV20260412,Missing invoice number in LC,Medium
+LC,Commercial Invoice,Date,Not specified,12 April 2026,Missing invoice date in LC,Medium
+LC,Commercial Invoice,Total Invoice Value,"USD 447,792.31","USD 447,792.31 (Four Hundred Forty-Seven Thousand Seven Hundred Ninety-Two and 31/100 United States Dollars)",Extra textual representation of amount,Low
+LC,Insurance Certificate,Policyholder/Assured,Not specified,Singapore Commodities Pte,Missing policyholder/assured in LC,Medium
+LC,Insurance Certificate,Country of Origin,Japan,Not specified,Missing country of origin in Insurance Certificate,Medium
+LC,Packing List,Weight,Not specified,Not specified,Missing weight details in both documents,Medium
+LC,Packing List,Dimensions,Not specified,Not specified,Missing dimensions in both documents,Medium
+LC,Quality Certificate,Certificate Number,Not specified,QC-20260412,Missing certificate number in LC,Medium
+LC,Quality Certificate,Date of Issue,Not specified,Not specified,Missing date of issue in Quality Certificate,Medium

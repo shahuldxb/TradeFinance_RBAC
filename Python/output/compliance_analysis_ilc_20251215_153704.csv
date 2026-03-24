@@ -1,0 +1,12 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Commercial Invoice (Document 10.txt),Goods Description,"Knitted cotton T-shirts, 100% cotton","Knitted T-shirts, 97% cotton / 3% elastane",Goods description mismatch
+Letter of Credit (LC),Commercial Invoice (Document 10.txt),Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy
+Letter of Credit (LC),Commercial Invoice (Document 10.txt),Remarks,Not specified,Banking charges outside UAE for applicant as per sales terms,Extra information in remarks
+Letter of Credit (LC),Quality Certificate (Document 2.txt),Buyer Specification,VGE/KT-2025-09,VGE/KT-2025-09 (Rev A),Buyer specification mismatch
+Letter of Credit (LC),Insurance Certificate (Document 3.txt),Coverage Clauses,"Institute Cargo Clauses (C), Institute War Clauses (Cargo), Institute Strikes, Riots and Civil Commotions (Cargo)","Institute Cargo Clauses (A), Institute War Clauses (Cargo), Institute Strikes, Riots & Civil Commotions (Cargo)",Coverage clause mismatch
+Letter of Credit (LC),Insurance Certificate (Document 3.txt),Claims Payable,Vietnam,"Dubai, United Arab Emirates",Claims payable location mismatch
+Letter of Credit (LC),Insurance Certificate (Document 3.txt),Sum Insured,"USD 141,295.00 (110% of invoice value)","AED 471,000.00",Currency and value mismatch
+Letter of Credit (LC),Bill of Lading (Document 6.txt),On Board Notation Date,Not later than 25-Sep-2025,26-Sep-2025,Late shipment date
+Letter of Credit (LC),Packing List (Document 8.txt),Gross Weight,"4,200.00 kg","4,198.00 kg",Gross weight discrepancy
+Letter of Credit (LC),Packing List (Document 8.txt),Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy
+Letter of Credit (LC),Packing List (Document 8.txt),Cartons per Pallet,50 pieces per carton,Pallet 7 contains 49 cartons,Quantity discrepancy in pallet details

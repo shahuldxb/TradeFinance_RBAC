@@ -1,0 +1,13 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+Letter of Credit,Bill of Lading,Vessel Name and Voyage Number,[Not specified in LC],[TO BE PROVIDED BY SHIPPING LINE],Missing vessel name and voyage number in Bill of Lading,High
+Letter of Credit,Bill of Lading,Gross Weight,[Not specified in LC],[TO BE PROVIDED BY SHIPPER],Missing gross weight in Bill of Lading,Medium
+Letter of Credit,Bill of Lading,Net Weight,[Not specified in LC],[TO BE PROVIDED BY SHIPPER],Missing net weight in Bill of Lading,Medium
+Letter of Credit,Bill of Lading,Marks and Numbers,[Not specified in LC],[TO BE PROVIDED BY SHIPPER],Missing marks and numbers in Bill of Lading,Medium
+Letter of Credit,Bill of Lading,Container Numbers and Seal Numbers,[Not specified in LC],[TO BE PROVIDED BY SHIPPING LINE],Missing container and seal numbers in Bill of Lading,Medium
+Letter of Credit,Certificate of Origin,Country of Origin,UAE,Japan,Country of origin mismatch,High
+Letter of Credit,Certificate of Origin,Issued Date,[Not specified in LC],"March 1, 2026","Issued date of Certificate of Origin is after the latest shipment date (March 1, 2026)",High
+Letter of Credit,Commercial Invoice,Shipping Terms,CFR,CIF,Shipping terms mismatch,High
+Letter of Credit,Packing List,Gross Weight,[Not specified in LC],[To be specified by supplier],Missing gross weight in Packing List,Medium
+Letter of Credit,Packing List,Net Weight,[Not specified in LC],[To be specified by supplier],Missing net weight in Packing List,Medium
+Letter of Credit,Packing List,Dimensions,[Not specified in LC],[To be specified by supplier],Missing dimensions in Packing List,Medium
+Letter of Credit,Quality Certificate,Date of Inspection,[Not specified in LC],"March 1, 2026","Date of inspection is after the latest shipment date (March 1, 2026)",High

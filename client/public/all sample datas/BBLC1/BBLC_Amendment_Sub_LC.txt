@@ -1,0 +1,123 @@
+EXPORT LETTER OF CREDIT (SIGHT) - SUB LC (BACK-TO-BACK)
+--------------------------------------------------------------------------------
+
+Issuing Bank: Bank of China
+                Shanghai, China
+                SWIFT: BKCHCNBJ
+
+Advising Bank: Standard Chartered Bank
+
+Sub LC Number: BARC-SUB-LON-SUB-2025-SUB-814300
+Master LC Reference: BARC-LON-2025-814300
+Date of Issue: 22-Jul-2025
+Date and Place of Expiry: 21-Sep-2025 at UAE
+
+Applicable Rules: UCP 600 (ICC Publication No. 600), ISBP 821
+
+Applicant (Intermediary/Trader):
+Singapore Commodities Pte Ltd
+1 Marina Boulevard, #20-01, Singapore 018989
+Singapore
+
+Beneficiary (Actual Supplier):
+Global Trading FZE
+JAFZA South, Dubai
+UAE
+
+Amount: USD 135,704.31
+Tolerance: +10/-10%
+
+Available with: Bank of China by sight payment
+
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Loading on Board/Dispatch/Taking in Charge at/from: Jebel Ali, UAE
+For Transportation to: Singapore
+Latest Date of Shipment: 06-Sep-2025
+
+Incoterms: EXW Jebel Ali (Incoterms® 2020)
+
+Description of Goods:
+Arabica Coffee Beans
+Grade AA, moisture content max 12%, screen size 17+
+HS Code: 0901.21
+Quantity: 10811 kg
+Unit Price: USD 12.55 per kg
+Total Amount: USD 135,704.31
+Packing: jute bags
+Gross Weight: Approximately 13586.71 kg
+Net Weight: Approximately 10811.00 kg
+Country of Origin: UAE
+
+Documents Required:
+
+1. COMMERCIAL INVOICE
+   - Signed commercial invoice in 1 original and 2 copies
+   - Issued by beneficiary
+   - Showing LC number BARC-SUB-LON-SUB-2025-SUB-814300
+   - Showing buyer as Singapore Commodities Pte Ltd
+
+2. BILL OF LADING
+   - Full set (3/3) of clean on board ocean bills of lading
+   - Made out to order of Bank of China
+   - Marked "Freight Collect"
+   - Notify: Singapore Commodities Pte Ltd
+   - Showing LC number BARC-SUB-LON-SUB-2025-SUB-814300
+
+3. INSURANCE DOCUMENT
+   - Insurance policy or certificate for 110% of invoice value
+   - Covering Institute Cargo Clauses (C), War and SRCC
+   - Claims payable in Singapore
+   - Showing LC number BARC-SUB-LON-SUB-2025-SUB-814300
+
+4. PACKING LIST
+   - Packing list in 1 original and 2 copies
+   - Showing LC number BARC-SUB-LON-SUB-2025-SUB-814300
+   - Showing gross and net weights
+
+5. QUALITY CERTIFICATE
+   - Quality certificate issued by beneficiary or manufacturer
+   - Showing LC number BARC-SUB-LON-SUB-2025-SUB-814300
+   - Certifying goods meet specifications
+
+6. CERTIFICATE OF ORIGIN
+   - Certificate of Origin issued by Chamber of Commerce
+   - Showing country of origin as UAE
+   - Showing LC number BARC-SUB-LON-SUB-2025-SUB-814300
+
+Additional Conditions:
+- All documents must be presented within 21 days after the date of shipment but within the validity of the credit
+- All documents must quote LC number BARC-SUB-LON-SUB-2025-SUB-814300
+- Documents with discrepancies will be held at applicant's risk pending authorization
+- All banking charges outside China are for beneficiary's account
+
+Special Instructions:
+This Sub LC is issued back-to-back against Master LC BARC-LON-2025-814300. Documents presented under this Sub LC will be used by the intermediary to claim under the Master LC after document substitution.
+
+Confirmation: Without
+
+Reimbursement:
+Claim reimbursement from Bank of China by SWIFT
+
+Period for Presentation: 21 days after shipment date but within LC validity
+
+--------------------------------------------------------------------------------
+BACK-TO-BACK LC RELATIONSHIP:
+Master LC No.: BARC-LON-2025-814300
+Master LC Amount: USD 159,652.12
+Sub LC Amount: USD 135,704.31
+Intermediary Margin: USD 23,947.82 (15.0%)
+
+Master LC Expiry: 01-Oct-2025
+Sub LC Expiry: 21-Sep-2025
+Time Gap: 10 days
+
+Master LC Shipment: 13-Sep-2025
+Sub LC Shipment: 06-Sep-2025
+Time Gap: 7 days
+--------------------------------------------------------------------------------
+
+Authorized Signature
+Bank of China
+--------------------------------------------------------------------------------

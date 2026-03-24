@@ -1,0 +1,12 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+Letter of Credit,Bill of Lading,Date of Shipment,On or before 2026-05-08,[TO BE ADVISED],Missing shipment date in Bill of Lading,High
+Letter of Credit,Bill of Lading,Bill of Lading Number,Not specified in LC but required,[TO BE ADVISED],Missing Bill of Lading number,High
+Letter of Credit,Bill of Lading,Vessel Name,Not specified in LC but required,[TO BE ADVISED],Missing vessel name,Medium
+Letter of Credit,Bill of Lading,Voyage Number,Not specified in LC but required,[TO BE ADVISED],Missing voyage number,Medium
+Letter of Credit,Certificate of Origin,Country of Origin,Not explicitly stated in LC,Germany,Extra information in Certificate of Origin,Low
+Letter of Credit,Commercial Invoice,Date,2026-01-22,"May 8, 2026",Invoice date does not match LC issue date,Medium
+Letter of Credit,Commercial Invoice,Terms of Delivery,CIP,CIF,Delivery terms mismatch,High
+Letter of Credit,Packing List,Net Weight,Not specified in LC,[As per specs],Missing net weight details in Packing List,Medium
+Letter of Credit,Packing List,Gross Weight,Not specified in LC,[As per specs],Missing gross weight details in Packing List,Medium
+Letter of Credit,Packing List,Dimensions,Not specified in LC,[As per specs],Missing dimensions in Packing List,Medium
+Letter of Credit,Quality Certificate,Date of Issue,Not specified in LC,"May 22, 2026",Quality Certificate issued after LC expiry date,High

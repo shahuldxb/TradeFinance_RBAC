@@ -1,0 +1,21 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC (elc.txt),Bill Of Exchange.txt,LC Number,ILCAE00221000098,CA21001978,LC number mismatch,High
+LC (elc.txt),Bill Of Exchange.txt,Amount,"USD 60,465.00","USD 60, 465. 00",Formatting issue in amount,Low
+LC (elc.txt),Bill Of Exchange.txt,Beneficiary Name,MITSUI AND CO LTD,SUMHOMO MUSCI BANKING CORPORATION,Beneficiary name mismatch,High
+LC (elc.txt),Bill Of Exchange.txt,B/L Date,210726,"JUL 1, 2021",B/L date mismatch,High
+LC (elc.txt),Bill Of Lading.txt,Port of Loading,ANY SEAPORT IN JAPAN,"YOKOHAMA, JAPAN","Specific port of loading provided instead of ""ANY SEAPORT IN JAPAN""",Medium
+LC (elc.txt),Bill Of Lading.txt,Port of Discharge,"ANY SEAPORT IN ABU DHABI, UAE",ABU DHABI SEAPORT,"Specific port of discharge provided instead of ""ANY SEAPORT IN ABU DHABI, UAE""",Medium
+LC (elc.txt),Bill Of Lading.txt,Notify Party Address,"PO BOX 1297, AL AIN, UAE","P.O BOX 1297, ALAIN, UAE",Formatting difference in notify party address,Low
+LC (elc.txt),Bill Of Lading.txt,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES. (CHEMICAL),"Extra annotation ""(CHEMICAL)"" in description",Low
+LC (elc.txt),Cites Permit Certificate.txt,Invoice Date,29-03-2021,2021/06/07,Invoice date mismatch,High
+LC (elc.txt),Cites Permit Certificate.txt,Manufacturing Date,Not Preceding Three Months from B/L Date,MAR. 2021,Manufacturing date not explicitly certified as per LC requirement,High
+LC (elc.txt),Commercial Invoice.txt,Invoice Date,29-03-2021,2021/06/07,Invoice date mismatch,High
+LC (elc.txt),Commercial Invoice.txt,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 ₺ (PACKING -500ML) PESTICIDES,"Typographical error in description (""₺"" instead of ""L"")",Medium
+LC (elc.txt),Commercial Invoice.txt,Amount,"USD 60,465.00","USD 60, 465. 00",Formatting issue in amount,Low
+LC (elc.txt),Export Import License.txt,Insurance Amount,Invoice + 10%,"US$66,512",Insurance amount not explicitly stated as invoice + 10%,High
+LC (elc.txt),Export Import License.txt,Insurance Coverage,Full Value of Invoice + 10%,"US$66,512",Insurance coverage not explicitly stated as per LC terms,High
+LC (elc.txt),Export Import License.txt,Insurance Agent Address,Not Provided,"INCHCAPE SHIPPING SERVICES (DUBAI), UAE",Insurance agent address provided but not matching LC requirements,Medium
+LC (elc.txt),Packing List.txt,Invoice Date,29-03-2021,2021/06/07,Invoice date mismatch,High
+LC (elc.txt),Packing List.txt,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES. ALL OTHER DETAILS RELATED TO GOODS ARE AS PER BENEFICIARY'S PROFORMA INVOICE NOS. B7WE-20-5130-X DATED 29-03-2021,Extra details in description,Low
+LC (elc.txt),Certificate of Origin.txt,Invoice Date,29-03-2021,2021/06/07,Invoice date mismatch,High
+LC (elc.txt),Certificate of Origin.txt,Manufacturer Name,Not Explicitly Stated,"AGRO-KANESHO CO., LTD",Manufacturer name provided but not explicitly required in LC,Medium

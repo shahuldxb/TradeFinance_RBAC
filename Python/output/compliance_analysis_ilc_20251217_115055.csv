@@ -1,0 +1,16 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+ilc.txt,Document 11.txt,Invoice Date,Not specified in LC,20-Sep-2025,Invoice date not mentioned in LC.
+ilc.txt,Document 11.txt,Quantity,350 cartons,"350 cartons (50 pcs/carton = 17,500 pcs)",Additional breakdown of quantity in the invoice not specified in LC.
+ilc.txt,Document 11.txt,Gross Weight,Not specified in LC,"4,200.00 kg",Gross weight not mentioned in LC.
+ilc.txt,Document 11.txt,Net Weight,Not specified in LC,"3,998.00 kg",Net weight not mentioned in LC.
+ilc.txt,Document 11.txt,Country of Origin,Not specified in LC,U.A.E.,Country of origin not mentioned in LC.
+ilc.txt,Document 2.txt,Sum Insured,Not specified in LC,"AED 471,000.00 (equivalent to 110% of invoice value)",Sum insured not mentioned in LC.
+ilc.txt,Document 2.txt,Currency,USD,AED,Currency mismatch between LC and insurance certificate.
+ilc.txt,Document 2.txt,Date of Issue,Not specified in LC,20-Sep-2025,Date of issue not mentioned in LC.
+ilc.txt,Document 5.txt,Date of Issue,Not specified in LC,21-Sep-2025,Date of issue not mentioned in LC.
+ilc.txt,Document 5.txt,On Board Notation Date,Not specified in LC,26-Sep-2025,On board notation date not mentioned in LC.
+ilc.txt,Document 5.txt,Place of Delivery,Not specified in LC,"Cat Lai CY, Ho Chi Minh City, Vietnam",Place of delivery not mentioned in LC.
+ilc.txt,Document 8.txt,Gross Weight,Not specified in LC,"4,198.00 kg",Gross weight in packing list differs from invoice and is not mentioned in LC.
+ilc.txt,Document 8.txt,Net Weight,Not specified in LC,"3,998.00 kg",Net weight in packing list matches invoice but is not mentioned in LC.
+ilc.txt,Document 8.txt,Total Cartons,350 cartons,"350 cartons (7 pallets, 1 pallet with 49 cartons)",Additional breakdown of cartons in packing list not specified in LC.
+ilc.txt,Document 8.txt,Marks & Numbers,Not specified in LC,GT/VGE/0913/25,Marks & numbers not mentioned in LC.

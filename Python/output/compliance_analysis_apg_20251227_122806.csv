@@ -1,0 +1,14 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Document 1.txt,Contract Number,WTG-2024-010,WTG-2024-011,Contract number mismatch.
+Letter of Credit (LC),Document 1.txt,Contract Date,"March 20, 2024","March 25, 2024",Contract date mismatch.
+Letter of Credit (LC),Document 1.txt,Goods Description,5 units of Wind Turbine Generators,6 units of Wind Turbine Generators,Goods quantity mismatch.
+Letter of Credit (LC),Document 1.txt,Contract Value,"EUR 500,000.00 (implied from 10% advance of EUR 50,000.00)","EUR 550,000.00",Contract value mismatch.
+Letter of Credit (LC),Document 3.txt,Contract Number,WTG-2024-010,WTG-2024-011,Contract number mismatch in invoice description.
+Letter of Credit (LC),Document 3.txt,Advance Amount,"EUR 50,000.00","EUR 55,000.00",Advance amount mismatch.
+Letter of Credit (LC),Document 5.txt,Contract Number,WTG-2024-010,WTG-2024-010 (Correct),No issue.
+Letter of Credit (LC),Document 5.txt,Amount Credited,"EUR 50,000.00","EUR 50,000.00 (Correct)",No issue.
+Letter of Credit (LC),Document 7.txt,Contract Number,WTG-2024-010,WTG-2024-011,Contract number mismatch in multiple sections.
+Letter of Credit (LC),Document 7.txt,Contract Date,"March 20, 2024","March 25, 2024",Contract date mismatch in multiple sections.
+Letter of Credit (LC),Document 7.txt,Goods Description,5 units of Wind Turbine Generators,6 units of Wind Turbine Generators,Goods quantity mismatch in multiple sections.
+Letter of Credit (LC),Document 7.txt,Contract Value,"EUR 500,000.00 (implied from 10% advance of EUR 50,000.00)","EUR 550,000.00",Contract value mismatch in multiple sections.
+Letter of Credit (LC),Document 7.txt,Advance Amount,"EUR 50,000.00","EUR 55,000.00",Advance amount mismatch in multiple sections.

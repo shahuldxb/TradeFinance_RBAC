@@ -1,0 +1,76 @@
+
+GUARANTEE CLAIM LETTER
+--------------------------------------------------------------------------------
+[London Trading House Ltd Letterhead]
+
+Date: 21-Jun-2026
+
+To: DBS Bank Ltd
+    Singapore, Singapore
+
+Subject: Claim under Guarantee No. DBSS-PG-2025-647883 for USD 238,302.26
+
+1. REFERENCE
+We refer to Guarantee No. DBSS-PG-2025-647883 dated 25-Aug-2025 issued by your bank in favor of London Trading House Ltd (Beneficiary) for USD 238,302.26 in connection with Contract No. CONT-2025-4291.
+
+2. UNDERLYING CONTRACT
+Contract No.: CONT-2025-4291
+Contract Date: 10-Aug-2025
+Contractor: Vietnam Garment Exporters Ltd.
+Employer: London Trading House Ltd
+Contract Value: USD 3,419,695.39
+
+3. CIRCUMSTANCES LEADING TO CLAIM
+The Applicant has failed to comply with its obligations under the contract. Specifically:
+- Non-performance of contractual obligations
+- Delay in delivery beyond agreed timeline
+- Failure to meet quality standards
+
+Despite repeated notices, the Applicant has failed to remedy the default.
+
+4. INVOCATION
+In accordance with the guarantee terms, we hereby demand payment of USD 238,302.26 under the said guarantee.
+
+Payment Details:
+Bank: JPMorgan Chase Bank
+Account: London Trading House Ltd
+Account No.: 287234485
+SWIFT: CHASUS33
+
+5. SUPPORTING DOCUMENTS
+1. Original Guarantee
+2. Copy of Contract
+3. Statement of Default
+4. Correspondence evidencing default
+
+6. DECLARATION
+We confirm:
+- This claim is made within the validity period
+- The amount claimed represents our loss
+- We are entitled to make this claim per guarantee terms
+
+7. REQUEST
+Please remit the guaranteed amount immediately upon receipt.
+
+For London Trading House Ltd
+Authorized Signatory: _______________________
+Name: Sarah Lee
+Title: CEO
+--------------------------------------------------------------------------------
+
+
+STATEMENT OF DEFAULT
+--------------------------------------------------------------------------------
+Date: 21-Jun-2026
+Contract: CONT-2025-4291
+
+We certify that Vietnam Garment Exporters Ltd. has failed to:
+1. Complete work by 06-Feb-2026
+2. Meet quality specifications
+3. Respond to remedial notices
+
+Loss incurred: USD 238,302.26
+
+Certified by: _______________________
+London Trading House Ltd
+--------------------------------------------------------------------------------

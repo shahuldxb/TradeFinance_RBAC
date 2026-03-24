@@ -1,0 +1,45 @@
+DISCREPANCY REPORT
+Instrument: BBLC
+Lifecycle: Presentment
+Generated: 30-Oct-2025
+
+================================================================================
+=== OWN DISCREPANCIES (Main Document) ===
+[Count: 0]
+
+================================================================================
+=== CROSS-DOCUMENT DISCREPANCIES ===
+[Count: 2]
+
+1. Type: Document Mismatch
+   Documents: LC Document vs Commercial Invoice
+   Description: Net weight differs from LC
+   Expected: 41,168.00 kg (LC)
+   Actual: 41,085.66 kg (Invoice)
+   Rule: Weight must match LC requirement
+
+2. Type: Document Mismatch
+   Documents: LC Document vs Bill of Lading
+   Description: Shipment date exceeds LC deadline
+   Expected: 21-Sep-2025 (LC latest)
+   Actual: 23-Sep-2025 (B/L on board)
+   Rule: UCP 600 Art 20 - Late shipment
+
+================================================================================
+=== STANDARDS VIOLATIONS ===
+[Count: 2]
+
+1. Type: Standards Violation
+   Location: Bill of Lading
+   Description: Late shipment violates LC terms
+   Standard: UCP 600 Article 14(a)
+   Violation: Shipped after latest shipment date
+   Consequence: Document will be rejected
+
+2. Type: Standards Violation
+   Location: Quality Certificate
+   Description: Does not quote LC number
+   Standard: LC requirement - All documents must quote LC number
+   Violation: Shows 'N/A' instead of LC number
+   Consequence: May be rejected
+

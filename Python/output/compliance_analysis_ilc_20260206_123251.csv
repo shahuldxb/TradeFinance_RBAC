@@ -1,0 +1,31 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Bill of Lading,B/L Number,N/A,BOL-67890,Missing LC reference number in BOL,Medium
+LC,Bill of Lading,Date,Latest Date of Shipment: 2026-03-15,2026-03-10,Compliant,Low
+LC,Bill of Lading,Shipper,"Precision Manufacturing Co., 456 Industrial Park, Shanghai, China","Precision Manufacturing Co., 456 Industrial Park, Shanghai, China",Compliant,Low
+LC,Bill of Lading,Consignee,To the order of Mega Bank,To the order of Mega Bank,Compliant,Low
+LC,Bill of Lading,Notify Party,"Global Imports Inc., 123 Main Street, New York, NY 10001, USA","Global Imports Inc., 123 Main Street, New York, NY 10001, USA",Compliant,Low
+LC,Bill of Lading,Vessel,N/A,The Sea Serpent V.12,Extra information not required by LC,Medium
+LC,Bill of Lading,Port of Loading,Shipment from any Chinese port,"Shanghai Port, China",Compliant,Low
+LC,Bill of Lading,Port of Discharge,Shanghai Port,"Shanghai Port, China",Compliant,Low
+LC,Bill of Lading,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Compliant,Low
+LC,Bill of Lading,Gross Weight,N/A,1000 KGS,Extra information not required by LC,Medium
+LC,Bill of Lading,Freight,N/A,Prepaid,Extra information not required by LC,Medium
+LC,Bill of Lading,Clean on-board status,Full set of clean on-board Bill of Lading,Clean on-board,Compliant,Low
+LC,Commercial Invoice,Invoice Number,N/A,INV-2026-001,Missing LC reference number in Invoice,Medium
+LC,Commercial Invoice,Date,N/A,2026-03-12,Extra information not required by LC,Medium
+LC,Commercial Invoice,Buyer,"Global Imports Inc., 123 Main Street, New York, NY 10001, USA","Global Imports Inc., 123 Main Street, New York, NY 10001, USA",Compliant,Low
+LC,Commercial Invoice,Seller,"Precision Manufacturing Co., 456 Industrial Park, Shanghai, China","Precision Manufacturing Co., 456 Industrial Park, Shanghai, China",Compliant,Low
+LC,Commercial Invoice,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Compliant,Low
+LC,Commercial Invoice,Total Amount,"USD 50,000","USD 50,000",Compliant,Low
+LC,Commercial Invoice,Incoterm,CIF Shanghai Port,CIF Shanghai Port,Compliant,Low
+LC,Insurance Certificate,Certificate Number,N/A,INS-54321,Missing LC reference number in Insurance Certificate,Medium
+LC,Insurance Certificate,Date,N/A,2026-03-11,Extra information not required by LC,Medium
+LC,Insurance Certificate,Insured,"Precision Manufacturing Co., 456 Industrial Park, Shanghai, China","Precision Manufacturing Co., 456 Industrial Park, Shanghai, China",Compliant,Low
+LC,Insurance Certificate,Beneficiary,"Global Imports Inc., 123 Main Street, New York, NY 10001, USA","Global Imports Inc., 123 Main Street, New York, NY 10001, USA",Compliant,Low
+LC,Insurance Certificate,Amount Insured,"110% of invoice value (USD 55,000)","USD 55,000",Compliant,Low
+LC,Insurance Certificate,Goods Insured,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Compliant,Low
+LC,Insurance Certificate,Voyage,Shipment from any Chinese port to Shanghai Port,From Shanghai Port to New York Port,Conflicting voyage details,High
+LC,Certificate of Quality,Certificate Number,N/A,Q-2026-001,Missing LC reference number in Certificate of Quality,Medium
+LC,Certificate of Quality,Date,N/A,2026-03-10,Extra information not required by LC,Medium
+LC,Certificate of Quality,Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Compliant,Low
+LC,Certificate of Quality,Quality Statement,Certificate of Quality required,Certified as first-class quality,Compliant,Low

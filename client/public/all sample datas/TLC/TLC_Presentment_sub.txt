@@ -1,0 +1,122 @@
+
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: Shanghai Electronics Co. Ltd., Building 12, Pudong Industrial Park, Shanghai, China
+Buyer: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+
+Invoice No.: INV-20251020-4705
+Date: 20-Oct-2025
+LC No.: BKCH-SHA-2025-424627
+Incoterms: CFR Singapore Port (Incoterms® 2020)
+
+Item: LED Light Fixtures
+Description: Commercial grade, 40W, 4000K, IP65 rated
+HS Code: 9405.40
+Quantity: 6993 units
+Unit Price: USD 79.46
+Amount: USD 555,693.93
+GW: 2,069.33 kg
+NW: 1,961.93 kg
+Origin: China
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+BILL OF LADING
+--------------------------------------------------------------------------------
+Shipper: Shanghai Electronics Co. Ltd., Building 12, Pudong Industrial Park, Shanghai
+Consignee: To Order of Bank of China
+Notify: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989
+
+B/L No.: BKCH-SHA-2025-424627-BL1039
+Vessel/Voyage: MV Pacific Glory / VOY652
+Port of Loading: Shanghai, China
+Port of Discharge: Singapore Port, Singapore
+
+Goods: LED Light Fixtures, HS 9405.40
+Quantity: 6993 units
+GW 2,069.33 kg, NW 1,965.86 kg
+
+Freight: Prepaid
+Originals: 3
+Issue Date: 21-Oct-2025
+On Board: 23-Oct-2025
+Clean on Board: YES
+
+Carrier: _______________________
+--------------------------------------------------------------------------------
+
+
+INSURANCE CERTIFICATE
+--------------------------------------------------------------------------------
+Insurer: Zurich Insurance
+Certificate No.: INS-20251019-5836
+Date: 19-Oct-2025
+Assured: To Order
+Endorsement: In blank
+LC No.: BKCH-SHA-2025-424627
+
+Interest: LED Light Fixtures
+Voyage: Shanghai to Singapore Port
+Sum Insured: USD 611,263.33
+Coverage: Institute Cargo Clauses (C), War, SRCC
+Claims Payable: Singapore
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: Shanghai Electronics Co. Ltd.
+Consignee: Singapore Commodities Pte Ltd
+LC No.: BKCH-SHA-2025-424627
+Date: 20-Oct-2025
+
+Quantity: 6993 units
+GW: 2,069.33 kg
+NW: 1,965.86 kg
+Packing: cartons
+
+Marks: Shanghai/1025
+Origin: China
+--------------------------------------------------------------------------------
+
+
+QUALITY CERTIFICATE
+--------------------------------------------------------------------------------
+Issuer: Shanghai Electronics Co. Ltd. QA Dept
+Certificate No.: QC-20251018-509
+Date: 18-Oct-2025
+LC Reference: N/A
+
+Product: LED Light Fixtures
+Specification: Commercial grade, 40W, 4000K, IP65 rated
+Quantity: 6993 units
+Inspection: ISO 2859-1, AQL 2.5
+Result: PASSED
+Origin: China
+
+QA Manager: _______________________
+--------------------------------------------------------------------------------
+
+
+CERTIFICATE OF ORIGIN
+--------------------------------------------------------------------------------
+Issued by: Chamber of Commerce, China
+Certificate No.: CO-20251019-21925
+Date: 19-Oct-2025
+LC No.: BKCH-SHA-2025-424627
+
+Exporter: Shanghai Electronics Co. Ltd.
+Consignee: Singapore Commodities Pte Ltd
+
+Goods: LED Light Fixtures
+HS Code: 9405.40
+Quantity: 6993 units
+
+COUNTRY OF ORIGIN: China
+
+Authorized Officer: _______________________
+--------------------------------------------------------------------------------

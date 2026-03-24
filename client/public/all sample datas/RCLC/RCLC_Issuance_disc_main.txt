@@ -1,0 +1,52 @@
+DISCREPANCY REPORT
+Instrument: RCLC
+Lifecycle: Issuance
+Generated: 30-Oct-2025
+
+================================================================================
+=== OWN DISCREPANCIES (Main Document) ===
+[Count: 1]
+
+1. Type: Internal Inconsistency
+   Location: Main LC Document, Expiry Date
+   Description: LC expiry date is before latest shipment date
+   Expected: Expiry must be after 12-Sep-2025
+   Actual: Expiry shown as 09-Sep-2025
+   Impact: LC cannot be utilized - impossible to ship and present documents
+
+================================================================================
+=== CROSS-DOCUMENT DISCREPANCIES ===
+[Count: 2]
+
+1. Type: Document Mismatch
+   Documents: Main LC Document vs Underlying Sales Contract
+   Description: LC amount differs from contract amount
+   Expected: USD 563,200.82 (contract)
+   Actual: USD 536,381.73 (LC)
+   Rule: LC amount should match underlying commercial transaction
+
+2. Type: Document Mismatch
+   Documents: Main LC Document vs Proforma Invoice
+   Description: Goods description variation
+   Expected: Centrifugal pumps, stainless steel, 50HP motor (as per LC)
+   Actual: Slightly different specification (as per PI)
+   Rule: Description should be consistent
+
+================================================================================
+=== STANDARDS VIOLATIONS ===
+[Count: 2]
+
+1. Type: Standards Violation
+   Location: Main LC, Insurance clause
+   Description: Insurance endorsement requirement not specified
+   Standard: UCP 600 Article 28
+   Violation: Insurance document should specify 'endorsed in blank' when to order
+   Consequence: May cause rejection if not endorsed
+
+2. Type: Standards Violation
+   Location: Main LC, B/L clause
+   Description: Charter party B/L not explicitly prohibited
+   Standard: UCP 600 Article 22 / ISBP
+   Violation: Should state 'charter party B/L not acceptable'
+   Consequence: Ambiguity may lead to disputes
+

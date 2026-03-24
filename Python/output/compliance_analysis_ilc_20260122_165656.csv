@@ -1,0 +1,13 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+Letter of Credit,Bill of Lading,Date of Shipment On Board,On or before 2026-03-05,[To be inserted],Missing shipment date on Bill of Lading,High
+Letter of Credit,Bill of Lading,Vessel Name and Voyage No.,Not specified in LC but required in BOL,[To be inserted],Missing vessel name and voyage number on Bill of Lading,Medium
+Letter of Credit,Bill of Lading,Bill of Lading No.,Not specified in LC but required in BOL,[To be inserted],Missing Bill of Lading number,Medium
+Letter of Credit,Bill of Lading,Place and Date of Issue,Must comply with 21-day presentation period from shipment date,[To be inserted],Missing place and date of issue on Bill of Lading,High
+Letter of Credit,Certificate of Origin,Date of Issue,Not specified in LC,"March 5, 2026","Date of issue is the same as the latest shipment date, which may cause compliance issues",Medium
+Letter of Credit,Packing List,Date,2026-01-22,26 March 2026,Packing List date is after the LC expiry date (2026-03-26),High
+Letter of Credit,Insurance Certificate,Policy Issuing Company,Not specified in LC but required in Insurance Certificate,[To be completed by the insured],Missing policy issuing company details,Medium
+Letter of Credit,Insurance Certificate,Policy Number,Not specified in LC but required in Insurance Certificate,[To be completed by the insured],Missing policy number,Medium
+Letter of Credit,Insurance Certificate,Authorized Signatory,Not specified in LC but required in Insurance Certificate,[Name and Title of Authorized Representative],Missing authorized signatory details,Medium
+Letter of Credit,Packing List,Gross Weight,Not specified in LC but required in Packing List,Not Specified,Missing gross weight on Packing List,Medium
+Letter of Credit,Packing List,Net Weight,Not specified in LC but required in Packing List,Not Specified,Missing net weight on Packing List,Medium
+Letter of Credit,Quality Certificate,Date of Issue,Not specified in LC,05 March 2026,"Date of issue is the same as the latest shipment date, which may cause compliance issues",Medium

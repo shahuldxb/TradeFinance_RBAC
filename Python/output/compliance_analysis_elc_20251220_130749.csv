@@ -1,0 +1,20 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+elc.txt,Document 2.txt,Consignee,"To Order of Citi Bank PJSC, Dubai, UAE","To Order of Citi Bank PJSC, Dubai","Missing ""UAE"" in consignee address"
+elc.txt,Document 2.txt,Notify Party Address,"Vietnam Garment Exporters Ltd., Ho Chi Minh City, Vietnam","Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, D7, Ho Chi Minh City, Vietnam",Extra address details in notify party
+elc.txt,Document 2.txt,Description of Goods,Knitted T-shirts,"Knitted T-shirts, HS 6109.10, GW 4,200.00 kg, NW 3,998.00 kg",Extra details in goods description
+elc.txt,Document 2.txt,Freight Terms,Not specified,Freight Prepaid,Freight terms not mentioned in LC
+elc.txt,Document 2.txt,On Board Notation Date,Not specified,Shipped on Board 26-Sep-2025,On board notation date missing in LC
+elc.txt,Document 4.txt,Product Description,Knitted T-shirts,"Knitted T-shirts, 97% cotton / 3% elastane (short sleeve, crew neck)",Extra details in product description
+elc.txt,Document 4.txt,HS Code,Not specified,6109.10,HS Code missing in LC
+elc.txt,Document 4.txt,Quantity,Not specified,"350 cartons (50 pcs/carton = 17,500 pcs)",Quantity breakdown missing in LC
+elc.txt,Document 4.txt,Unit Price,Not specified,USD 7.34 / piece,Unit price missing in LC
+elc.txt,Document 4.txt,Remarks,Not specified,Banking charges outside UAE for applicant as per sales terms,Remarks missing in LC
+elc.txt,Document 8.txt,Gross Weight,"4,200.00 kg","4,198.00 kg",Gross weight discrepancy
+elc.txt,Document 8.txt,Pallet Details,Not specified,Pallets 1–6 = 50 cartons each; Pallet 7 = 49 cartons,Pallet details missing in LC
+elc.txt,Document 8.txt,Marks & Numbers,Not specified,GT/VGE/0913/25,Marks & numbers missing in LC
+elc.txt,Document 13.txt,Sum Insured,"USD 128,450.00","AED 471,000.00 (equivalent to 110% of invoice value)",Currency and value mismatch in insurance sum insured
+elc.txt,Document 13.txt,Coverage,Not specified,"Institute Cargo Clauses (A), Institute War Clauses (Cargo), Institute Strikes, Riots & Civil Commotions (Cargo)",Coverage details missing in LC
+elc.txt,Document 13.txt,Claims Payable Location,Not specified,"Dubai, United Arab Emirates",Claims payable location missing in LC
+elc.txt,Document 11.txt,Buyer Specification,Not specified,VGE/KT-2025-09 (Rev A),Buyer specification missing in LC
+elc.txt,Document 11.txt,Sampling Plan,Not specified,"ISO 2859-1, AQL 2.5 (General Inspection Level II)",Sampling plan missing in LC
+elc.txt,Document 11.txt,Results,Not specified,Visual QC passed; measurements within tolerance; colorfastness to washing 4–5,Quality results missing in LC

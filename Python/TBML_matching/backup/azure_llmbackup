@@ -1,0 +1,111 @@
+"""
+azure_llm_utils.py
+------------------
+Azure OpenAI helper for semantic similarity (entity & goods)
+"""
+
+import os
+import requests
+from dotenv import load_dotenv
+
+
+load_dotenv()
+
+AZURE_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
+AZURE_KEY = os.getenv("AZURE_OPENAI_API_KEY")
+DEPLOYMENT = os.getenv("AZURE_OPENAI_CHAT_DEPLOYMENT")
+API_VERSION = os.getenv("AZURE_OPENAI_API_VERSION")
+
+HEADERS = {
+    "Content-Type": "application/json",
+    "api-key": AZURE_KEY
+}
+
+# def semantic_similarity(text_a: str, text_b: str) -> float:
+#     """
+#     Returns similarity score between 0 and 1 using LLM reasoning
+#     """
+#     prompt = f"""
+# You are a sanctions and trade compliance expert.
+
+# Compare the following two entities semantically.
+# Return ONLY a number between 0 and 1.
+
+# Entity A: {text_a}
+# Entity B: {text_b}
+
+# Score:
+# """
+
+#     payload = {
+#         "messages": [
+#             {"role": "system", "content": "You are a sanctions screening expert."},
+#             {"role": "user", "content": prompt}
+#         ],
+#         "temperature": 0,
+#         "max_tokens": 10
+#     }
+
+#     try:
+#         resp = requests.post(
+#             f"{AZURE_ENDPOINT}",
+#             headers=HEADERS,
+#             json=payload,
+#             timeout=15
+#         )
+#         resp.raise_for_status()
+#         content = resp.json()["choices"][0]["message"]["content"]
+        
+#         return float(content.strip())
+#     except Exception:
+#         return 0.0
+def semantic_similarity(text_a: str, text_b: str) -> dict:
+    """
+    Returns similarity score + token usage
+    (NO change in scoring logic)
+    """
+
+    prompt = f"""
+You are a sanctions and trade compliance expert.
+
+Compare the following two entities semantically.
+Return ONLY a number between 0 and 1.
+
+Entity A: {text_a}
+Entity B: {text_b}
+
+Score:
+"""
+
+    payload = {
+        "messages": [
+            {"role": "system", "content": "You are a sanctions screening expert."},
+            {"role": "user", "content": prompt}
+        ],
+        "temperature": 0,
+        "max_tokens": 10
+    }
+
+    try:
+        resp = requests.post(
+            AZURE_ENDPOINT,
+            headers=HEADERS,
+            json=payload,
+            timeout=15
+        )
+        resp.raise_for_status()
+
+        data = resp.json()
+
+        return {
+            "score": float(data["choices"][0]["message"]["content"].strip()),
+            "prompt_tokens": data.get("usage", {}).get("prompt_tokens", 0),
+            "completion_tokens": data.get("usage", {}).get("completion_tokens", 0)
+        }
+
+    except Exception:
+        return {
+            "score": 0.0,
+            "prompt_tokens": 0,
+            "completion_tokens": 0
+        }

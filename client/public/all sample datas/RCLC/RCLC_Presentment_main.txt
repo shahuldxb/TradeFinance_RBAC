@@ -1,0 +1,38 @@
+EXPORT LETTER OF CREDIT (SIGHT)
+--------------------------------------------------------------------------------
+Issuing Bank: BNP Paribas, Paris, France
+Advising Bank: DBS Bank Ltd, Singapore, Singapore
+LC No.: BNPA-PAR-2025-648126
+Issue Date: 12-Jun-2025
+Expiry: 16-Aug-2025 at Singapore
+Rules: UCP 600, ISBP 821
+
+Applicant: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+Beneficiary: Global Trading FZE, JAFZA South, Dubai, UAE
+
+Amount: USD 252,026.97
+Tolerance: +10/-10%
+Incoterms: CIF Singapore Port (Incoterms® 2020)
+Shipment: From Jebel Ali to Singapore Port
+Latest Shipment: 28-Jul-2025
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Goods:
+Industrial Pumps - Centrifugal pumps, stainless steel, 50HP motor
+HS Code: 8413.70
+Quantity: 22 units
+GW: 25.47 kg, NW: 22.00 kg
+Origin: UAE
+
+Documents Required:
+1. Commercial Invoice (1 original + 2 copies) quoting LC number
+2. Full set 3/3 clean on board B/L to order of Issuing Bank, notify Applicant, freight prepaid
+3. Insurance for 110% CIC (C), War, SRCC, claims in Singapore
+4. Packing List quoting LC number
+5. Quality Certificate quoting LC number
+6. Certificate of Origin by Chamber of Commerce
+7. All documents must quote LC BNPA-PAR-2025-648126
+
+Presentation: Within 21 days after shipment, within LC validity
+--------------------------------------------------------------------------------

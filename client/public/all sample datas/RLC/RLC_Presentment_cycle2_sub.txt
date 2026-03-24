@@ -1,0 +1,122 @@
+
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ, UK
+Buyer: New York Import Corp, 350 Fifth Avenue, New York, NY 10118, USA
+
+Invoice No.: INV-20251105-8620
+Date: 05-Nov-2025
+LC No.: BARC-LON-2025-897597
+Incoterms: EXW New York (Incoterms® 2020)
+
+Item: Laptop Computers
+Description: 15.6 inch display, Intel Core i5, 8GB RAM, 256GB SSD
+HS Code: 8471.30
+Quantity: 197 units
+Unit Price: USD 742.68
+Amount: USD 146,308.18
+GW: 33.37 kg
+NW: 31.64 kg
+Origin: UK
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+BILL OF LADING
+--------------------------------------------------------------------------------
+Shipper: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ
+Consignee: To Order of Barclays Bank PLC
+Notify: New York Import Corp, 350 Fifth Avenue, New York, NY 10118
+
+B/L No.: BARC-LON-2025-897597-BL9671
+Vessel/Voyage: MV Atlantic Voyager / VOY185
+Port of Loading: Felixstowe, UK
+Port of Discharge: New York, USA
+
+Goods: Laptop Computers, HS 8471.30
+Quantity: 197 units
+GW 33.37 kg, NW 31.70 kg
+
+Freight: Prepaid
+Originals: 3
+Issue Date: 06-Nov-2025
+On Board: 08-Nov-2025
+Clean on Board: YES
+
+Carrier: _______________________
+--------------------------------------------------------------------------------
+
+
+INSURANCE CERTIFICATE
+--------------------------------------------------------------------------------
+Insurer: AXA Insurance Gulf
+Certificate No.: INS-20251104-3266
+Date: 04-Nov-2025
+Assured: To Order
+Endorsement: In blank
+LC No.: BARC-LON-2025-897597
+
+Interest: Laptop Computers
+Voyage: Felixstowe to New York
+Sum Insured: AED 160,938.99
+Coverage: Institute Cargo Clauses (C), War, SRCC
+Claims Payable: USA
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------
+
+
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: London Trading House Ltd
+Consignee: New York Import Corp
+LC No.: BARC-LON-2025-897597
+Date: 05-Nov-2025
+
+Quantity: 197 units
+GW: 33.20 kg
+NW: 31.70 kg
+Packing: cartons
+
+Marks: London/1125
+Origin: UK
+--------------------------------------------------------------------------------
+
+
+QUALITY CERTIFICATE
+--------------------------------------------------------------------------------
+Issuer: London Trading House Ltd QA Dept
+Certificate No.: QC-20251103-684
+Date: 03-Nov-2025
+LC Reference: BARC-LON-2025-897597
+
+Product: Laptop Computers
+Specification: 15.6 inch display, Intel Core i5, 8GB RAM, 256GB SSD
+Quantity: 197 units
+Inspection: ISO 2859-1, AQL 2.5
+Result: PASSED
+Origin: UK
+
+QA Manager: _______________________
+--------------------------------------------------------------------------------
+
+
+CERTIFICATE OF ORIGIN
+--------------------------------------------------------------------------------
+Issued by: Chamber of Commerce, UK
+Certificate No.: CO-20251104-69474
+Date: 04-Nov-2025
+LC No.: BARC-LON-2025-897597
+
+Exporter: London Trading House Ltd
+Consignee: New York Import Corp
+
+Goods: Laptop Computers
+HS Code: 8471.30
+Quantity: 197 units
+
+COUNTRY OF ORIGIN: UK
+
+Authorized Officer: _______________________
+--------------------------------------------------------------------------------

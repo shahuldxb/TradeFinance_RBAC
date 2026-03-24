@@ -1,0 +1,11 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC12345,Bill Of Lading.txt,Port of Discharge,Shanghai Port,Shanghai Port,Match,Low
+LC12345,Bill Of Lading.txt,Port of Loading,Any Chinese Port,Shanghai Port,Match,Low
+LC12345,Bill Of Lading.txt,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Match,Low
+LC12345,Bill Of Lading.txt,Freight,CIF,Prepaid,Discrepancy,Medium
+LC12345,Commercial Invoice.txt,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Match,Low
+LC12345,Commercial Invoice.txt,Total Amount,"USD 50,000","USD 50,000",Match,Low
+LC12345,Commercial Invoice.txt,Incoterm,CIF Shanghai Port,CIF Shanghai Port,Match,Low
+LC12345,Export Import License.txt,Amount Insured,"110% of Invoice Value (USD 55,000)","USD 55,000",Match,Low
+LC12345,Export Import License.txt,Voyage,From any Chinese Port to Shanghai Port,From Shanghai Port to New York Port,Discrepancy,High
+LC12345,Preferential Certificate Of.txt,Description of Goods,"500 units of Precision Widgets, Model PW-100","500 units of Precision Widgets, Model PW-100",Match,Low

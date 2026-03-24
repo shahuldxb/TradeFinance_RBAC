@@ -1,0 +1,117 @@
+BACK-TO-BACK LETTER OF CREDIT (PRIMARY LC)
+
+LC Number (Primary): LC-2024-001246-P
+Issue Date: January 15, 2025
+Expiry Date: June 30, 2025
+
+Applicant (End Buyer):
+Nu Electronics Corp.
+100 Buyer Road
+Berlin, 10115, Germany
+
+Beneficiary (Intermediary/Trader):
+Xi Trading House
+20 Trader Street
+Dubai, UAE
+
+Issuing Bank (Primary):
+German Trade Bank
+50 Financial Center
+Berlin, 10116, Germany
+
+Advising Bank (Primary):
+Emirates Trade Bank
+15 Sheikh Zayed Road
+Dubai, UAE
+
+Amount: EUR 600,000.00 (Six Hundred Thousand Euros Only)
+
+Available with: Emirates Trade Bank by negotiation.
+
+Partial Shipments: Not Allowed
+Transshipment: Not Allowed
+
+Latest Shipment Date: May 31, 2025
+
+Description of Goods:
+5,000 units of High-Resolution Displays, Model: HD-500
+As per Sales Contract No. SC-2025-001 dated December 20, 2024
+
+Documents Required:
+1. Signed Commercial Invoice in triplicate
+2. Full set of clean on board Bills of Lading consigned to the order of German Trade Bank, marked freight prepaid
+3. Packing List in duplicate
+4. Certificate of Quality
+
+Port of Loading: Dubai, UAE
+Port of Discharge: Hamburg, Germany
+
+Special Conditions:
+- This LC serves as the security for the issuance of a secondary, or "back-to-back," LC in favor of the actual supplier.
+
+This Letter of Credit is subject to Uniform Customs and Practice for Documentary Credits (2007 Revision), ICC Publication No. 600.
+
+Authorized Signature:
+_______________________
+Markus Schmidt
+VP, Trade Finance
+German Trade Bank
+
+---
+
+BACK-TO-BACK LETTER OF CREDIT (SECONDARY LC)
+
+LC Number (Secondary): LC-2024-001246-S
+Issue Date: January 20, 2025
+Expiry Date: June 15, 2025
+
+Applicant (Intermediary/Trader):
+Xi Trading House
+20 Trader Street
+Dubai, UAE
+
+Beneficiary (Actual Supplier):
+Omicron Manufacturing Co.
+30 Factory Road
+Shenzhen, 518000, China
+
+Issuing Bank (Secondary):
+Emirates Trade Bank
+15 Sheikh Zayed Road
+Dubai, UAE
+
+Advising Bank (Secondary):
+China International Bank
+321 Commerce Boulevard
+Shenzhen, 518001, China
+
+Amount: USD 550,000.00 (Five Hundred Fifty Thousand US Dollars Only)
+
+Available with: China International Bank by negotiation.
+
+Partial Shipments: Not Allowed
+Transshipment: Not Allowed
+
+Latest Shipment Date: May 15, 2025
+
+Description of Goods:
+5,000 units of High-Resolution Displays, Model: HD-500
+As per Purchase Order No. PO-2025-001 dated January 10, 2025
+
+Documents Required:
+1. Signed Commercial Invoice in triplicate (for USD 550,000.00)
+2. Full set of clean on board Bills of Lading consigned to the order of German Trade Bank, marked freight prepaid
+3. Packing List in duplicate
+4. Certificate of Quality
+
+Special Conditions:
+- This LC is issued on the security of Primary LC No. LC-2024-001246-P.
+- The Bill of Lading must show Shenzhen as Port of Loading and Hamburg as Port of Discharge.
+
+This Letter of Credit is subject to Uniform Customs and Practice for Documentary Credits (2007 Revision), ICC Publication No. 600.
+
+Authorized Signature:
+_______________________
+Ahmed Al Marzooqi
+Head of Trade Finance
+Emirates Trade Bank

@@ -1,0 +1,29 @@
+
+DOCUMENTARY COLLECTION - COLLECTION INSTRUCTION
+--------------------------------------------------------------------------------
+Remitting Bank: Emirates NBD, Dubai
+Collecting Bank: Bank of China, Shanghai
+Collection No.: EBIL-DUB-2025-377640
+Date: 14-May-2025
+Rules: URC 522
+
+Drawer/Seller: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ
+Drawee/Buyer: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989
+
+Amount: USD 84,434.45
+Terms: D/P (Documents against Payment)
+
+Documents Enclosed:
+1. Commercial Invoice
+2. Bill of Lading (3 originals)
+3. Insurance Certificate
+4. Packing List
+5. Certificate of Origin
+
+Instructions:
+- Present documents to drawee for payment/acceptance
+- Do not deliver documents without payment/acceptance
+- Advise fate of collection immediately
+
+Remitting Bank: _______________________
+--------------------------------------------------------------------------------

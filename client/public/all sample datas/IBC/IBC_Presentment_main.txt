@@ -1,0 +1,29 @@
+
+DOCUMENTARY COLLECTION - COLLECTION INSTRUCTION
+--------------------------------------------------------------------------------
+Remitting Bank: Emirates NBD, Dubai
+Collecting Bank: BNP Paribas, Paris
+Collection No.: EBIL-DUB-2025-120268
+Date: 08-Jun-2025
+Rules: URC 522
+
+Drawer/Seller: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ
+Drawee/Buyer: New York Import Corp, 350 Fifth Avenue, New York, NY 10118
+
+Amount: USD 185,327.75
+Terms: D/A (Documents against Acceptance)
+
+Documents Enclosed:
+1. Commercial Invoice
+2. Bill of Lading (3 originals)
+3. Insurance Certificate
+4. Packing List
+5. Certificate of Origin
+
+Instructions:
+- Present documents to drawee for payment/acceptance
+- Do not deliver documents without payment/acceptance
+- Advise fate of collection immediately
+
+Remitting Bank: _______________________
+--------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC (ilc.txt),BOL (Bill Of Lading.txt),Port of Loading,ANY SEAPORT IN JAPAN,"YOKOHAMA, JAPAN",Port of Loading mismatch,High
+LC (ilc.txt),BOL (Bill Of Lading.txt),Port of Discharge,"ANY SEAPORT IN ABU DHABI, UAE",ABU DHABI SEAPORT,Port of Discharge mismatch,High
+LC (ilc.txt),BOL (Bill Of Lading.txt),Vessel Age,Less than 25 years,12 years (Built 2009),Compliant,Low
+LC (ilc.txt),BOL (Bill Of Lading.txt),L/C Number,ILCAE00221000098,ILCAE00221000098,Compliant,Low
+LC (ilc.txt),INV (Commercial Invoice.txt),Invoice Number,Not explicitly stated,B7WE-20-5130-X,Missing explicit reference in LC,Medium
+LC (ilc.txt),INV (Commercial Invoice.txt),Origin of Goods,Japan,Japan,Compliant,Low
+LC (ilc.txt),INV (Commercial Invoice.txt),Amount,"USD 60,465.00","USD 60,465.00",Compliant,Low
+LC (ilc.txt),PL (Packing List.txt),Batch Number,Not explicitly stated,K21020UA,Missing explicit reference in LC,Medium
+LC (ilc.txt),PL (Packing List.txt),Manufacturing Date,Not explicitly stated,MAR. 2021,Missing explicit reference in LC,Medium
+LC (ilc.txt),PL (Packing List.txt),Expiry Date,Not explicitly stated,FEB. 2024,Missing explicit reference in LC,Medium
+LC (ilc.txt),IC (Export Import License.txt),Insurance Coverage,Full value of invoice + 10%,"USD 66,512.00",Compliant,Low
+LC (ilc.txt),IC (Export Import License.txt),Vessel Age,Less than 25 years,12 years (Built 2009),Compliant,Low
+LC (ilc.txt),COO (Unknown.txt),Origin of Goods,Japan,Japan,Compliant,Low
+LC (ilc.txt),COO (Unknown.txt),L/C Number,ILCAE00221000098,ILCAE00221000098,Compliant,Low

@@ -1,0 +1,102 @@
+
+LC APPLICATION FORM
+--------------------------------------------------------------------------------
+Issuing Bank: HSBC Bank Middle East
+Branch: Dubai Trade Finance Department
+Application Date: 05-Aug-2025
+Application Reference: APP-BBME-DUB-2025-772895
+
+APPLICANT:
+Singapore Commodities Pte Ltd
+1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+Account: 356958075
+Contact: Mr. John Smith
+Email: trade@singapore.com
+
+BENEFICIARY:
+European Machinery GmbH
+Industriestrasse 45, Munich, Germany
+
+LC DETAILS:
+Type: TLC
+Amount: USD 994,179.90
+Validity: 01-Nov-2025
+Latest Shipment: 14-Oct-2025
+Advising Bank: Barclays Bank PLC, SWIFT: BARCGB22
+
+GOODS:
+Automotive Spare Parts - Brake pads, filters, belts - OEM quality
+HS Code: 8708.99
+Quantity: 2938 sets
+Unit Price: USD 338.39
+
+SHIPMENT:
+From: Bremerhaven, Germany
+To: Singapore Port, Singapore
+Incoterms: CFR (Incoterms® 2020)
+
+Applicant's Signature: _______________________
+Date: 05-Aug-2025
+--------------------------------------------------------------------------------
+
+
+UNDERLYING SALES CONTRACT
+--------------------------------------------------------------------------------
+Contract No.: SC-2025-6374
+Date: 14-Jul-2025
+
+SELLER: European Machinery GmbH, Industriestrasse 45, Munich, Germany
+BUYER: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+
+COMMODITY:
+Automotive Spare Parts - Brake pads, filters, belts - OEM quality
+HS Code: 8708.99
+Quantity: 2938 sets
+Unit Price: USD 338.39
+Total Value: USD 1,043,888.90
+
+PAYMENT:
+100% by irrevocable LC at sight, payable against shipping documents
+LC to be opened 30 days before shipment
+
+SHIPMENT:
+Period: October 2025
+From: Bremerhaven To: Singapore Port
+Incoterms: CFR (Incoterms® 2020)
+
+DOCUMENTS:
+Commercial Invoice, Full set B/L, Insurance, Packing List, Quality Certificate, Certificate of Origin
+
+Seller: _______________________    Buyer: _______________________
+--------------------------------------------------------------------------------
+
+
+PROFORMA INVOICE
+--------------------------------------------------------------------------------
+Seller: European Machinery GmbH, Industriestrasse 45, Munich, Germany
+Buyer: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+
+PI No.: PI-20250730-108
+Date: 30-Jul-2025
+Validity: 30 days
+
+GOODS:
+Automotive Spare Parts
+Specification: Brake pads, filters, belts - OEM quality
+HS Code: 8708.99
+Quantity: 2938 sets
+Unit Price: USD 338.39
+Total: USD 994,179.90
+
+SHIPMENT:
+Incoterms: CFR (Incoterms® 2020)
+From: Bremerhaven To: Singapore Port
+Estimated: October 2025
+Origin: Germany
+
+PAYMENT:
+100% by irrevocable LC at sight
+LC via: Barclays Bank PLC
+
+Authorized Signatory: _______________________
+--------------------------------------------------------------------------------

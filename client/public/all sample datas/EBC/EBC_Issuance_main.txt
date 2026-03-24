@@ -1,0 +1,29 @@
+
+DOCUMENTARY COLLECTION - COLLECTION INSTRUCTION
+--------------------------------------------------------------------------------
+Remitting Bank: JPMorgan Chase Bank, New York
+Collecting Bank: HSBC Bank Middle East, Dubai
+Collection No.: CHAS-NEW-2025-273614
+Date: 19-Aug-2025
+Rules: URC 522
+
+Drawer/Seller: Brazilian Coffee Exporters SA, Av. Paulista 1578, São Paulo, SP 01310-200
+Drawee/Buyer: London Trading House Ltd, 25 Old Broad Street, London EC2N 1HQ
+
+Amount: USD 227,953.66
+Terms: D/P (Documents against Payment)
+
+Documents Enclosed:
+1. Commercial Invoice
+2. Bill of Lading (3 originals)
+3. Insurance Certificate
+4. Packing List
+5. Certificate of Origin
+
+Instructions:
+- Present documents to drawee for payment/acceptance
+- Do not deliver documents without payment/acceptance
+- Advise fate of collection immediately
+
+Remitting Bank: _______________________
+--------------------------------------------------------------------------------

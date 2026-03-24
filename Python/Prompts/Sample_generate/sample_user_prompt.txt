@@ -1,0 +1,7 @@
+Generate a detailed {instrument_code} application for {lifecycle_code} stage.
+
+Instrument: {instrument_code} - {instrument_desc}
+Lifecycle: {lifecycle_code} - {lifecycle_desc}
+Variation: {variation_code or 'Standard'}
+
+Make it realistic with specific details.

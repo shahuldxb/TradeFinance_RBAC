@@ -1,0 +1,9 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+ilc.txt,Bill Of Exchange.txt,LC Number,ILCAE00221000098,CA21001978,Discrepancy,High
+ilc.txt,Bill Of Lading.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+ilc.txt,Cites Permit Certificate.txt,Invoice Number,B7WE-20-5130-X,B7WE-20-5130-X,Match,Low
+ilc.txt,Commercial Invoice.txt,Invoice Number,B7WE-20-5130-X,B7WE-20-5130-X,Match,Low
+ilc.txt,Export Import License.txt,Insurance Policy Number,Not Specified,121-MBKA215040,Discrepancy,Medium
+ilc.txt,Non Preferential Certificate.txt,Invoice Number,B7WE-20-5130-X,B7WE-20-5130-X,Match,Low
+ilc.txt,Packing List.txt,Invoice Number,B7WE-20-5130-X,B7WE-20-5130-X,Match,Low
+ilc.txt,Unknown.txt,LC Number,ILCAE00221000098,ILCAE00221000098,Match,Low

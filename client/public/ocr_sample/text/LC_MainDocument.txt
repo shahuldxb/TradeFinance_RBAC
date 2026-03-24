@@ -1,0 +1,89 @@
+=== MT FORMAT ===
+:27:1/1
+:40A:IRREVOCABLE
+:20:LC202601206084
+:31C:20260120
+:40E:UCP LATEST VERSION
+:31D:20260428 Australia
+:50:Deutsche Handels GmbH Industriestraße 42, 80939 Munich Germany
+:59:Tokyo Industries Co Ltd
+1-1 Marunouchi, Chiyoda-ku, Tokyo Japan
+:32B:USD149,300.62
+:39A:5/5
+:41A:EABORUAE
+:42C:DRAFTS AT SIGHT
+:42D:BKCHCNBJ
+:43P:ALLOWED
+:43T:ALLOWED
+:44A:Yokohama
+:44E:Sydney
+:44F:Australia
+:44C:20260330
+:45A:High quality textiles as per contract specifications QUANTITY: 2280 KGS
+UNIT PRICE: USD 65.48
+:46A:+SIGNED COMMERCIAL INVOICE IN 3 ORIGINALS
++FULL SET OF CLEAN ON BOARD BILLS OF LADING
++PACKING LIST IN 3 COPIES
++CERTIFICATE OF ORIGIN
++INSURANCE CERTIFICATE
+:47A:+ALL DOCUMENTS MUST INDICATE LC NUMBER
++DOCUMENTS MUST BE PRESENTED WITHIN 21 DAYS
+:71B:ALL BANKING CHARGES OUTSIDE ISSUING BANK ARE FOR BENEFICIARY
+:48:21
+:49:CONFIRM
+
+=== VERBOSE FORMAT ===
+
+==================================================================
+==============
+IMPORT LETTER OF CREDIT
+==================================================================
+==============
+
+DOCUMENT REFERENCE: LC202601206084 ISSUE DATE: 2026-01-20
+EXPIRY DATE: 2026-04-28
+
+
+PARTIES INVOLVED
+ 
+
+APPLICANT (Buyer):
+Name:	Deutsche Handels GmbH Address: Industriestraße 42, 80939 Munich Country: Germany
+BENEFICIARY (Seller):
+Name:	Tokyo Industries Co Ltd
+Address: 1-1 Marunouchi, Chiyoda-ku, Tokyo Country: Japan
+
+ISSUING BANK:
+Name:	Bank of China SWIFT: BKCHCNBJ
+Address: 1 Fuxingmen Nei Dajie, Beijing 100818
+
+ADVISING BANK:
+Name:	Emirates NBD SWIFT: EABORUAE
+Address: Baniyas Road, Deira, Dubai
+
+
+FINANCIAL DETAILS
+
+
+AMOUNT:	USD 149,300.62
+TOLERANCE:	+/- 5% PAYMENT TERMS: At Sight
+
+
+GOODS DESCRIPTION
+
+
+DESCRIPTION:		High quality textiles as per contract specifications QUANTITY:	2280 KGS
+UNIT PRICE:	USD 65.48 TOTAL VALUE:		USD 149,300.62
+
+
+SHIPPING DETAILS
+
+
+PORT OF LOADING:	Yokohama PORT OF DISCHARGE: Sydney COUNTRY OF ORIGIN: Japan
+COUNTRY OF DEST:	Australia INCOTERMS:	CIF
+LATEST SHIPMENT:		2026-03-30 PARTIAL SHIPMENT:			ALLOWED TRANSSHIPMENT:	ALLOWED
+
+
+REQUIRED DOCUMENTS
+ 
+ 

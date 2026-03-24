@@ -1,0 +1,10 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+ilc.txt,Document 11.txt,Gross Weight,"4,200.00 kg","4,198.00 kg",Gross weight discrepancy in packing list.
+ilc.txt,Document 11.txt,Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy in packing list.
+ilc.txt,Document 13.txt,Goods Description,"Knitted cotton T‑shirts, 100% cotton","Knitted T‑shirts, 97% cotton / 3% elastane (short sleeve, crew neck)",Goods description does not match.
+ilc.txt,Document 13.txt,Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy in commercial invoice.
+ilc.txt,Document 4.txt,Coverage Clauses,"Institute Cargo Clauses (C), Institute War Clauses (Cargo), Institute Strikes, Riots and Civil Commotions (Cargo)","Institute Cargo Clauses (A), Institute War Clauses (Cargo), Institute Strikes, Riots & Civil Commotions (Cargo)",Insurance coverage clause discrepancy.
+ilc.txt,Document 4.txt,Claims Payable Location,Vietnam,"Dubai, United Arab Emirates",Claims payable location discrepancy in insurance certificate.
+ilc.txt,Document 8.txt,Port of Discharge,"Cat Lai Terminal, Ho Chi Minh City, Vietnam","Ho Chi Minh City, Vietnam",Port of discharge does not match exactly.
+ilc.txt,Document 8.txt,On Board Date,Not later than 25-Sep-2025,26-Sep-2025,On board date exceeds the latest shipment date.
+ilc.txt,Document 2.txt,Buyer Specification,VGE/KT-2025-09,VGE/KT-2025-09 (Rev A),Buyer specification includes an additional revision detail not mentioned in LC.

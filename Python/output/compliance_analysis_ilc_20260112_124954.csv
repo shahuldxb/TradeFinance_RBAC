@@ -1,0 +1,14 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Gross Weight,Not specified,"6,552.00 KGS",Gross weight is not mentioned in the LC but appears in the Bill of Lading.
+Letter of Credit,Bill of Lading,Notify Party,Not specified,Deutsche Handels GmbH,Notify party is not mentioned in the LC but appears in the Bill of Lading.
+Letter of Credit,Bill of Lading,Freight Details,Not specified,PREPAID,Freight details are not mentioned in the LC but appear in the Bill of Lading.
+Letter of Credit,Certificate of Origin,HS Code,Not specified,As per commercial invoice,HS Code is not mentioned in the LC but appears in the Certificate of Origin.
+Letter of Credit,Insurance Certificate,Insured Value,Not specified,"USD 265,068.38",Insured value is not mentioned in the LC but appears in the Insurance Certificate.
+Letter of Credit,Insurance Certificate,Insurance Company Address,Not specified,"Lloyd's Building, London EC3M 7HA",Insurance company address is not mentioned in the LC but appears in the Insurance Certificate.
+Letter of Credit,Packing List,Gross Weight,Not specified,"6,552.00 KGS",Gross weight is not mentioned in the LC but appears in the Packing List.
+Letter of Credit,Packing List,Package Details,Not specified,"62 packages, Wooden crates / Cartons",Package details are not mentioned in the LC but appear in the Packing List.
+Letter of Credit,Packing List,Dimensions,Not specified,Standard export packing,Dimensions are not mentioned in the LC but appear in the Packing List.
+Letter of Credit,Quality Certificate,Batch Number,Not specified,BATCH-928671,Batch number is not mentioned in the LC but appears in the Quality Certificate.
+Letter of Credit,Quality Certificate,Production Date,Not specified,2025-12-13,Production date is not mentioned in the LC but appears in the Quality Certificate.
+Letter of Credit,Quality Certificate,Compliance,Not specified,ISO 9001:2015 certified,Compliance details are not mentioned in the LC but appear in the Quality Certificate.
+Letter of Credit,Quality Certificate,Test Results,Not specified,PASSED,Test results are not mentioned in the LC but appear in the Quality Certificate.

@@ -1,0 +1,15 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+LC,Document 1.txt,Contract Number,N/A,WTG-2024-011,Missing contract number in LC.
+LC,Document 1.txt,Contract Value,"USD 550,000.00","EUR 550,000.00",Currency mismatch between LC and contract.
+LC,Document 1.txt,Delivery Schedule,"June 30, 2024","December 15, 2024",Delivery date mismatch.
+LC,Document 3.txt,Invoice Number,N/A,API-7789,Missing invoice number in LC.
+LC,Document 3.txt,Invoice Date,N/A,"April 08, 2024",Missing invoice date in LC.
+LC,Document 3.txt,Advance Amount,N/A,"EUR 55,000.00",Missing advance amount in LC.
+LC,Document 5.txt,Bank Advice Reference,N/A,MT103-APG-45621,Missing bank advice reference in LC.
+LC,Document 5.txt,Amount Credited,N/A,"EUR 50,000.00",Missing credited amount in LC.
+LC,Document 5.txt,Payment Reference,N/A,Advance payment under Contract No. WTG-2024-010,Payment reference mismatch.
+LC,Document 7.txt,Certificate Reference,N/A,RC-APG-002,Missing certificate reference in LC.
+LC,Document 7.txt,Certified Delivery,N/A,Delivery of 3 units of Wind Turbine Generators,Missing delivery details in LC.
+LC,Document 7.txt,Certified Value,N/A,"EUR 330,000.00",Missing certified value in LC.
+LC,Document 7.txt,Requested Reduction Amount,N/A,"EUR 30,000.00",Missing reduction amount in LC.
+LC,Document 7.txt,Remaining Guarantee Amount,N/A,"EUR 20,000.00",Missing guarantee amount in LC.

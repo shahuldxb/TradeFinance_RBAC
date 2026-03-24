@@ -1,0 +1,15 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Bill of Lading,Date of Issue,2026-05-28,28 May 2026,Date format mismatch,Low
+LC,Certificate of Origin,Country of Origin,China,Japan,Incorrect country of origin,High
+LC,Quality Certificate,Date of Issue,N/A,"February 15, 2026",Quality Certificate issued before shipment date,High
+LC,Quality Certificate,Inspection Date,N/A,"February 10, 2026",Inspection date before shipment date,High
+LC,Insurance Certificate,Total Insured Value,"USD 404,044.41","USD 404,044.41 + 10%",Extra value added to insured amount,Medium
+LC,Packing List,Number of Packages,N/A,5,Missing number of packages in LC,Medium
+LC,Packing List,Type of Packaging,N/A,Standard export packaging suitable for electronics,Missing packaging details in LC,Medium
+LC,Bill of Lading,Gross Weight,N/A,(Weight details to be provided by shipper as per actual shipment),Missing gross weight details,Medium
+LC,Packing List,Gross Weight,N/A,[Weight to be confirmed],Missing gross weight details,Medium
+LC,Packing List,Net Weight,N/A,[Weight to be confirmed],Missing net weight details,Medium
+LC,Packing List,Dimensions,N/A,[Dimensions to be confirmed],Missing dimensions details,Medium
+LC,Quality Certificate,Certificate Number,N/A,QC-TIC-20260122,Missing certificate number in LC,Low
+LC,Quality Certificate,Inspection Location,N/A,"Shanghai, China",Missing inspection location in LC,Low
+LC,Quality Certificate,Certification Statement,N/A,Goods conform to contract specifications,Missing certification statement in LC,Low

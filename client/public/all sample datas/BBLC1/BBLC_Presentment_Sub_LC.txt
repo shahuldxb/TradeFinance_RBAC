@@ -1,0 +1,123 @@
+EXPORT LETTER OF CREDIT (SIGHT) - SUB LC (BACK-TO-BACK)
+--------------------------------------------------------------------------------
+
+Issuing Bank: BNP Paribas
+                Paris, France
+                SWIFT: BNPAFRPP
+
+Advising Bank: Bank of China
+
+Sub LC Number: CITI-SUB-DUB-SUB-2025-SUB-472884
+Master LC Reference: CITI-DUB-2025-472884
+Date of Issue: 06-Aug-2025
+Date and Place of Expiry: 28-Sep-2025 at India
+
+Applicable Rules: UCP 600 (ICC Publication No. 600), ISBP 821
+
+Applicant (Intermediary/Trader):
+Singapore Commodities Pte Ltd
+1 Marina Boulevard, #20-01, Singapore 018989
+Singapore
+
+Beneficiary (Actual Supplier):
+Mumbai Textiles Pvt Ltd
+Andheri East, Mumbai 400069, Maharashtra
+India
+
+Amount: USD 318,051.39
+Tolerance: +10/-10%
+
+Available with: BNP Paribas by sight payment
+
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Loading on Board/Dispatch/Taking in Charge at/from: Mumbai (JNPT), India
+For Transportation to: Singapore
+Latest Date of Shipment: 20-Sep-2025
+
+Incoterms: EXW Mumbai (JNPT) (Incoterms® 2020)
+
+Description of Goods:
+Pharmaceutical Tablets
+GMP certified, blister pack, 100 tablets per bottle
+HS Code: 3004.90
+Quantity: 10714 bottles
+Unit Price: USD 29.69 per bottles
+Total Amount: USD 318,051.39
+Packing: cartons
+Gross Weight: Approximately 2496.44 kg
+Net Weight: Approximately 2371.62 kg
+Country of Origin: India
+
+Documents Required:
+
+1. COMMERCIAL INVOICE
+   - Signed commercial invoice in 1 original and 2 copies
+   - Issued by beneficiary
+   - Showing LC number CITI-SUB-DUB-SUB-2025-SUB-472884
+   - Showing buyer as Singapore Commodities Pte Ltd
+
+2. BILL OF LADING
+   - Full set (3/3) of clean on board ocean bills of lading
+   - Made out to order of BNP Paribas
+   - Marked "Freight Collect"
+   - Notify: Singapore Commodities Pte Ltd
+   - Showing LC number CITI-SUB-DUB-SUB-2025-SUB-472884
+
+3. INSURANCE DOCUMENT
+   - Insurance policy or certificate for 110% of invoice value
+   - Covering Institute Cargo Clauses (C), War and SRCC
+   - Claims payable in Singapore
+   - Showing LC number CITI-SUB-DUB-SUB-2025-SUB-472884
+
+4. PACKING LIST
+   - Packing list in 1 original and 2 copies
+   - Showing LC number CITI-SUB-DUB-SUB-2025-SUB-472884
+   - Showing gross and net weights
+
+5. QUALITY CERTIFICATE
+   - Quality certificate issued by beneficiary or manufacturer
+   - Showing LC number CITI-SUB-DUB-SUB-2025-SUB-472884
+   - Certifying goods meet specifications
+
+6. CERTIFICATE OF ORIGIN
+   - Certificate of Origin issued by Chamber of Commerce
+   - Showing country of origin as India
+   - Showing LC number CITI-SUB-DUB-SUB-2025-SUB-472884
+
+Additional Conditions:
+- All documents must be presented within 21 days after the date of shipment but within the validity of the credit
+- All documents must quote LC number CITI-SUB-DUB-SUB-2025-SUB-472884
+- Documents with discrepancies will be held at applicant's risk pending authorization
+- All banking charges outside France are for beneficiary's account
+
+Special Instructions:
+This Sub LC is issued back-to-back against Master LC CITI-DUB-2025-472884. Documents presented under this Sub LC will be used by the intermediary to claim under the Master LC after document substitution.
+
+Confirmation: Without
+
+Reimbursement:
+Claim reimbursement from BNP Paribas by SWIFT
+
+Period for Presentation: 21 days after shipment date but within LC validity
+
+--------------------------------------------------------------------------------
+BACK-TO-BACK LC RELATIONSHIP:
+Master LC No.: CITI-DUB-2025-472884
+Master LC Amount: USD 374,178.11
+Sub LC Amount: USD 318,051.39
+Intermediary Margin: USD 56,126.72 (15.0%)
+
+Master LC Expiry: 08-Oct-2025
+Sub LC Expiry: 28-Sep-2025
+Time Gap: 10 days
+
+Master LC Shipment: 27-Sep-2025
+Sub LC Shipment: 20-Sep-2025
+Time Gap: 7 days
+--------------------------------------------------------------------------------
+
+Authorized Signature
+BNP Paribas
+--------------------------------------------------------------------------------

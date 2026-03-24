@@ -1,0 +1,35 @@
+
+GUARANTEE APPLICATION
+--------------------------------------------------------------------------------
+From: Singapore Commodities Pte Ltd
+To: Barclays Bank PLC
+Date: 02-Aug-2025
+
+We request issuance of PG with following details:
+
+Beneficiary: European Machinery GmbH
+Amount: USD 212,234.01
+Validity: 10-Apr-2026
+Contract: CONT-2025-4656
+
+Applicant: _______________________
+--------------------------------------------------------------------------------
+
+
+UNDERLYING CONTRACT (EXCERPT)
+--------------------------------------------------------------------------------
+Contract No.: CONT-2025-4656
+Date: 19-Jul-2025
+
+Contractor: Singapore Commodities Pte Ltd
+Employer: European Machinery GmbH
+
+Contract Value: USD 2,855,086.93
+Scope: Supply and installation of equipment
+
+Payment Terms: 30% advance, 60% on delivery, 10% retention
+
+Guarantee Requirement: PG for 7% of contract value
+
+Parties: _______________________
+--------------------------------------------------------------------------------

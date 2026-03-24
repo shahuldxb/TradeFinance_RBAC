@@ -1,0 +1,17 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+Letter of Credit,Bill of Exchange,Documentary Credit Number,ILCAE00221000098,CA21001978,Incorrect LC number,High
+Letter of Credit,Bill of Exchange,Amount,"USD 60,465.00","USD 60, 465. 00",Formatting issue in amount,Low
+Letter of Credit,Bill of Exchange,B/L Date,210726,"JUL 1, 2021",Mismatch in B/L date,High
+Letter of Credit,Bill of Exchange,Due Date,Not specified,"DEC 28, 2021",Due date not mentioned in LC,Medium
+Letter of Credit,Bill of Lading,Port of Loading,ANY SEAPORT IN JAPAN,"YOKOHAMA, JAPAN","Specific port not matching ""ANY SEAPORT""",Medium
+Letter of Credit,Bill of Lading,Port of Discharge,"ANY SEAPORT IN ABU DHABI, UAE",ABU DHABI SEAPORT,"Specific port not matching ""ANY SEAPORT""",Medium
+Letter of Credit,Bill of Lading,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,"KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES, HS CODE 3808.91-00",Extra information (HS Code),Low
+Letter of Credit,Bill of Lading,Batch Number,Not specified,K21020UA,Missing batch number in LC,Medium
+Letter of Credit,Certificate of Weight,Manufacturing Date,Not specified,MAR. 2021,Missing manufacturing date in LC,Medium
+Letter of Credit,Certificate of Weight,Expiry Date,Not specified,FEB. 2024,Missing expiry date in LC,Medium
+Letter of Credit,Certificate of Weight,Batch Number,Not specified,K21020UA,Missing batch number in LC,Medium
+Letter of Credit,Commercial Invoice,Date of Issue,210429,2021/6/7,Mismatch in issue date,High
+Letter of Credit,Commercial Invoice,Amount,"USD 60,465.00","USD 60, 465. 00",Formatting issue in amount,Low
+Letter of Credit,Insurance Certificate,Amount Insured,Invoice + 10%,"USD 66,512.00",Amount insured not explicitly stated as invoice + 10%,Medium
+Letter of Credit,Insurance Certificate,Insurance Agent Address,Not specified,"INCHCAPE SHIPPING SERVICES (DUBAI), UAE",Missing insurance agent address in LC,Medium
+Letter of Credit,Insurance Certificate,Date of Issue,Not specified,"JUN. 29, 2021",Missing insurance certificate issue date in LC,Medium

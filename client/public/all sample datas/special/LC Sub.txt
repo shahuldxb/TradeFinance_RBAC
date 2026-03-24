@@ -1,0 +1,107 @@
+COMMERCIAL INVOICE
+--------------------------------------------------------------------------------
+Seller: Global Trading FZE, JAFZA South, Dubai, UAE
+Buyer: Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, Dist. 7, Ho Chi Minh City, Vietnam
+Invoice No.: INV-2025-0913
+Invoice Date: 20-Sep-2025
+LC No.: CITI-DXB-2025-001122
+Incoterms: CIF Ho Chi Minh City, Vietnam (Incoterms® 2020)
+Currency: USD
+
+Item: Knitted T‑shirts, 97% cotton / 3% elastane (short sleeve, crew neck)
+HS Code: 6109.10
+Quantity: 350 cartons (50 pcs/carton = 17,500 pcs)
+Unit Price: USD 7.34 / piece
+Merchandise Amount: USD 128,450.00
+Freight & Insurance: Included as per CIF
+Gross Weight: 4,200.00 kg
+Net Weight: 3,998.00 kg
+Country of Origin: U.A.E.
+Remarks: Banking charges outside UAE for applicant as per sales terms.
+Authorized Signatory: ______________________ (Global Trading FZE)
+--------------------------------------------------------------------------------
+
+
+PACKING LIST
+--------------------------------------------------------------------------------
+Exporter: Global Trading FZE, Dubai, UAE
+Consignee: Vietnam Garment Exporters Ltd., Ho Chi Minh City, Vietnam
+LC No.: CITI-DXB-2025-001122
+Packing List No.: PL-2025-0913
+Date: 20-Sep-2025
+
+Summary:
+- Total Pallets: 7
+- Cartons per Pallet: Pallets 1–6 = 50 cartons each; Pallet 7 = 49 cartons
+- Stated Total Cartons: 350
+- Gross Weight (stated total): 4,198.00 kg
+- Net Weight (stated total): 3,998.00 kg
+
+Detail (excerpt):
+- Pallet 1: Cartons 1–50 (50 ctns) — GW 600.00 kg / NW 571.00 kg
+- Pallet 2: Cartons 51–100 (50 ctns) — GW 600.00 kg / NW 571.00 kg
+- Pallet 3: Cartons 101–150 (50 ctns) — GW 600.00 kg / NW 571.00 kg
+- Pallet 4: Cartons 151–200 (50 ctns) — GW 600.00 kg / NW 571.00 kg
+- Pallet 5: Cartons 201–250 (50 ctns) — GW 600.00 kg / NW 571.00 kg
+- Pallet 6: Cartons 251–300 (50 ctns) — GW 600.00 kg / NW 571.00 kg
+- Pallet 7: Cartons 301–349 (49 ctns) — GW 598.00 kg / NW 572.00 kg
+
+Marks & Numbers: GT/VGE/0913/25
+Country of Origin: UAE
+--------------------------------------------------------------------------------
+
+
+BILL OF LADING 
+--------------------------------------------------------------------------------
+Shipper: Global Trading FZE, JAFZA South, Dubai, UAE
+Consignee: To Order of Citi Bank PJSC, Dubai
+Notify: Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, D7, Ho Chi Minh City, Vietnam
+B/L No.: CITI-DXB-2025-001122
+Vessel/Voyage: MV Ocean Star / VOY 078
+Place of Receipt: Jebel Ali Free Zone, UAE
+Port of Loading: Jebel Ali, UAE
+Port of Discharge: Ho Chi Minh City, Vietnam
+Place of Delivery: Cat Lai CY, Ho Chi Minh City, Vietnam
+Description of Goods: 350 cartons Knitted T‑shirts, HS 6109.10, GW 4,200.00 kg, NW 3,998.00 kg
+Freight Terms: Freight Prepaid
+No. of Originals: Three (3) originals issued
+Date of Issue: 21-Sep-2025
+On Board Notation: Shipped on Board 26-Sep-2025 at Jebel Ali
+Clean on Board: YES (no adverse clauses)
+For and on behalf of Carrier: ______________________
+--------------------------------------------------------------------------------
+
+
+INSURANCE CERTIFICATE
+--------------------------------------------------------------------------------
+Insurer: Dubai National Insurance Co. (DNIC), Dubai, UAE
+Policy/Certificate No.: DNIC-CIF-2025-0913
+Date of Issue: 20-Sep-2025
+Assured: To Order
+Endorsement: In blank
+LC No.: CITI-DXB-2025-001122
+
+Interest: Knitted T‑shirts — 350 cartons
+Voyage: Jebel Ali, UAE to Ho Chi Minh City, Vietnam
+Sum Insured: AED 471,000.00 (equivalent to 110% of invoice value)
+Coverage: Institute Cargo Clauses (A), Institute War Clauses (Cargo), Institute Strikes, Riots & Civil Commotions (Cargo)
+Claims Payable: Dubai, United Arab Emirates
+Remarks: Subject to policy terms and conditions
+Authorized Signatory (Insurer): ______________________
+--------------------------------------------------------------------------------
+
+
+QUALITY CERTIFICATE
+--------------------------------------------------------------------------------
+Issuer: Global Trading FZE — Quality Assurance Department
+Certificate No.: QC-2025-0913
+Date of Issue: 20-Sep-2025
+Buyer: Vietnam Garment Exporters Ltd., Ho Chi Minh City, Vietnam
+Buyer Specification: VGE/KT-2025-09 (Rev A)
+Product: Knitted cotton T‑shirts
+Fiber Content (tested): 100% cotton
+Sampling Plan: ISO 2859-1, AQL 2.5 (General Inspection Level II)
+Results: Visual QC passed; measurements within tolerance; colorfastness to washing 4–5
+Country of Origin: United Arab Emirates
+Authorized QA Manager: ______________________
+--------------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+EXPORT LETTER OF CREDIT (SIGHT)
+--------------------------------------------------------------------------------
+Issuing Bank: BNP Paribas, Paris, France
+Advising Bank: Emirates NBD, Dubai, UAE
+LC No.: BNPA-PAR-2025-873032
+Issue Date: 25-Sep-2025
+Expiry: 11-Nov-2025 at Dubai
+Rules: UCP 600, ISBP 821
+
+Applicant: Vietnam Garment Exporters Ltd., 45 Nguyen Van Linh, District 7, Ho Chi Minh City, Vietnam
+Beneficiary: Shanghai Electronics Co. Ltd., Building 12, Pudong Industrial Park, Shanghai, China
+
+Amount: USD 252,536.44
+Tolerance: +10/-10%
+Incoterms: FOB Hai Phong (Incoterms® 2020)
+Shipment: From Shenzhen to Hai Phong
+Latest Shipment: 24-Oct-2025
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Goods:
+Steel Reinforcement Bars - Grade 60, diameter 12-32mm, length 12m
+HS Code: 7214.20
+Quantity: 338 metric tons
+GW: 389.46 kg, NW: 338.00 kg
+Origin: China
+
+Documents Required:
+1. Commercial Invoice (1 original + 2 copies) quoting LC number
+2. Full set 3/3 clean on board B/L to order of Issuing Bank, notify Applicant, freight prepaid
+3. Insurance for 110% CIC (C), War, SRCC, claims in Vietnam
+4. Packing List quoting LC number
+5. Quality Certificate quoting LC number
+6. Certificate of Origin by Chamber of Commerce
+7. All documents must quote LC BNPA-PAR-2025-873032
+
+Presentation: Within 21 days after shipment, within LC validity
+--------------------------------------------------------------------------------

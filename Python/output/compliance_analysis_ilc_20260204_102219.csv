@@ -1,0 +1,34 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+Letter of Credit (LC),Bill of Exchange,L/C Number,ILCAE00221000098,CA21001978,L/C number mismatch,High
+Letter of Credit (LC),Bill of Exchange,Amount,"USD 60,465.00","USD 60, 465. 00",Formatting discrepancy in amount,Low
+Letter of Credit (LC),Bill of Exchange,B/L Date,Not specified,"JUL 1, 2021",Missing B/L date in LC,Medium
+Letter of Credit (LC),Bill of Exchange,Due Date,Not specified,"DEC 28, 2021",Missing due date in LC,Medium
+Letter of Credit (LC),Bill of Lading,Port of Loading,ANY SEAPORT IN JAPAN,"YOKOHAMA, JAPAN","Specific port of loading not matching ""ANY SEAPORT IN JAPAN""",Medium
+Letter of Credit (LC),Bill of Lading,Port of Discharge,"ANY SEAPORT IN ABU DHABI, UAE",ABU DHABI SEAPORT,"Specific port of discharge not matching ""ANY SEAPORT IN ABU DHABI, UAE""",Medium
+Letter of Credit (LC),Bill of Lading,Notify Party Address,"PO BOX 1297, AL AIN, UAE","P.O BOX 1297, ALAIN, UAE",Formatting discrepancy in notify party address,Low
+Letter of Credit (LC),Bill of Lading,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES.,Extra period in description of goods,Low
+Letter of Credit (LC),Bill of Lading,Batch Number,Not specified,K21020UA,Missing batch number in LC,Medium
+Letter of Credit (LC),Bill of Lading,Manufacturing Date,Not specified,MAR. 2021,Missing manufacturing date in LC,Medium
+Letter of Credit (LC),Bill of Lading,Expiry Date,Not specified,FEB. 2024,Missing expiry date in LC,Medium
+Letter of Credit (LC),Commercial Invoice,Date of Issue,210429,2021/6/7,Date of issue mismatch,High
+Letter of Credit (LC),Commercial Invoice,Amount,"USD 60,465.00","USD 60, 465. 00",Formatting discrepancy in amount,Low
+Letter of Credit (LC),Commercial Invoice,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 ₺ (PACKING -500ML) PESTICIDES,"Discrepancy in goods description (""₺"" instead of ""L"")",High
+Letter of Credit (LC),Commercial Invoice,Batch Number,Not specified,K21020UA,Missing batch number in LC,Medium
+Letter of Credit (LC),Commercial Invoice,Manufacturing Date,Not specified,MAR. 2021,Missing manufacturing date in LC,Medium
+Letter of Credit (LC),Commercial Invoice,Expiry Date,Not specified,FEB. 2024,Missing expiry date in LC,Medium
+Letter of Credit (LC),Packing List,Date of Issue,210429,2021/6/7,Date of issue mismatch,High
+Letter of Credit (LC),Packing List,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES.,Extra period in description of goods,Low
+Letter of Credit (LC),Packing List,Batch Number,Not specified,K21020UA,Missing batch number in LC,Medium
+Letter of Credit (LC),Packing List,Manufacturing Date,Not specified,MAR. 2021,Missing manufacturing date in LC,Medium
+Letter of Credit (LC),Packing List,Expiry Date,Not specified,FEB. 2024,Missing expiry date in LC,Medium
+Letter of Credit (LC),Certificate of Origin,Date of Issue,Not specified,2021/07/01,Missing date of issue in LC,Medium
+Letter of Credit (LC),Certificate of Origin,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES.,Extra period in description of goods,Low
+Letter of Credit (LC),Certificate of Origin,Batch Number,Not specified,K21020UA,Missing batch number in LC,Medium
+Letter of Credit (LC),Certificate of Origin,Manufacturing Date,Not specified,MAR. 2021,Missing manufacturing date in LC,Medium
+Letter of Credit (LC),Certificate of Origin,Expiry Date,Not specified,FEB. 2024,Missing expiry date in LC,Medium
+Letter of Credit (LC),Insurance Certificate,Amount Insured,Invoice + 10%,"USD 66,512.00",Amount insured does not match LC requirement (Invoice + 10%),High
+Letter of Credit (LC),Insurance Certificate,Date of Issue,Not specified,"JUN. 29, 2021",Missing date of issue in LC,Medium
+Letter of Credit (LC),Insurance Certificate,Description of Goods,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES,KANEMITE SC-1500 L (PACKING -500ML) PESTICIDES.,Extra period in description of goods,Low
+Letter of Credit (LC),Insurance Certificate,Batch Number,Not specified,K21020UA,Missing batch number in LC,Medium
+Letter of Credit (LC),Insurance Certificate,Manufacturing Date,Not specified,MAR. 2021,Missing manufacturing date in LC,Medium
+Letter of Credit (LC),Insurance Certificate,Expiry Date,Not specified,FEB. 2024,Missing expiry date in LC,Medium

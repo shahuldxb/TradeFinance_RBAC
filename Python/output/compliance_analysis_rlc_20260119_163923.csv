@@ -1,0 +1,15 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,Vessel Name,[Not Specified],[Insert Vessel Name],Missing vessel name in Bill of Lading.
+Letter of Credit,Bill of Lading,Voyage Number,[Not Specified],[Insert Voyage Number],Missing voyage number in Bill of Lading.
+Letter of Credit,Bill of Lading,Gross Weight,[Not Specified],[Insert Gross Weight],Missing gross weight in Bill of Lading.
+Letter of Credit,Bill of Lading,Measurement,[Not Specified],[Insert Measurement],Missing measurement in Bill of Lading.
+Letter of Credit,Bill of Lading,Carrier Name,[Not Specified],[Insert Carrier Name],Missing carrier name in Bill of Lading.
+Letter of Credit,Bill of Lading,Carrier's Agent,[Not Specified],[Insert Carrier's Agent Name],Missing carrier's agent name in Bill of Lading.
+Letter of Credit,Bill of Lading,Marks and Numbers,[Not Specified],[Insert Shipping Marks and Numbers],Missing shipping marks and numbers in Bill of Lading.
+Letter of Credit,Commercial Invoice,Beneficiary Name,Deutsche Handels GmbH,Shanghai Import Export Co.,Incorrect beneficiary name in Commercial Invoice.
+Letter of Credit,Commercial Invoice,Applicant Name,Shanghai Import Export Co.,Deutsche Handels GmbH,Incorrect applicant name in Commercial Invoice.
+Letter of Credit,Quality Certificate,Date of Issue,[Not Specified],"April 25, 2026",Quality Certificate issue date is missing in LC.
+Letter of Credit,Quality Certificate,Inspection Date,[Not Specified],"April 25, 2026",Inspection date is missing in LC.
+Letter of Credit,Quality Certificate,Inspection Location,[Not Specified],Penang,Inspection location is missing in LC.
+Letter of Credit,Quality Certificate,Testing Standards,[Not Specified],As per contract specifications,Testing standards are missing in LC.
+Letter of Credit,Quality Certificate,Certification Details,[Not Specified],"Meet required quality standards, free from defects, packed appropriately",Certification details are missing in LC.

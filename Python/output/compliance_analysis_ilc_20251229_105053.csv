@@ -1,0 +1,11 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Bill of Lading (Document 2.txt),Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy.
+Letter of Credit (LC),Bill of Lading (Document 2.txt),Shipped on Board Date,Not later than 25-Sep-2025,26-Sep-2025,Shipped on board date exceeds the latest shipment date.
+Letter of Credit (LC),Insurance Certificate (Document 13.txt),Claims Payable,Vietnam,"Dubai, United Arab Emirates",Claims payable location mismatch.
+Letter of Credit (LC),Insurance Certificate (Document 13.txt),Coverage Clauses,Institute Cargo Clauses (C),Institute Cargo Clauses (A),Coverage clause discrepancy.
+Letter of Credit (LC),Insurance Certificate (Document 13.txt),Sum Insured,"USD 141,295.00 (110% of invoice value)","AED 471,000.00",Currency mismatch and incorrect sum insured.
+Letter of Credit (LC),Commercial Invoice (Document 5.txt),Goods Description,100% cotton,97% cotton / 3% elastane,Goods description discrepancy.
+Letter of Credit (LC),Commercial Invoice (Document 5.txt),Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy.
+Letter of Credit (LC),Packing List (Document 8.txt),Gross Weight,"4,200.00 kg","4,198.00 kg",Gross weight discrepancy.
+Letter of Credit (LC),Packing List (Document 8.txt),Net Weight,"4,000.00 kg","3,998.00 kg",Net weight discrepancy.
+Letter of Credit (LC),Quality Certificate (Document 11.txt),Buyer Specification,VGE/KT-2025-09,VGE/KT-2025-09 (Rev A),Buyer specification revision mismatch.

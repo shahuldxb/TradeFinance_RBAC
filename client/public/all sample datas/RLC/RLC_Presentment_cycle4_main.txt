@@ -1,0 +1,38 @@
+EXPORT LETTER OF CREDIT (SIGHT)
+--------------------------------------------------------------------------------
+Issuing Bank: Citi Bank PJSC, Dubai, UAE
+Advising Bank: Barclays Bank PLC, London, UK
+LC No.: CITI-DUB-2025-111805
+Issue Date: 01-Oct-2025
+Expiry: 12-Dec-2025 at London
+Rules: UCP 600, ISBP 821
+
+Applicant: Singapore Commodities Pte Ltd, 1 Marina Boulevard, #20-01, Singapore 018989, Singapore
+Beneficiary: Mumbai Textiles Pvt Ltd, Andheri East, Mumbai 400069, Maharashtra, India
+
+Amount: USD 83,598.13
+Tolerance: +10/-10%
+Incoterms: FOB Singapore Port (Incoterms® 2020)
+Shipment: From Mumbai (JNPT) to Singapore Port
+Latest Shipment: 25-Nov-2025
+Partial Shipments: Not Allowed
+Transshipment: Allowed
+
+Goods:
+Steel Reinforcement Bars - Grade 60, diameter 12-32mm, length 12m
+HS Code: 7214.20
+Quantity: 124 metric tons
+GW: 139.51 kg, NW: 124.00 kg
+Origin: India
+
+Documents Required:
+1. Commercial Invoice (1 original + 2 copies) quoting LC number
+2. Full set 3/3 clean on board B/L to order of Issuing Bank, notify Applicant, freight prepaid
+3. Insurance for 110% CIC (C), War, SRCC, claims in Singapore
+4. Packing List quoting LC number
+5. Quality Certificate quoting LC number
+6. Certificate of Origin by Chamber of Commerce
+7. All documents must quote LC CITI-DUB-2025-111805
+
+Presentation: Within 21 days after shipment, within LC validity
+--------------------------------------------------------------------------------

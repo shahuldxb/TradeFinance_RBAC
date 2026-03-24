@@ -1,0 +1,19 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit,Bill of Lading,LC Reference Number,LC-2024-001234,LC202601135541,LC reference number mismatch.
+Letter of Credit,Bill of Lading,Date of Issue,2024-01-15,26 May 2026,Date of issue mismatch.
+Letter of Credit,Bill of Lading,Port of Discharge,Shanghai,"Mumbai, India",Port of discharge mismatch.
+Letter of Credit,Bill of Lading,Place of Final Delivery,China,India,Final delivery location mismatch.
+Letter of Credit,Certificate of Origin,LC Reference Number,LC-2024-001234,LC202601135541,LC reference number mismatch.
+Letter of Credit,Certificate of Origin,Country of Origin,Germany,India,Country of origin mismatch.
+Letter of Credit,Certificate of Origin,Port of Discharge,Shanghai,"Mumbai, India",Port of discharge mismatch.
+Letter of Credit,Certificate of Origin,Date of Shipment,On or before 2024-06-30,On or before 20260526,Date of shipment mismatch.
+Letter of Credit,Insurance Certificate,LC Reference Number,LC-2024-001234,LC202601135541,LC reference number mismatch.
+Letter of Credit,Insurance Certificate,Total Insured Amount,"USD 550,000.00","USD 138,610.57",Insured amount mismatch.
+Letter of Credit,Insurance Certificate,Port of Discharge,Shanghai,Mumbai,Port of discharge mismatch.
+Letter of Credit,Packing List,LC Reference Number,LC-2024-001234,LC202601135541,LC reference number mismatch.
+Letter of Credit,Packing List,Total Value,"USD 550,000.00","USD 138,610.57",Total value mismatch.
+Letter of Credit,Packing List,Port of Discharge,Shanghai,Mumbai,Port of discharge mismatch.
+Letter of Credit,Quality Certificate,LC Reference Number,LC-2024-001234,LC202601135541,LC reference number mismatch.
+Letter of Credit,Quality Certificate,Expiry Date,2024-07-31,"June 15, 2026",Expiry date mismatch.
+Letter of Credit,Quality Certificate,Inspection Location,Not specified,"Mumbai, India",Inspection location not specified in LC.
+Letter of Credit,Quality Certificate,Inspection Date,Not specified,"June 13, 2026",Inspection date not specified in LC.

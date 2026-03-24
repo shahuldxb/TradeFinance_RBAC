@@ -1,0 +1,14 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue
+Letter of Credit (LC),Bill of Lading (Document 2.txt),Port of Discharge,"Cat Lai Terminal, Ho Chi Minh City, Vietnam","Ho Chi Minh City, Vietnam","Port of Discharge is not specific; ""Cat Lai Terminal"" is missing."
+Letter of Credit (LC),Bill of Lading (Document 2.txt),Place of Delivery,Not specified in LC,"Cat Lai CY, Ho Chi Minh City, Vietnam",Place of Delivery is extra information not mentioned in LC.
+Letter of Credit (LC),Bill of Lading (Document 2.txt),Net Weight,"4,000.00 kg","3,998.00 kg",Net Weight discrepancy.
+Letter of Credit (LC),Bill of Lading (Document 2.txt),On Board Notation Date,Not later than 25-Sep-2025,26-Sep-2025,Shipment date exceeds the latest shipment date specified in LC.
+Letter of Credit (LC),Commercial Invoice (Document 5.txt),Goods Description,100% cotton,97% cotton / 3% elastane,Goods description does not match LC requirements.
+Letter of Credit (LC),Commercial Invoice (Document 5.txt),Net Weight,"4,000.00 kg","3,998.00 kg",Net Weight discrepancy.
+Letter of Credit (LC),Commercial Invoice (Document 5.txt),Remarks,Not specified in LC,Banking charges outside UAE for applicant as per sales terms,Extra information not mentioned in LC.
+Letter of Credit (LC),Packing List (Document 8.txt),Gross Weight,"4,200.00 kg","4,198.00 kg",Gross Weight discrepancy.
+Letter of Credit (LC),Packing List (Document 8.txt),Net Weight,"4,000.00 kg","3,998.00 kg",Net Weight discrepancy.
+Letter of Credit (LC),Packing List (Document 8.txt),Cartons per Pallet,Not specified in LC,Pallets 1–6 = 50 cartons each; Pallet 7 = 49 cartons,Detailed carton distribution is extra information not mentioned in LC.
+Letter of Credit (LC),Insurance Certificate (Document 13.txt),Coverage Clauses,"Institute Cargo Clauses (C), Institute War Clauses (Cargo), Institute Strikes, Riots and Civil Commotions (Cargo)","Institute Cargo Clauses (A), Institute War Clauses (Cargo), Institute Strikes, Riots & Civil Commotions (Cargo)","Coverage clause discrepancy; ""Institute Cargo Clauses (A)"" instead of ""(C)""."
+Letter of Credit (LC),Insurance Certificate (Document 13.txt),Claims Payable,Vietnam,"Dubai, United Arab Emirates",Claims payable location discrepancy.
+Letter of Credit (LC),Quality Certificate (Document 11.txt),Buyer Specification,VGE/KT-2025-09,VGE/KT-2025-09 (Rev A),"Buyer Specification includes ""Rev A"", which is not mentioned in LC."

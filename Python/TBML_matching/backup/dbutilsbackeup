@@ -1,0 +1,864 @@
+"""
+db_utils.py
+----------
+TBML Database utilities
+Aligned with sanctions dbutils (env based, logging, safe)
+"""
+
+import pyodbc
+import os
+from datetime import datetime
+from dotenv import load_dotenv
+import random, string
+
+
+load_dotenv()
+
+def log_message(message, log_type="INFO"):
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    print(f"[{timestamp}] [{log_type}] {message}")
+
+def get_db_connection():
+    """
+    Create SQL Server connection using .env
+    """
+    try:
+        conn = pyodbc.connect(
+            f"DRIVER={{ODBC Driver 17 for SQL Server}};"
+            f"SERVER={os.getenv('DB_SERVER')};"
+            f"DATABASE={os.getenv('DB_NAME')};"
+            f"UID={os.getenv('DB_USER')};"
+            f"PWD={os.getenv('DB_PASSWORD')};"
+            f"Timeout={os.getenv('DB_TIMEOUT', '30')};"
+        )
+        log_message("DB connection established", "SQL")
+        return conn
+    except Exception as e:
+        log_message(f"DB connection failed: {str(e)}", "ERROR")
+        raise
+
+
+
+def generate_transaction_no():
+    # Example: TXN-202512-LL9VJD
+    now = datetime.now()
+    date_part = now.strftime("%Y%m")
+    rand_part = ''.join(random.choices(string.ascii_uppercase + string.digits, k=6))
+    return f"TXN-{date_part}-{rand_part}"
+
+# def insert_trade_transaction(txn, user_id):
+#     conn = get_db_connection()
+#     cursor = conn.cursor()
+
+#     transaction_no = generate_transaction_no()
+
+#     query = """
+#     INSERT INTO TradeTransaction
+#     (
+#         transaction_no, ExporterName, ExporterCountry,
+#         ImporterName, ImporterCountry,
+#         TotalValue, Currency, ShippingRoute,
+#         UserID, CreatedAt
+#     )
+#     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, GETDATE())
+#     """
+
+#     cursor.execute(
+#         query,
+#         transaction_no,
+#         txn["exporter_name"],
+#         txn["exporter_country"],
+#         txn["importer_name"],
+#         txn["importer_country"],
+#         txn["total_value"],
+#         txn["currency"],
+#         txn["shipping_route"],
+#         user_id
+#     )
+
+#     conn.commit()
+#     conn.close()
+#     log_message(f"Inserted TradeTransaction {transaction_no}", "SQL")
+#     return transaction_no
+
+def insert_trade_transaction(txn, user_id):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    transaction_no = generate_transaction_no()
+
+    cursor.execute(
+        "EXEC sp_insert_trade_transaction ?,?,?,?,?,?,?,?,?",
+        transaction_no,
+        txn["exporter_name"],
+        txn["exporter_country"],
+        txn["importer_name"],
+        txn["importer_country"],
+        txn["total_value"],
+        txn["currency"],
+        txn["shipping_route"],
+        user_id
+    )
+
+    conn.commit()
+    conn.close()
+    return transaction_no
+
+
+# def insert_transaction_items(transaction_no, items, user_id):
+#     try:
+#         conn = get_db_connection()
+#         cursor = conn.cursor()
+
+#         query = """
+#         INSERT INTO TransactionItem
+#         (
+#             transaction_no,
+#             GoodCode,
+#             Description,
+#             Quantity,
+#             UnitPrice,
+#             UserID,
+#             CreatedAt
+#         )
+#         VALUES (?, ?, ?, ?, ?, ?, GETDATE())
+#         """
+
+#         for item in items:
+#             cursor.execute(
+#                 query,
+#                 transaction_no,
+#                 item["good_code"],
+#                 item["description"],
+#                 int(item["quantity"]),
+#                 float(item["unit_price"]),
+#                 user_id
+#             )
+
+#         conn.commit()
+#         conn.close()
+
+#         log_message(
+#             f"Inserted {len(items)} TransactionItem(s) for {transaction_no}",
+#             "SQL"
+#         )
+
+#     except Exception as e:
+#         log_message(f"Item insert failed: {str(e)}", "ERROR")
+#         raise
+
+def insert_transaction_items(transaction_no, items, user_id):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    for item in items:
+        cursor.execute(
+            "EXEC sp_insert_transaction_item ?,?,?,?,?,?",
+            transaction_no,
+            item["good_code"],
+            item["description"],
+            int(item["quantity"]),
+            float(item["unit_price"]),
+            user_id
+        )
+
+    conn.commit()
+    conn.close()
+
+
+
+# def fetch_watchlist():
+#     conn = get_db_connection()
+#     cursor = conn.cursor()
+
+#     cursor.execute("""
+#         SELECT Name, Address, Source
+#         FROM WatchlistEntry
+#         WHERE Status = 'Active'
+#     """)
+
+#     rows = cursor.fetchall()
+#     conn.close()
+
+#     return [
+#         {
+#             "name": r[0],
+#             "address": r[1],
+#             "source": r[2]
+#         }
+#         for r in rows
+#     ]
+def fetch_watchlist():
+    conn = get_db_connection()  # Your existing DB connection function
+    cursor = conn.cursor()
+
+    # Call the stored procedure
+    cursor.execute("EXEC sp_GetActiveWatchlist")
+    
+    rows = cursor.fetchall()
+    conn.close()
+
+    return [
+        {
+            "name": r[0],
+            "address": r[1],
+            "source": r[2]
+        }
+        for r in rows
+    ]
+# def fetch_controlled_goods():
+#     conn = get_db_connection()
+#     cursor = conn.cursor()
+
+#     cursor.execute("""
+#         SELECT ControlCode, Description, Category
+#         FROM ControlledGood
+#     """)
+
+#     rows = cursor.fetchall()
+#     conn.close()
+
+#     return [
+#         {
+#             "code": r[0],
+#             "description": r[1],
+#             "category": r[2]
+#         }
+#         for r in rows
+#     ]
+
+    # db_utils.py (ADD THIS)
+
+# def fetch_export_control_items():
+#     """
+#     Fetch only required columns for TBML goods analysis
+#     """
+#     conn = get_db_connection()
+#     cursor = conn.cursor()
+
+#     cursor.execute("""
+#         SELECT
+#             ItemID,
+#             SourceRegulation,
+#             ControlCode,
+#             ControlCodeNormalized,
+#             ItemDescription,
+#             ShortDescription,
+#             AlternativeNames,
+#             Keywords,
+#             CASNumber,
+#             Category,
+#             IsMilitary,
+#             IsDualUse,
+#             IsChemical,
+#             EndUseControl,
+#             CatchAllControl
+#         FROM ExportControlItems
+#         WHERE IsActive = 1
+#     """)
+
+#     rows = cursor.fetchall()
+#     conn.close()
+
+#     items = []
+#     for r in rows:
+#         items.append({
+#             "item_id": r[0],
+#             "source": r[1],
+#             "control_code": r[2],
+#             "control_code_norm": r[3],
+#             "description": r[4],
+#             "short_desc": r[5],
+#             "alt_names": r[6] or "",
+#             "keywords": r[7] or "",
+#             "cas": r[8],
+#             "category": r[9],
+#             "is_military": r[10],
+#             "is_dual_use": r[11],
+#             "is_chemical": r[12],
+#             "end_use": r[13],
+#             "catch_all": r[14]
+#         })
+
+#     print(f"[DB] Loaded {len(items)} ExportControlItems")
+#     return items
+def fetch_export_control_items():
+    """
+    Fetch only required columns for TBML goods analysis using stored procedure
+    """
+    items = []
+
+    try:
+        conn = get_db_connection()  # Your existing DB connection function
+        cursor = conn.cursor()
+        print("[DB] Calling stored procedure sp_GetActiveExportControlItems")
+
+        cursor.execute("EXEC sp_GetActiveExportControlItems")
+        rows = cursor.fetchall()
+
+        for r in rows:
+            items.append({
+                "item_id": r[0],
+                "source": r[1],
+                "control_code": r[2],
+                "control_code_norm": r[3],
+                "description": r[4],
+                "short_desc": r[5],
+                "alt_names": r[6] or "",
+                "keywords": r[7] or "",
+                "cas": r[8],
+                "category": r[9],
+                "is_military": r[10],
+                "is_dual_use": r[11],
+                "is_chemical": r[12],
+                "end_use": r[13],
+                "catch_all": r[14]
+            })
+
+        print(f"[DB] Loaded {len(items)} ExportControlItems")
+
+    except pyodbc.Error as e:
+        print(f"[DB][ERROR] {e}")
+    finally:
+        conn.close()
+        print("[DB] Connection closed")
+
+    return items
+
+# def insert_transaction_flags(transaction_no, flags, user_id):
+#     conn = get_db_connection()
+#     cursor = conn.cursor()
+
+#     query = """
+#     INSERT INTO TransactionFlag
+#     (
+#         transaction_no, FlagType,
+#         RuleName, RiskLevel,
+#         Reason, MatchedValue,
+#         Source, Score,
+#         TechniqueUsed, CreatedAt
+#     )
+#     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, GETDATE())
+#     """
+
+#     for f in flags:
+#         cursor.execute(
+#             query,
+#             transaction_no,
+#             f["FlagType"],
+#             f["RuleName"],
+#             f["RiskLevel"],
+#             f["Reason"],
+#             f["MatchedValue"],
+#             f["Source"],
+#             f["Score"],
+#             f["Technique"]
+#         )
+
+#     conn.commit()
+#     conn.close()
+#     log_message(f"Inserted {len(flags)} flags for {transaction_no}", "SQL")
+
+def insert_transaction_flags(transaction_no, flags, user_id):
+    try:
+        conn = get_db_connection()
+        cursor = conn.cursor()
+        print(f"[DB] Inserting {len(flags)} flags for transaction {transaction_no}")
+
+        for f in flags:
+            cursor.execute(
+                "EXEC sp_InsertTransactionFlag ?, ?, ?, ?, ?, ?, ?, ?, ?",
+                transaction_no,
+                f["FlagType"],
+                f["RuleName"],
+                f["RiskLevel"],
+                f["Reason"],
+                f["MatchedValue"],
+                f["Source"],
+                f["Score"],
+                f["Technique"]
+            )
+
+        conn.commit()
+        print(f"[DB] Successfully inserted {len(flags)} flags for {transaction_no}")
+
+    except pyodbc.Error as e:
+        print(f"[DB][ERROR] Failed to insert flags: {e}")
+
+    finally:
+        conn.close()
+        print("[DB] Connection closed")
+
+
+# def insert_watchlist_entry(data):
+#     conn = get_db_connection()
+#     cursor = conn.cursor()
+
+#     query = """
+#     INSERT INTO WatchlistEntry
+#     (
+#         EntryID, UserID, Source, EntityType,
+#         Name, NameNormalized, Aliases,
+#         Address, Nationality, DOB,
+#         Program, RiskLevel, Status,
+#         CreatedAt, UpdatedAt
+#     )
+#     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'Active', GETDATE(), GETDATE())
+#     """
+
+#     entry_id = random.randint(100000, 999999)
+
+#     cursor.execute(
+#         query,
+#         entry_id,
+#         data["user_id"],
+#         data["source"],
+#         data["entity_type"],
+#         data["name"],
+#         data["name"].lower().strip(),
+#         None,
+#         data.get("address"),
+#         data.get("nationality"),
+#         data.get("dob"),
+#         data.get("program"),
+#         data["risk_level"]
+#     )
+
+#     conn.commit()
+#     conn.close()
+
+#     log_message(f"Inserted WatchlistEntry {entry_id}", "SQL")
+
+
+# def insert_watchlist_entry(data):
+#     conn = get_db_connection()
+#     cursor = conn.cursor()
+
+#     query = """
+#     INSERT INTO WatchlistEntry
+#     (
+#         EntryID, UserID, Source, EntityType,
+#         Name, NameNormalized, Aliases,
+#         Address, Nationality, DOB,
+#         Program, RiskLevel, Status,
+#         CreatedAt, UpdatedAt
+#     )
+#     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'Active', GETDATE(), GETDATE())
+#     """
+
+#     entry_id = random.randint(100000, 999999)
+
+#     cursor.execute(
+#         query,
+#         entry_id,
+#         data["user_id"],
+#         data["source"],
+#         data["entity_type"],
+#         data["name"],
+#         data["name"].lower().strip(),
+#         data.get("aliases"),          # ✅ FIXED
+#         data.get("address"),
+#         data.get("nationality"),
+#         data.get("dob"),              # ✅ FIXED
+#         data.get("program"),
+#         data["risk_level"]
+#     )
+
+#     conn.commit()
+#     conn.close()
+
+#     log_message(f"Inserted WatchlistEntry {entry_id}", "SQL")
+
+def insert_watchlist_entry(data):
+    try:
+        conn = get_db_connection()
+        cursor = conn.cursor()
+
+        entry_id = random.randint(100000, 999999)
+        print(f"[DB] Inserting WatchlistEntry with EntryID {entry_id}")
+
+        cursor.execute(
+            """
+            EXEC sp_InsertWatchlistEntry ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+            """,
+            entry_id,
+            data["user_id"],
+            data["source"],
+            data["entity_type"],
+            data["name"],
+            data["name"].lower().strip(),
+            data.get("aliases"),
+            data.get("address"),
+            data.get("nationality"),
+            data.get("dob"),
+            data.get("program"),
+            data["risk_level"]
+        )
+
+        conn.commit()
+        print(f"[DB] Successfully inserted WatchlistEntry {entry_id}")
+
+    except pyodbc.Error as e:
+        print(f"[DB][ERROR] Failed to insert WatchlistEntry: {e}")
+
+    finally:
+        conn.close()
+        print("[DB] Connection closed")
+
+# def insert_controlled_good(data):
+#     conn = get_db_connection()
+#     cursor = conn.cursor()
+
+#     query = """
+#     INSERT INTO ControlledGood
+#     (
+#         GoodID, ControlCode, Description,
+#         Category, LicenseRequired,
+#         UserID, UpdatedAt
+#     )
+#     VALUES (?, ?, ?, ?, ?, ?, GETDATE())
+#     """
+
+#     good_id = random.randint(10000, 99999)
+
+#     cursor.execute(
+#         query,
+#         good_id,
+#         data["control_code"],
+#         data["description"],
+#         data["category"],
+#         int(data["license_required"]),
+#         data["user_id"]
+#     )
+
+#     conn.commit()
+#     conn.close()
+
+#     log_message(f"Inserted ControlledGood {good_id}", "SQL")
+
+
+
+# def insert_export_control_item(data: dict):
+#     conn = get_db_connection()
+#     cursor = conn.cursor()
+
+#     control_code_norm = data["control_code"].upper().replace(" ", "")
+
+#     cursor.execute("""
+#         INSERT INTO ExportControlItems
+#         (
+#             SourceRegulation,
+#             SourceCountry,
+#             RegulationVersion,
+#             ControlCode,
+#             ControlCodeNormalized,
+#             Category,
+#             SubCategory,
+#             ItemDescription,
+#             ShortDescription,
+#             AlternativeNames,
+#             Keywords,
+#             CASNumber,
+#             IsMilitary,
+#             IsDualUse,
+#             IsChemical,
+#             IsBiological,
+#             IsNuclear,
+#             IsMissile,
+#             EndUseControl,
+#             CatchAllControl,
+#             ControlReason,
+#             LicenseRequirement,
+#             CreatedDate,
+#             ModifiedDate,
+#             IsActive,
+#             DataQuality
+#         )
+#         VALUES
+#         (
+#             ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 
+#             GETDATE(), GETDATE(), 1, 'Manual'
+#         )
+#     """,
+#     data["source_regulation"],
+#     data.get("source_country"),
+#     data.get("regulation_version"),
+#     data["control_code"],
+#     control_code_norm,
+#     data.get("category"),
+#     data.get("sub_category"),
+#     data["item_description"],
+#     data.get("short_description"),
+#     data.get("alternative_names"),
+#     data.get("keywords"),
+#     data.get("cas_number"),
+#     int(data["is_military"]),
+#     int(data["is_dual_use"]),
+#     int(data["is_chemical"]),
+#     int(data["is_biological"]),
+#     int(data["is_nuclear"]),
+#     int(data["is_missile"]),
+#     int(data["end_use_control"]),
+#     int(data["catch_all_control"]),
+#     data.get("control_reason"),
+#     data.get("license_requirement")
+#     )
+
+#     conn.commit()
+#     conn.close()
+
+#     log_message(
+#         f"ExportControlItem added | Code={data['control_code']}",
+#         "SQL"
+#     )
+def insert_export_control_item(data: dict):
+    try:
+        conn = get_db_connection()
+        cursor = conn.cursor()
+
+        control_code_norm = data["control_code"].upper().replace(" ", "")
+        print(f"[DB] Inserting ExportControlItem with Code={data['control_code']}")
+
+        cursor.execute(
+            """
+            EXEC sp_InsertExportControlItem 
+                ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+            """,
+            data["source_regulation"],
+            data.get("source_country"),
+            data.get("regulation_version"),
+            data["control_code"],
+            control_code_norm,
+            data.get("category"),
+            data.get("sub_category"),
+            data["item_description"],
+            data.get("short_description"),
+            data.get("alternative_names"),
+            data.get("keywords"),
+            data.get("cas_number"),
+            int(data["is_military"]),
+            int(data["is_dual_use"]),
+            int(data["is_chemical"]),
+            int(data["is_biological"]),
+            int(data["is_nuclear"]),
+            int(data["is_missile"]),
+            int(data["end_use_control"]),
+            int(data["catch_all_control"]),
+            data.get("control_reason"),
+            data.get("license_requirement")
+        )
+
+        conn.commit()
+        print(f"[DB] Successfully inserted ExportControlItem {data['control_code']}")
+
+    except pyodbc.Error as e:
+        print(f"[DB][ERROR] Failed to insert ExportControlItem: {e}")
+
+    finally:
+        conn.close()
+        print("[DB] Connection closed")
+
+# def insert_tool_billing(data):
+#     conn = get_db_connection()
+#     cursor = conn.cursor()
+
+#     query = """
+#     INSERT INTO tool_billing
+#     (
+#         transaction_no,
+#         module,
+#         instrument_type,
+#         lifecycle,
+#         status,
+#         created_at,
+#         updated_at,
+#         userid,
+#         request_tokens,
+#         response_tokens
+#     )
+#     VALUES (?, ?, ?, ?, ?, GETDATE(), GETDATE(), ?, ?, ?)
+#     """
+
+#     cursor.execute(
+#         query,
+#         data["transaction_no"],
+#         data["module"],
+#         data["instrument_type"],
+#         data["lifecycle"],
+#         data["status"],
+#         data["userid"],
+#         data["request_tokens"],
+#         data["response_tokens"]
+#     )
+
+#     conn.commit()
+#     conn.close()
+
+# def insert_tool_billing(data: dict):
+#     """
+#     Inserts token usage per LLM call
+#     """
+#     conn = get_db_connection()
+#     cursor = conn.cursor()
+
+#     query = """
+#     INSERT INTO tool_billing
+#     (
+#         transaction_no,
+#         cifid,
+#         module,
+#         instrument_type,
+#         lifecycle,
+#         lc_number,
+#         variation,
+#         status,
+#         created_at,
+#         updated_at,
+#         userid,
+#         request_tokens,
+#         response_tokens
+#     )
+#     VALUES (?, ?, ?, ?, ?, ?, ?, ?, GETDATE(), GETDATE(), ?, ?, ?)
+#     """
+
+#     cursor.execute(
+#         query,
+#         data.get("transaction_no"),
+#         data.get("cifid"),
+#         data.get("module"),
+#         data.get("instrument_type"),
+#         data.get("lifecycle"),
+#         data.get("lc_number"),
+#         data.get("variation"),
+#         data.get("status"),
+#         data.get("userid"),
+#         data.get("request_tokens"),
+#         data.get("response_tokens")
+#     )
+
+#     conn.commit()
+#     conn.close()
+
+#     log_message(
+#         f"Tool billing inserted | TXN={data.get('transaction_no')} | "
+#         f"REQ={data.get('request_tokens')} | RESP={data.get('response_tokens')}",
+#         "SQL"
+#     )
+
+def insert_tool_billing(data: dict):
+    """
+    Inserts token usage per LLM call using stored procedure
+    """
+    try:
+        conn = get_db_connection()
+        cursor = conn.cursor()
+
+        print(
+            f"[DB] Inserting tool billing | TXN={data.get('transaction_no')} | "
+            f"REQ={data.get('request_tokens')} | RESP={data.get('response_tokens')}"
+        )
+
+        cursor.execute(
+            """
+            EXEC sp_InsertToolBilling
+                ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+            """,
+            data.get("transaction_no"),
+            data.get("cifid"),
+            data.get("module"),
+            data.get("instrument_type"),
+            data.get("lifecycle"),
+            data.get("lc_number"),
+            data.get("variation"),
+            data.get("status"),
+            data.get("userid"),
+            data.get("request_tokens"),
+            data.get("response_tokens")
+        )
+
+        conn.commit()
+        print("[DB] Tool billing inserted successfully")
+
+        log_message(
+            f"Tool billing inserted | TXN={data.get('transaction_no')} | "
+            f"REQ={data.get('request_tokens')} | RESP={data.get('response_tokens')}",
+            "SQL"
+        )
+
+    except pyodbc.Error as e:
+        print(f"[DB][ERROR] Tool billing insert failed: {e}")
+
+    finally:
+        conn.close()
+        print("[DB] Connection closed")
+
+        
+
+def insert_llm_request(data: dict) -> int:
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    query = """
+    INSERT INTO tool_llm_requests
+    (
+        transaction_no,
+        request_payload,
+        token_count,
+        UserID,
+        Model
+    )
+    OUTPUT INSERTED.request_id
+    VALUES (?, ?, ?, ?, ?)
+    """
+
+    cursor.execute(
+        query,
+        data["transaction_no"],
+        data["request_payload"],
+        data["token_count"],
+        data.get("userid"),
+        data.get("model")
+    )
+
+    request_id = cursor.fetchone()[0]
+    conn.commit()
+    conn.close()
+
+    log_message(f"LLM Request stored | REQ_ID={request_id}", "SQL")
+    return request_id
+
+
+def insert_llm_response(data: dict):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    query = """
+    INSERT INTO tool_llm_responses
+    (
+        transaction_no,
+        request_id,
+        response_payload,
+        token_count,
+        UserID,
+        Model
+    )
+    VALUES (?, ?, ?, ?, ?, ?)
+    """
+
+    cursor.execute(
+        query,
+        data["transaction_no"],
+        data["request_id"],
+        data["response_payload"],
+        data["token_count"],
+        data.get("userid"),
+        data.get("model")
+    )
+
+    conn.commit()
+    conn.close()
+
+    log_message(
+        f"LLM Response stored | REQ_ID={data['request_id']}",
+        "SQL"
+    )

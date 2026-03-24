@@ -1,0 +1,20 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Bill of Lading,Beneficiary Name,Tokyo Industries Co Ltd,American Trading Corp,Incorrect beneficiary name in Bill of Lading,High
+LC,Bill of Lading,Port of Loading,Yokohama,Sydney,Port of Loading mismatch,High
+LC,Bill of Lading,Port of Discharge,Sydney,Yokohama,Port of Discharge mismatch,High
+LC,Bill of Lading,Place of Final Delivery,Australia,Japan,Place of Final Delivery mismatch,High
+LC,Bill of Lading,Date of Issue,Not specified,"June 3, 2026",Date of Issue exceeds LC expiry date,High
+LC,Certificate of Origin,Country of Origin,Japan,Australia,Country of Origin mismatch,High
+LC,Certificate of Origin,Beneficiary Name,Tokyo Industries Co Ltd,American Trading Corp,Incorrect beneficiary name in Certificate of Origin,High
+LC,Certificate of Origin,Port of Loading,Yokohama,Sydney,Port of Loading mismatch,High
+LC,Certificate of Origin,Port of Discharge,Sydney,Yokohama,Port of Discharge mismatch,High
+LC,Certificate of Origin,Final Destination,Australia,Japan,Final Destination mismatch,High
+LC,Insurance Certificate,Policy Validity Start Date,"May 18, 2026","May 18, 2026",Missing alignment with LC shipment date,Medium
+LC,Packing List,Port of Loading,Yokohama,Sydney,Port of Loading mismatch,High
+LC,Packing List,Port of Discharge,Sydney,Yokohama,Port of Discharge mismatch,High
+LC,Packing List,Place of Final Delivery,Australia,Japan,Place of Final Delivery mismatch,High
+LC,Packing List,Gross Weight,Not specified,Not specified,Missing Gross Weight details,Medium
+LC,Packing List,Net Weight,Not specified,Not specified,Missing Net Weight details,Medium
+LC,Packing List,Dimensions,Not specified,Not specified,Missing Dimensions details,Medium
+LC,Quality Certificate,Place of Inspection,Not specified,"Sydney, Australia",Missing Place of Inspection in LC,Medium
+LC,Quality Certificate,Inspection Date,Not specified,"May 15, 2026",Missing Inspection Date in LC,Medium

@@ -1,0 +1,50 @@
+IMPORT BILLS FOR COLLECTION
+
+Collection Reference: IBC-2024-001122
+Collection Date: February 05, 2024
+
+Principal (Exporter):
+Eastern Metals Co Ltd
+Tokyo, 100-0005
+Japan
+
+Drawee (Importer):
+Steel Traders Pvt Ltd
+Mumbai, 400001
+India
+
+Remitting Bank:
+Bank of Tokyo
+Trade Finance Division
+Tokyo, Japan
+
+Collecting Bank:
+State Bank of India
+Mumbai Main Branch
+India
+
+Amount: JPY 95,000,000.00
+
+Collection Terms:
+Documents against Payment (D/P)
+
+Description of Goods:
+Steel Sheets – Cold Rolled
+As per Invoice No. INV-JP-2245 dated January 28, 2024
+
+Documents Enclosed:
+1. Commercial Invoice
+2. Bill of Lading
+3. Packing List
+4. Certificate of Origin
+
+Port of Loading: Yokohama, Japan
+Port of Discharge: Mumbai, India
+
+Governing Rules:
+URC 522
+
+Authorized Signature:
+_______________________
+Authorized Signatory
+Bank of Tokyo

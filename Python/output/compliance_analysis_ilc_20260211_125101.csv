@@ -1,0 +1,19 @@
+Base Document,Target Document,Field(s),Base Value,Target Value,Issue,Severity Level
+LC,Bill Of Exchange.txt,L/C Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Bill Of Exchange.txt,Amount,"USD 60,465.00","USD 60,465.00",Match,Low
+LC,Bill Of Exchange.txt,Tenor,180 Days After B/L Date,180 Days After B/L Date,Match,Low
+LC,Bill Of Lading.txt,L/C Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Bill Of Lading.txt,Port of Loading,Any Seaport in Japan,"Yokohama, Japan",Discrepancy,Medium
+LC,Bill Of Lading.txt,Port of Discharge,"Any Seaport in Abu Dhabi, UAE",Abu Dhabi Seaport,Match,Low
+LC,Cites Permit Certificate.txt,Invoice Number,B7WE-20-5130-X,B7WE-20-5130-X,Match,Low
+LC,Cites Permit Certificate.txt,L/C Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Commercial Invoice.txt,Invoice Number,B7WE-20-5130-X,B7WE-20-5130-X,Match,Low
+LC,Commercial Invoice.txt,L/C Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Export Import License.txt,L/C Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Export Import License.txt,Vessel Age,Less than 25 years,Less than 25 years,Match,Low
+LC,Non Preferential Certificate.txt,Invoice Number,B7WE-20-5130-X,B7WE-20-5130-X,Match,Low
+LC,Non Preferential Certificate.txt,L/C Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Packing List.txt,Invoice Number,B7WE-20-5130-X,B7WE-20-5130-X,Match,Low
+LC,Packing List.txt,L/C Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Unknown.txt,L/C Number,ILCAE00221000098,ILCAE00221000098,Match,Low
+LC,Unknown.txt,Vessel Age,Less than 25 years,Less than 25 years,Match,Low
